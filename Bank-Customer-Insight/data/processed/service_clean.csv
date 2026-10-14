@@ -1,0 +1,1972 @@
+service_id,customer_id,request_date,request_type,is_complaint,resolution_status,resolution_days
+S00000001,C000001,2025-02-05,Card support,False,Resolved,2.2
+S00000002,C000003,2025-11-06,Account inquiry,False,Resolved,2.5
+S00000003,C000003,2025-07-11,Payments,True,Resolved,0.6
+S00000004,C000004,2025-03-15,Card support,False,Resolved,4.4
+S00000005,C000005,2025-09-17,Card support,False,Resolved,6.8
+S00000006,C000006,2025-07-15,Digital access,False,Unknown,2.3
+S00000007,C000007,2025-08-24,Loan service,True,Resolved,1.5
+S00000008,C000008,2025-11-08,Loan service,False,Resolved,0.2
+S00000009,C000008,2025-12-26,Account inquiry,False,Resolved,4.2
+S00000010,C000008,2025-10-31,Card support,False,Resolved,5.9
+S00000011,C000008,2025-12-11,Digital access,False,Resolved,3.0
+S00000012,C000009,2025-12-28,Digital access,False,Resolved,0.8
+S00000013,C000009,2025-03-24,Payments,False,Resolved,2.9
+S00000014,C000009,2025-03-11,Payments,False,Escalated,3.8
+S00000015,C000010,2025-01-12,Digital access,True,Escalated,0.9
+S00000016,C000011,2025-08-25,Loan service,False,Resolved,3.1
+S00000017,C000014,2025-04-17,Payments,False,Pending,2.9
+S00000018,C000014,2025-07-14,Account inquiry,True,Resolved,1.6
+S00000019,C000014,2025-07-05,Card support,True,Resolved,1.6
+S00000020,C000015,2025-12-31,Loan service,False,Resolved,1.6
+S00000021,C000015,2025-04-02,Card support,False,Pending,4.3
+S00000022,C000015,2025-11-22,Account inquiry,True,Resolved,0.9
+S00000023,C000016,2025-01-11,Digital access,False,Resolved,1.1
+S00000024,C000016,2025-05-19,Card support,True,Resolved,8.3
+S00000025,C000017,2025-02-12,Digital access,False,Resolved,10.4
+S00000026,C000018,2025-08-02,Payments,False,Resolved,2.1
+S00000027,C000018,2025-01-15,Account inquiry,False,Unknown,5.3
+S00000028,C000019,2025-04-25,Card support,False,Resolved,2.2
+S00000029,C000019,2025-10-21,Card support,True,Resolved,0.8
+S00000030,C000020,2025-04-10,Card support,True,Resolved,3.0
+S00000031,C000020,2025-03-28,Digital access,True,Resolved,5.8
+S00000032,C000020,2025-08-31,Digital access,False,Unknown,3.6
+S00000033,C000021,2025-05-05,Loan service,True,Pending,8.5
+S00000034,C000021,2025-11-04,Loan service,False,Unknown,4.2
+S00000035,C000023,2025-09-29,Card support,False,Resolved,4.8
+S00000036,C000025,2025-12-27,Account inquiry,False,Resolved,5.9
+S00000037,C000025,2025-07-28,Account inquiry,False,Resolved,7.0
+S00000038,C000026,2025-03-03,Digital access,False,Pending,1.8
+S00000039,C000027,2025-08-20,Card support,False,Resolved,7.3
+S00000040,C000027,2025-01-21,Loan service,True,Resolved,1.7
+S00000041,C000028,2025-05-13,Card support,True,Resolved,6.8
+S00000042,C000029,2025-08-25,Payments,False,Resolved,3.8
+S00000043,C000029,2025-08-05,Unspecified,True,Escalated,1.7
+S00000044,C000030,2025-01-03,Card support,True,Resolved,0.3
+S00000045,C000031,2025-09-18,Card support,False,Resolved,6.2
+S00000046,C000031,2025-08-17,Card support,False,Escalated,3.6
+S00000047,C000031,2025-10-19,Unspecified,True,Resolved,2.4
+S00000048,C000031,2025-09-20,Account inquiry,False,Resolved,1.3
+S00000049,C000032,2025-10-17,Card support,False,Resolved,0.3
+S00000050,C000033,2025-02-01,Loan service,False,Pending,0.8
+S00000051,C000034,2025-07-30,Unspecified,True,Resolved,5.8
+S00000052,C000036,2025-10-10,Account inquiry,False,Resolved,4.8
+S00000053,C000037,2025-07-30,Account inquiry,False,Resolved,2.3
+S00000054,C000037,2025-12-06,Card support,False,Resolved,1.0
+S00000055,C000037,2025-11-27,Digital access,True,Resolved,3.0
+S00000056,C000039,2025-11-06,Digital access,False,Resolved,1.4
+S00000057,C000039,2025-09-21,Loan service,True,Resolved,2.6
+S00000058,C000041,2025-09-14,Payments,False,Resolved,4.5
+S00000059,C000042,2025-08-23,Account inquiry,False,Unknown,6.2
+S00000060,C000044,2025-09-01,Payments,False,Resolved,3.6
+S00000061,C000045,2025-06-12,Payments,False,Unknown,3.0
+S00000062,C000045,2025-05-04,Loan service,False,Escalated,2.5
+S00000063,C000046,2025-03-01,Loan service,True,Pending,5.9
+S00000064,C000046,2025-09-01,Card support,False,Resolved,2.9
+S00000065,C000047,2025-10-22,Card support,False,Resolved,4.6
+S00000066,C000047,2025-02-05,Loan service,False,Resolved,0.8
+S00000067,C000048,2025-05-03,Digital access,False,Resolved,3.0
+S00000068,C000048,2025-10-03,Loan service,False,Resolved,2.0
+S00000069,C000049,2025-05-25,Digital access,False,Resolved,4.5
+S00000070,C000049,2025-08-28,Account inquiry,True,Resolved,4.3
+S00000071,C000050,2025-07-12,Loan service,False,Resolved,8.4
+S00000072,C000050,2025-07-02,Account inquiry,False,Resolved,3.0
+S00000073,C000051,2025-05-03,Payments,True,Escalated,0.9
+S00000074,C000051,2025-05-19,Account inquiry,True,Resolved,7.0
+S00000075,C000052,2025-04-18,Payments,False,Pending,0.8
+S00000076,C000054,2025-05-28,Loan service,False,Resolved,3.0
+S00000077,C000054,2025-12-07,Payments,False,Escalated,1.4
+S00000078,C000054,2025-09-08,Card support,False,Resolved,3.5
+S00000079,C000054,2025-05-30,Account inquiry,False,Pending,2.9
+S00000080,C000054,2025-10-22,Payments,False,Pending,4.0
+S00000081,C000056,2025-12-08,Unspecified,True,Resolved,2.6
+S00000082,C000057,2025-03-23,Card support,True,Resolved,6.5
+S00000083,C000059,2025-09-16,Card support,True,Resolved,6.3
+S00000084,C000060,2025-10-19,Card support,False,Resolved,2.2
+S00000085,C000061,2025-12-09,Loan service,False,Resolved,1.8
+S00000086,C000061,2025-04-30,Card support,False,Resolved,3.2
+S00000087,C000061,2025-06-04,Card support,False,Resolved,3.0
+S00000088,C000062,2025-03-02,Account inquiry,False,Pending,2.9
+S00000089,C000062,2025-04-30,Account inquiry,False,Resolved,7.3
+S00000090,C000062,2025-07-05,Card support,False,Pending,2.8
+S00000091,C000064,2025-02-22,Digital access,True,Resolved,5.5
+S00000092,C000064,2025-05-28,Loan service,False,Resolved,2.9
+S00000093,C000064,2025-08-24,Payments,True,Resolved,5.5
+S00000094,C000064,2025-04-01,Card support,True,Resolved,2.9
+S00000095,C000065,2025-06-07,Account inquiry,False,Resolved,1.7
+S00000096,C000066,2025-10-21,Account inquiry,False,Escalated,2.8
+S00000097,C000066,2025-07-11,Digital access,True,Pending,3.0
+S00000098,C000067,2025-09-30,Digital access,False,Resolved,0.3
+S00000099,C000070,2025-06-29,Card support,False,Escalated,3.0
+S00000100,C000070,2025-01-31,Account inquiry,False,Resolved,5.0
+S00000101,C000071,2025-03-03,Loan service,False,Resolved,2.5
+S00000102,C000071,2025-08-19,Loan service,True,Resolved,2.8
+S00000103,C000071,2025-03-17,Loan service,False,Resolved,3.0
+S00000104,C000072,2025-09-23,Payments,False,Resolved,1.5
+S00000105,C000073,2025-08-28,Card support,False,Resolved,3.7
+S00000106,C000073,2025-09-20,Payments,False,Escalated,1.4
+S00000107,C000073,2025-11-13,Loan service,False,Escalated,7.3
+S00000108,C000074,2025-07-26,Account inquiry,True,Pending,3.0
+S00000109,C000074,2025-11-05,Loan service,False,Resolved,3.3
+S00000110,C000075,2025-03-03,Account inquiry,False,Resolved,2.7
+S00000111,C000075,2025-09-18,Digital access,False,Pending,0.4
+S00000112,C000075,2025-08-09,Unspecified,True,Resolved,6.1
+S00000113,C000076,2025-05-25,Digital access,False,Resolved,9.2
+S00000114,C000076,2025-11-09,Payments,False,Resolved,0.7
+S00000115,C000076,2025-04-05,Card support,False,Resolved,0.9
+S00000116,C000077,2025-10-16,Digital access,False,Resolved,1.7
+S00000117,C000077,2025-01-07,Account inquiry,False,Resolved,0.8
+S00000118,C000077,2025-09-20,Digital access,False,Escalated,2.5
+S00000119,C000077,2025-12-01,Loan service,True,Pending,5.2
+S00000120,C000078,2025-01-31,Digital access,True,Escalated,1.3
+S00000121,C000078,2025-01-27,Loan service,True,Resolved,0.9
+S00000122,C000078,2025-10-27,Account inquiry,False,Resolved,1.5
+S00000123,C000079,2025-09-23,Card support,True,Unknown,3.3
+S00000124,C000080,2025-07-19,Digital access,False,Resolved,3.1
+S00000125,C000080,2025-07-08,Loan service,False,Unknown,1.7
+S00000126,C000080,2025-04-05,Card support,False,Resolved,5.1
+S00000127,C000080,2025-07-03,Card support,False,Resolved,0.8
+S00000128,C000080,2025-07-24,Account inquiry,False,Resolved,1.8
+S00000129,C000080,2025-05-19,Account inquiry,False,Resolved,4.6
+S00000130,C000081,2025-07-17,Account inquiry,True,Pending,3.1
+S00000131,C000082,2025-07-23,Payments,False,Resolved,2.8
+S00000132,C000082,2025-05-13,Loan service,False,Resolved,2.1
+S00000133,C000083,2025-01-19,Account inquiry,True,Resolved,3.0
+S00000134,C000083,2025-09-09,Payments,False,Resolved,1.8
+S00000135,C000083,2025-11-28,Payments,False,Resolved,7.2
+S00000136,C000084,2025-03-30,Card support,False,Unknown,3.0
+S00000137,C000084,2025-12-26,Payments,True,Resolved,0.6
+S00000138,C000084,2025-07-07,Loan service,False,Pending,1.9
+S00000139,C000084,2025-01-19,Digital access,True,Unknown,4.7
+S00000140,C000085,2025-10-14,Digital access,True,Resolved,6.2
+S00000141,C000085,2025-12-23,Unspecified,True,Unknown,5.0
+S00000142,C000085,2025-10-01,Digital access,True,Resolved,5.8
+S00000143,C000086,2025-11-13,Account inquiry,False,Resolved,0.4
+S00000144,C000087,2025-12-12,Digital access,False,Resolved,2.8
+S00000145,C000089,2025-01-27,Card support,True,Resolved,3.0
+S00000146,C000089,2025-12-30,Unspecified,True,Resolved,1.1
+S00000147,C000090,2025-09-01,Account inquiry,True,Resolved,3.0
+S00000148,C000090,2025-09-14,Digital access,False,Escalated,3.0
+S00000149,C000091,2025-04-19,Loan service,False,Resolved,1.6
+S00000150,C000091,2025-06-16,Account inquiry,True,Resolved,0.4
+S00000151,C000091,2025-12-13,Digital access,True,Resolved,2.1
+S00000152,C000092,2025-07-30,Card support,True,Pending,2.8
+S00000153,C000093,2025-10-17,Digital access,False,Resolved,3.0
+S00000154,C000094,2025-10-09,Account inquiry,False,Resolved,2.2
+S00000155,C000094,2025-03-26,Card support,True,Pending,10.4
+S00000156,C000094,2025-09-29,Card support,True,Resolved,2.0
+S00000157,C000095,2025-07-23,Payments,False,Pending,6.3
+S00000158,C000095,2025-07-25,Loan service,False,Resolved,5.7
+S00000159,C000095,2025-03-03,Account inquiry,False,Resolved,2.1
+S00000160,C000095,2025-09-06,Account inquiry,True,Resolved,6.6
+S00000161,C000096,2025-04-14,Payments,False,Unknown,0.5
+S00000162,C000097,2025-08-26,Digital access,False,Resolved,1.5
+S00000163,C000099,2025-10-08,Payments,False,Resolved,9.0
+S00000164,C000099,2025-06-22,Card support,False,Escalated,1.2
+S00000165,C000099,2025-05-29,Loan service,False,Resolved,1.8
+S00000166,C000099,2025-10-25,Account inquiry,False,Pending,4.6
+S00000167,C000100,2025-07-23,Digital access,False,Escalated,2.8
+S00000168,C000101,2025-12-03,Account inquiry,True,Resolved,3.0
+S00000169,C000102,2025-06-12,Account inquiry,False,Pending,6.5
+S00000170,C000102,2025-03-09,Payments,False,Resolved,4.8
+S00000171,C000103,2025-03-25,Digital access,False,Resolved,3.4
+S00000172,C000105,2025-12-18,Payments,False,Resolved,1.4
+S00000173,C000106,2025-09-01,Card support,False,Resolved,2.3
+S00000174,C000108,2025-12-06,Account inquiry,False,Pending,1.0
+S00000175,C000108,2025-04-25,Digital access,False,Resolved,4.4
+S00000176,C000109,2025-04-01,Payments,False,Resolved,3.0
+S00000177,C000109,2025-05-13,Loan service,False,Resolved,1.5
+S00000178,C000110,2025-03-13,Digital access,False,Resolved,1.7
+S00000179,C000110,2025-01-30,Card support,True,Resolved,2.4
+S00000180,C000111,2025-11-22,Card support,False,Escalated,4.2
+S00000181,C000111,2025-06-16,Card support,True,Escalated,3.7
+S00000182,C000113,2025-10-30,Loan service,True,Pending,4.1
+S00000183,C000113,2025-12-06,Account inquiry,False,Resolved,1.9
+S00000184,C000113,2025-05-27,Card support,True,Resolved,0.4
+S00000185,C000113,2025-05-09,Account inquiry,False,Resolved,1.1
+S00000186,C000115,2025-01-03,Loan service,False,Escalated,3.0
+S00000187,C000116,2025-11-09,Card support,False,Resolved,2.8
+S00000188,C000119,2025-08-14,Digital access,False,Pending,0.4
+S00000189,C000120,2025-08-13,Account inquiry,False,Resolved,1.7
+S00000190,C000120,2025-10-02,Loan service,True,Pending,2.8
+S00000191,C000122,2025-12-02,Digital access,False,Pending,1.9
+S00000192,C000122,2025-07-07,Card support,False,Resolved,3.0
+S00000193,C000122,2025-11-07,Loan service,False,Resolved,2.3
+S00000194,C000124,2025-05-02,Account inquiry,False,Pending,2.6
+S00000195,C000124,2025-07-19,Loan service,False,Resolved,7.6
+S00000196,C000125,2025-08-28,Digital access,False,Unknown,5.0
+S00000197,C000126,2025-10-11,Loan service,False,Resolved,3.5
+S00000198,C000126,2025-03-02,Account inquiry,False,Resolved,0.4
+S00000199,C000126,2025-06-30,Payments,True,Resolved,5.6
+S00000200,C000127,2025-07-24,Loan service,False,Resolved,9.8
+S00000201,C000127,2025-09-15,Card support,True,Escalated,3.0
+S00000202,C000127,2025-02-20,Account inquiry,False,Pending,3.7
+S00000203,C000128,2025-01-12,Payments,False,Escalated,2.3
+S00000204,C000128,2025-10-10,Payments,False,Escalated,6.5
+S00000205,C000129,2025-04-09,Digital access,False,Resolved,2.3
+S00000206,C000129,2025-02-10,Card support,False,Resolved,4.3
+S00000207,C000129,2025-12-25,Loan service,False,Resolved,0.8
+S00000208,C000129,2025-04-29,Account inquiry,True,Resolved,3.1
+S00000209,C000129,2025-04-14,Payments,True,Resolved,2.8
+S00000210,C000130,2025-10-28,Account inquiry,False,Escalated,6.4
+S00000211,C000131,2025-11-21,Card support,False,Resolved,3.9
+S00000212,C000133,2025-11-08,Loan service,False,Resolved,3.0
+S00000213,C000133,2025-08-31,Account inquiry,False,Resolved,8.5
+S00000214,C000133,2025-07-06,Loan service,False,Resolved,3.3
+S00000215,C000134,2025-01-30,Digital access,False,Pending,3.9
+S00000216,C000134,2025-07-12,Loan service,False,Unknown,1.7
+S00000217,C000135,2025-05-29,Card support,False,Resolved,4.0
+S00000218,C000135,2025-05-08,Account inquiry,False,Resolved,2.9
+S00000219,C000135,2025-08-02,Account inquiry,False,Resolved,1.7
+S00000220,C000136,2025-07-16,Card support,False,Resolved,1.6
+S00000221,C000136,2025-11-24,Loan service,False,Unknown,4.0
+S00000222,C000137,2025-10-27,Digital access,False,Pending,3.1
+S00000223,C000137,2025-12-31,Card support,False,Resolved,3.1
+S00000224,C000137,2025-11-14,Payments,False,Unknown,1.5
+S00000225,C000138,2025-08-31,Digital access,False,Resolved,4.3
+S00000226,C000139,2025-01-11,Digital access,False,Unknown,2.8
+S00000227,C000139,2025-05-05,Loan service,False,Resolved,1.2
+S00000228,C000139,2025-03-02,Digital access,True,Resolved,2.8
+S00000229,C000139,2025-11-16,Loan service,True,Resolved,8.4
+S00000230,C000141,2025-11-07,Digital access,False,Escalated,0.4
+S00000231,C000141,2025-04-20,Payments,False,Escalated,1.6
+S00000232,C000141,2025-12-11,Card support,False,Resolved,0.5
+S00000233,C000143,2025-07-13,Payments,False,Resolved,7.7
+S00000234,C000144,2025-07-06,Card support,False,Resolved,3.2
+S00000235,C000144,2025-10-18,Account inquiry,True,Resolved,2.4
+S00000236,C000144,2025-07-19,Account inquiry,True,Resolved,3.0
+S00000237,C000145,2025-06-22,Account inquiry,True,Resolved,3.9
+S00000238,C000145,2025-09-02,Card support,False,Unknown,2.8
+S00000239,C000145,2025-05-19,Card support,False,Pending,3.7
+S00000240,C000145,2025-01-22,Card support,False,Resolved,4.0
+S00000241,C000145,2025-02-13,Payments,False,Resolved,2.0
+S00000242,C000146,2025-11-24,Payments,False,Resolved,12.1
+S00000243,C000146,2025-05-22,Account inquiry,True,Resolved,10.3
+S00000244,C000147,2025-05-30,Account inquiry,False,Resolved,4.2
+S00000245,C000147,2025-02-22,Card support,False,Resolved,1.6
+S00000246,C000147,2025-11-02,Loan service,False,Resolved,8.6
+S00000247,C000147,2025-11-15,Payments,False,Resolved,9.8
+S00000248,C000148,2025-02-07,Loan service,False,Resolved,2.0
+S00000249,C000148,2025-03-28,Payments,False,Pending,9.9
+S00000250,C000148,2025-09-26,Account inquiry,False,Resolved,2.4
+S00000251,C000149,2025-10-18,Payments,False,Resolved,6.5
+S00000252,C000149,2025-11-15,Payments,True,Escalated,1.1
+S00000253,C000150,2025-07-06,Payments,False,Resolved,1.6
+S00000254,C000150,2025-11-07,Payments,True,Resolved,3.0
+S00000255,C000151,2025-12-10,Digital access,False,Resolved,5.9
+S00000256,C000151,2025-11-26,Digital access,True,Unknown,1.9
+S00000257,C000152,2025-05-29,Card support,False,Resolved,2.3
+S00000258,C000152,2025-10-10,Payments,False,Escalated,3.7
+S00000259,C000152,2025-07-25,Digital access,False,Resolved,0.6
+S00000260,C000153,2025-02-25,Card support,False,Resolved,2.7
+S00000261,C000153,2025-02-03,Account inquiry,True,Pending,4.2
+S00000262,C000153,2025-01-23,Unspecified,True,Resolved,4.0
+S00000263,C000153,2025-04-07,Card support,True,Resolved,2.1
+S00000264,C000154,2025-02-19,Unspecified,True,Resolved,3.5
+S00000265,C000154,2025-06-18,Payments,True,Pending,2.1
+S00000266,C000155,2025-11-23,Digital access,False,Resolved,4.4
+S00000267,C000155,2025-05-09,Payments,False,Pending,5.2
+S00000268,C000155,2025-08-08,Loan service,False,Resolved,1.8
+S00000269,C000157,2025-08-30,Account inquiry,False,Resolved,1.2
+S00000270,C000159,2025-10-05,Digital access,True,Resolved,3.7
+S00000271,C000159,2025-08-31,Card support,False,Escalated,2.9
+S00000272,C000160,2025-09-22,Loan service,False,Pending,4.8
+S00000273,C000160,2025-05-27,Card support,True,Resolved,1.4
+S00000274,C000160,2025-11-01,Card support,False,Resolved,8.2
+S00000275,C000162,2025-06-16,Account inquiry,False,Pending,3.0
+S00000276,C000162,2025-03-24,Digital access,True,Resolved,3.1
+S00000277,C000163,2025-11-26,Loan service,False,Resolved,3.1
+S00000278,C000163,2025-06-14,Account inquiry,False,Resolved,9.2
+S00000279,C000163,2025-08-15,Account inquiry,False,Resolved,3.8
+S00000280,C000163,2025-07-04,Digital access,False,Resolved,4.7
+S00000281,C000165,2025-02-18,Loan service,False,Resolved,1.0
+S00000282,C000166,2025-04-23,Payments,True,Resolved,3.0
+S00000283,C000166,2025-06-21,Payments,False,Resolved,2.0
+S00000284,C000167,2025-04-29,Account inquiry,False,Resolved,3.1
+S00000285,C000168,2025-12-09,Loan service,False,Resolved,4.6
+S00000286,C000169,2025-03-22,Digital access,False,Resolved,4.0
+S00000287,C000170,2025-05-04,Digital access,False,Resolved,1.1
+S00000288,C000171,2025-04-02,Digital access,False,Pending,3.7
+S00000289,C000171,2025-12-07,Digital access,False,Resolved,17.7
+S00000290,C000173,2025-08-28,Card support,True,Resolved,4.5
+S00000291,C000173,2025-08-06,Loan service,False,Resolved,11.2
+S00000292,C000174,2025-05-16,Account inquiry,True,Resolved,3.2
+S00000293,C000174,2025-08-04,Payments,False,Unknown,9.0
+S00000294,C000175,2025-04-25,Card support,False,Resolved,3.5
+S00000295,C000175,2025-05-17,Card support,False,Resolved,0.7
+S00000296,C000175,2025-11-07,Digital access,True,Resolved,2.6
+S00000297,C000176,2025-04-11,Digital access,True,Pending,1.6
+S00000298,C000176,2025-12-30,Card support,False,Resolved,1.9
+S00000299,C000176,2025-11-10,Payments,False,Resolved,0.6
+S00000300,C000177,2025-07-25,Loan service,False,Resolved,2.9
+S00000301,C000177,2025-03-27,Unspecified,True,Resolved,3.3
+S00000302,C000178,2025-08-13,Account inquiry,False,Pending,6.2
+S00000303,C000179,2025-04-25,Account inquiry,False,Resolved,1.9
+S00000304,C000179,2025-11-17,Account inquiry,False,Resolved,7.2
+S00000305,C000180,2025-09-29,Digital access,True,Pending,2.6
+S00000306,C000181,2025-06-07,Account inquiry,False,Resolved,0.9
+S00000307,C000182,2025-05-20,Unspecified,True,Unknown,0.9
+S00000308,C000182,2025-10-20,Loan service,False,Escalated,4.7
+S00000309,C000183,2025-05-05,Digital access,False,Resolved,0.9
+S00000310,C000184,2025-11-14,Account inquiry,True,Escalated,2.8
+S00000311,C000184,2025-03-13,Payments,True,Resolved,3.0
+S00000312,C000184,2025-01-15,Payments,False,Resolved,2.9
+S00000313,C000184,2025-04-29,Card support,False,Unknown,0.9
+S00000314,C000184,2025-02-04,Digital access,True,Unknown,3.0
+S00000315,C000185,2025-01-01,Card support,True,Resolved,3.4
+S00000316,C000185,2025-10-29,Digital access,True,Resolved,2.9
+S00000317,C000186,2025-09-10,Account inquiry,True,Resolved,3.4
+S00000318,C000187,2025-09-23,Account inquiry,False,Resolved,2.2
+S00000319,C000188,2025-12-14,Account inquiry,True,Resolved,3.0
+S00000320,C000188,2025-09-19,Loan service,False,Resolved,3.6
+S00000321,C000188,2025-12-29,Card support,False,Resolved,0.6
+S00000322,C000188,2025-03-25,Payments,True,Unknown,5.1
+S00000323,C000189,2025-09-06,Card support,True,Resolved,3.4
+S00000324,C000190,2025-01-03,Card support,False,Unknown,3.6
+S00000325,C000191,2025-07-29,Account inquiry,False,Escalated,3.3
+S00000326,C000191,2025-11-03,Card support,False,Escalated,2.7
+S00000327,C000192,2025-01-19,Digital access,True,Resolved,2.5
+S00000328,C000193,2025-02-10,Account inquiry,True,Pending,5.5
+S00000329,C000194,2025-08-03,Loan service,False,Resolved,1.0
+S00000330,C000194,2025-10-27,Card support,False,Pending,2.3
+S00000331,C000195,2025-04-17,Digital access,False,Resolved,6.7
+S00000332,C000196,2025-06-22,Account inquiry,False,Unknown,4.0
+S00000333,C000196,2025-05-14,Digital access,False,Pending,3.0
+S00000334,C000197,2025-09-05,Payments,False,Resolved,1.0
+S00000335,C000197,2025-07-26,Account inquiry,False,Resolved,3.1
+S00000336,C000197,2025-12-12,Digital access,True,Unknown,4.0
+S00000337,C000198,2025-09-11,Card support,False,Resolved,3.8
+S00000338,C000199,2025-01-27,Payments,True,Resolved,3.0
+S00000339,C000199,2025-11-24,Payments,True,Resolved,1.8
+S00000340,C000200,2025-11-02,Account inquiry,False,Escalated,2.9
+S00000341,C000201,2025-02-20,Loan service,True,Resolved,1.0
+S00000342,C000202,2025-09-15,Loan service,False,Resolved,1.3
+S00000343,C000202,2025-08-16,Digital access,False,Resolved,3.2
+S00000344,C000202,2025-10-19,Card support,False,Escalated,6.5
+S00000345,C000203,2025-11-08,Account inquiry,True,Resolved,2.3
+S00000346,C000203,2025-06-27,Payments,False,Resolved,3.0
+S00000347,C000204,2025-07-05,Payments,True,Resolved,3.7
+S00000348,C000205,2025-06-02,Account inquiry,True,Unknown,3.0
+S00000349,C000206,2025-03-06,Account inquiry,False,Resolved,4.8
+S00000350,C000206,2025-09-08,Digital access,True,Resolved,2.2
+S00000351,C000206,2025-01-07,Loan service,False,Unknown,1.2
+S00000352,C000206,2025-10-25,Account inquiry,False,Pending,11.5
+S00000353,C000207,2025-06-12,Loan service,False,Resolved,6.4
+S00000354,C000207,2025-12-24,Account inquiry,False,Resolved,2.6
+S00000355,C000207,2025-02-27,Payments,False,Resolved,2.6
+S00000356,C000208,2025-07-06,Account inquiry,False,Resolved,4.8
+S00000357,C000208,2025-08-24,Loan service,True,Pending,6.2
+S00000358,C000208,2025-01-31,Account inquiry,False,Resolved,2.3
+S00000359,C000209,2025-05-12,Digital access,False,Resolved,3.0
+S00000360,C000211,2025-02-02,Loan service,False,Resolved,3.5
+S00000361,C000212,2025-08-31,Digital access,True,Resolved,0.8
+S00000362,C000213,2025-12-12,Account inquiry,True,Resolved,2.6
+S00000363,C000213,2025-11-05,Card support,False,Escalated,0.4
+S00000364,C000213,2025-09-23,Digital access,True,Resolved,3.3
+S00000365,C000213,2025-05-22,Loan service,True,Resolved,3.0
+S00000366,C000215,2025-04-22,Payments,False,Resolved,8.4
+S00000367,C000216,2025-05-17,Digital access,False,Pending,3.8
+S00000368,C000216,2025-06-13,Payments,True,Escalated,1.8
+S00000369,C000219,2025-04-21,Card support,False,Resolved,1.9
+S00000370,C000219,2025-02-03,Payments,False,Resolved,0.7
+S00000371,C000219,2025-06-08,Account inquiry,False,Resolved,5.9
+S00000372,C000221,2025-11-30,Loan service,False,Pending,1.2
+S00000373,C000221,2025-12-20,Account inquiry,False,Escalated,6.9
+S00000374,C000221,2025-06-24,Unspecified,True,Resolved,4.0
+S00000375,C000221,2025-10-17,Account inquiry,True,Escalated,2.7
+S00000376,C000222,2025-11-07,Card support,False,Resolved,4.4
+S00000377,C000222,2025-05-31,Loan service,False,Resolved,1.8
+S00000378,C000222,2025-05-04,Loan service,True,Resolved,0.8
+S00000379,C000223,2025-09-17,Card support,False,Resolved,3.6
+S00000380,C000223,2025-07-13,Account inquiry,False,Resolved,4.4
+S00000381,C000224,2025-06-20,Account inquiry,True,Resolved,2.7
+S00000382,C000225,2025-01-21,Loan service,True,Escalated,2.9
+S00000383,C000226,2025-09-22,Card support,False,Pending,12.8
+S00000384,C000227,2025-12-06,Loan service,False,Resolved,0.4
+S00000385,C000229,2025-07-24,Card support,False,Unknown,0.6
+S00000386,C000231,2025-11-08,Payments,True,Resolved,0.9
+S00000387,C000232,2025-04-26,Account inquiry,True,Pending,6.0
+S00000388,C000232,2025-09-11,Card support,False,Resolved,3.0
+S00000389,C000232,2025-04-03,Loan service,False,Pending,1.6
+S00000390,C000233,2025-08-09,Card support,False,Resolved,6.1
+S00000391,C000233,2025-10-21,Payments,True,Resolved,5.6
+S00000392,C000235,2025-07-24,Loan service,False,Resolved,2.5
+S00000393,C000236,2025-05-11,Card support,False,Resolved,0.6
+S00000394,C000236,2025-07-09,Card support,False,Resolved,3.0
+S00000395,C000237,2025-02-25,Digital access,False,Pending,2.8
+S00000396,C000237,2025-11-21,Card support,False,Resolved,5.3
+S00000397,C000238,2025-09-06,Card support,False,Resolved,3.6
+S00000398,C000238,2025-12-18,Loan service,False,Escalated,7.3
+S00000399,C000240,2025-10-03,Card support,True,Resolved,3.1
+S00000400,C000241,2025-07-06,Payments,False,Resolved,1.4
+S00000401,C000241,2025-02-04,Loan service,False,Resolved,4.0
+S00000402,C000242,2025-03-22,Card support,True,Escalated,0.8
+S00000403,C000242,2025-06-09,Card support,False,Resolved,2.1
+S00000404,C000243,2025-04-19,Payments,False,Resolved,3.9
+S00000405,C000243,2025-06-23,Loan service,True,Resolved,3.0
+S00000406,C000243,2025-10-01,Payments,False,Pending,3.0
+S00000407,C000243,2025-06-28,Digital access,False,Resolved,11.0
+S00000408,C000245,2025-07-07,Card support,False,Resolved,6.5
+S00000409,C000245,2025-01-25,Card support,True,Pending,9.3
+S00000410,C000245,2025-09-18,Digital access,False,Resolved,1.9
+S00000411,C000245,2025-05-17,Card support,False,Resolved,2.2
+S00000412,C000247,2025-06-28,Loan service,False,Resolved,1.1
+S00000413,C000247,2025-05-08,Account inquiry,False,Resolved,4.7
+S00000414,C000247,2025-02-23,Card support,False,Resolved,4.9
+S00000415,C000249,2025-06-15,Loan service,True,Resolved,3.6
+S00000416,C000250,2025-07-03,Digital access,False,Resolved,0.8
+S00000417,C000250,2025-11-19,Payments,False,Resolved,2.5
+S00000418,C000251,2025-06-29,Loan service,True,Resolved,10.0
+S00000419,C000252,2025-09-17,Payments,True,Resolved,4.2
+S00000420,C000254,2025-08-07,Digital access,False,Resolved,2.3
+S00000421,C000254,2025-02-25,Unspecified,True,Resolved,3.8
+S00000422,C000256,2025-05-01,Card support,False,Resolved,1.3
+S00000423,C000257,2025-05-16,Account inquiry,False,Resolved,3.0
+S00000424,C000257,2025-09-09,Card support,False,Resolved,4.9
+S00000425,C000257,2025-11-15,Account inquiry,False,Resolved,1.4
+S00000426,C000258,2025-02-11,Payments,True,Unknown,3.3
+S00000427,C000258,2025-10-08,Card support,True,Resolved,0.5
+S00000428,C000258,2025-12-28,Card support,False,Resolved,0.6
+S00000429,C000259,2025-09-28,Loan service,True,Pending,3.0
+S00000430,C000259,2025-10-08,Card support,True,Pending,0.8
+S00000431,C000259,2025-11-11,Payments,False,Resolved,2.9
+S00000432,C000259,2025-05-14,Payments,False,Resolved,3.5
+S00000433,C000260,2025-08-07,Loan service,False,Pending,9.8
+S00000434,C000261,2025-05-14,Payments,False,Resolved,0.9
+S00000435,C000261,2025-09-26,Payments,False,Resolved,1.2
+S00000436,C000262,2025-06-19,Digital access,False,Resolved,2.9
+S00000437,C000263,2025-07-03,Unspecified,True,Resolved,1.1
+S00000438,C000263,2025-10-01,Loan service,False,Resolved,4.1
+S00000439,C000263,2025-05-07,Card support,False,Resolved,4.3
+S00000440,C000264,2025-09-26,Account inquiry,True,Resolved,7.6
+S00000441,C000265,2025-05-07,Payments,False,Resolved,4.2
+S00000442,C000265,2025-05-25,Account inquiry,False,Escalated,2.2
+S00000443,C000266,2025-06-30,Digital access,True,Resolved,1.8
+S00000444,C000266,2025-04-24,Card support,False,Resolved,9.2
+S00000445,C000266,2025-07-21,Digital access,False,Resolved,5.2
+S00000446,C000267,2025-05-19,Card support,False,Resolved,2.7
+S00000447,C000267,2025-04-01,Loan service,True,Pending,1.1
+S00000448,C000268,2025-11-13,Payments,False,Resolved,3.0
+S00000449,C000269,2025-02-20,Card support,True,Resolved,3.0
+S00000450,C000269,2025-08-02,Card support,False,Resolved,4.2
+S00000451,C000270,2025-10-13,Digital access,False,Escalated,2.9
+S00000452,C000270,2025-01-11,Payments,True,Resolved,3.0
+S00000453,C000271,2025-06-29,Digital access,False,Resolved,2.0
+S00000454,C000272,2025-03-24,Digital access,False,Pending,2.5
+S00000455,C000272,2025-04-03,Card support,True,Resolved,1.0
+S00000456,C000273,2025-10-14,Digital access,False,Resolved,8.6
+S00000457,C000273,2025-09-29,Account inquiry,True,Resolved,3.0
+S00000458,C000273,2025-01-18,Payments,True,Pending,3.0
+S00000459,C000273,2025-03-20,Card support,True,Unknown,3.0
+S00000460,C000274,2025-04-04,Loan service,True,Resolved,1.5
+S00000461,C000274,2025-04-02,Digital access,True,Resolved,0.9
+S00000462,C000277,2025-08-12,Card support,False,Resolved,9.3
+S00000463,C000278,2025-03-19,Payments,False,Resolved,3.0
+S00000464,C000278,2025-10-21,Account inquiry,False,Resolved,1.7
+S00000465,C000278,2025-04-03,Payments,False,Pending,3.0
+S00000466,C000279,2025-02-27,Loan service,True,Pending,5.1
+S00000467,C000280,2025-11-06,Digital access,False,Resolved,6.0
+S00000468,C000280,2025-10-27,Digital access,False,Resolved,2.8
+S00000469,C000280,2025-03-24,Digital access,False,Resolved,2.2
+S00000470,C000280,2025-12-21,Account inquiry,False,Resolved,1.6
+S00000471,C000280,2025-07-08,Unspecified,True,Pending,4.7
+S00000472,C000280,2025-07-22,Digital access,True,Resolved,6.5
+S00000473,C000281,2025-06-02,Digital access,False,Unknown,10.6
+S00000474,C000281,2025-11-30,Payments,False,Resolved,0.8
+S00000475,C000281,2025-09-26,Loan service,False,Resolved,3.0
+S00000476,C000281,2025-08-28,Loan service,True,Pending,3.9
+S00000477,C000283,2025-07-02,Digital access,False,Resolved,1.6
+S00000478,C000283,2025-11-21,Digital access,True,Resolved,5.0
+S00000479,C000283,2025-02-16,Card support,True,Resolved,3.9
+S00000480,C000283,2025-06-03,Payments,False,Resolved,4.8
+S00000481,C000284,2025-02-28,Payments,True,Resolved,2.8
+S00000482,C000285,2025-09-16,Digital access,True,Resolved,1.3
+S00000483,C000286,2025-11-01,Card support,True,Escalated,2.4
+S00000484,C000286,2025-02-09,Account inquiry,False,Resolved,7.1
+S00000485,C000287,2025-11-11,Card support,True,Resolved,3.6
+S00000486,C000287,2025-03-03,Digital access,True,Resolved,5.5
+S00000487,C000288,2025-11-08,Payments,True,Pending,3.8
+S00000488,C000288,2025-07-24,Account inquiry,True,Resolved,4.1
+S00000489,C000289,2025-01-20,Loan service,True,Resolved,4.9
+S00000490,C000289,2025-08-15,Digital access,False,Pending,1.8
+S00000491,C000291,2025-08-08,Digital access,False,Pending,4.0
+S00000492,C000292,2025-07-21,Account inquiry,False,Resolved,3.8
+S00000493,C000292,2025-05-31,Loan service,True,Resolved,3.2
+S00000494,C000292,2025-02-10,Payments,True,Resolved,1.1
+S00000495,C000293,2025-04-06,Card support,True,Resolved,4.7
+S00000496,C000293,2025-12-06,Card support,False,Resolved,0.1
+S00000497,C000294,2025-01-30,Card support,False,Unknown,1.5
+S00000498,C000295,2025-06-10,Unspecified,True,Resolved,0.6
+S00000499,C000296,2025-01-11,Payments,False,Resolved,3.0
+S00000500,C000296,2025-05-06,Card support,False,Resolved,1.0
+S00000501,C000297,2025-11-20,Payments,False,Resolved,4.0
+S00000502,C000297,2025-07-18,Payments,False,Resolved,3.0
+S00000503,C000298,2025-09-12,Loan service,False,Escalated,6.1
+S00000504,C000298,2025-01-05,Payments,True,Resolved,1.9
+S00000505,C000298,2025-07-20,Account inquiry,True,Resolved,1.7
+S00000506,C000298,2025-09-02,Payments,False,Resolved,0.4
+S00000507,C000299,2025-09-02,Payments,True,Escalated,1.3
+S00000508,C000299,2025-05-23,Account inquiry,True,Escalated,3.0
+S00000509,C000301,2025-01-22,Payments,False,Resolved,1.1
+S00000510,C000301,2025-05-09,Loan service,False,Pending,1.3
+S00000511,C000302,2025-02-15,Digital access,True,Resolved,1.4
+S00000512,C000302,2025-05-08,Digital access,False,Pending,1.5
+S00000513,C000302,2025-06-21,Account inquiry,False,Resolved,1.0
+S00000514,C000303,2025-03-31,Card support,True,Escalated,2.8
+S00000515,C000303,2025-10-30,Payments,True,Escalated,1.9
+S00000516,C000304,2025-11-22,Card support,True,Resolved,6.0
+S00000517,C000304,2025-03-15,Digital access,False,Resolved,3.0
+S00000518,C000305,2025-05-29,Payments,False,Resolved,2.7
+S00000519,C000306,2025-07-31,Account inquiry,False,Resolved,1.5
+S00000520,C000308,2025-09-02,Loan service,False,Resolved,2.0
+S00000521,C000308,2025-01-26,Card support,True,Resolved,2.6
+S00000522,C000312,2025-06-21,Card support,False,Resolved,3.1
+S00000523,C000313,2025-11-22,Digital access,False,Escalated,3.1
+S00000524,C000313,2025-01-12,Account inquiry,True,Resolved,3.4
+S00000525,C000315,2025-11-27,Digital access,True,Unknown,3.3
+S00000526,C000315,2025-07-19,Digital access,False,Resolved,8.0
+S00000527,C000316,2025-11-17,Account inquiry,False,Resolved,3.0
+S00000528,C000316,2025-06-08,Account inquiry,False,Escalated,4.1
+S00000529,C000317,2025-03-09,Payments,False,Resolved,6.5
+S00000530,C000317,2025-12-21,Digital access,True,Resolved,2.2
+S00000531,C000317,2025-10-29,Card support,False,Resolved,1.6
+S00000532,C000317,2025-02-19,Payments,True,Resolved,3.5
+S00000533,C000318,2025-01-31,Loan service,True,Resolved,2.2
+S00000534,C000318,2025-12-15,Digital access,True,Resolved,2.2
+S00000535,C000318,2025-02-07,Loan service,False,Resolved,3.6
+S00000536,C000319,2025-10-15,Account inquiry,False,Resolved,6.7
+S00000537,C000319,2025-08-13,Digital access,False,Resolved,1.3
+S00000538,C000319,2025-05-05,Loan service,True,Resolved,1.0
+S00000539,C000320,2025-11-13,Payments,False,Unknown,3.0
+S00000540,C000320,2025-01-14,Loan service,False,Escalated,4.3
+S00000541,C000321,2025-09-16,Card support,False,Unknown,4.7
+S00000542,C000321,2025-05-01,Loan service,True,Resolved,2.3
+S00000543,C000321,2025-08-27,Payments,True,Escalated,3.7
+S00000544,C000323,2025-12-17,Loan service,False,Resolved,0.5
+S00000545,C000324,2025-07-17,Loan service,True,Resolved,3.1
+S00000546,C000325,2025-09-18,Payments,True,Resolved,3.5
+S00000547,C000326,2025-07-22,Card support,False,Resolved,1.7
+S00000548,C000326,2025-10-19,Loan service,False,Resolved,4.9
+S00000549,C000327,2025-11-22,Loan service,True,Unknown,2.3
+S00000550,C000327,2025-07-04,Digital access,False,Resolved,1.5
+S00000551,C000329,2025-08-03,Loan service,False,Pending,0.7
+S00000552,C000331,2025-05-24,Digital access,True,Resolved,5.2
+S00000553,C000331,2025-02-04,Loan service,True,Pending,0.8
+S00000554,C000331,2025-02-02,Payments,True,Resolved,4.3
+S00000555,C000331,2025-05-31,Payments,False,Resolved,4.2
+S00000556,C000332,2025-09-28,Account inquiry,True,Resolved,1.1
+S00000557,C000332,2025-02-06,Loan service,True,Resolved,4.8
+S00000558,C000332,2025-06-10,Account inquiry,False,Escalated,4.8
+S00000559,C000334,2025-12-11,Digital access,False,Resolved,2.4
+S00000560,C000334,2025-02-24,Digital access,False,Resolved,3.0
+S00000561,C000335,2025-09-01,Payments,False,Resolved,2.2
+S00000562,C000335,2025-03-12,Payments,False,Unknown,2.6
+S00000563,C000335,2025-05-04,Digital access,False,Resolved,2.7
+S00000564,C000336,2025-12-30,Digital access,True,Resolved,3.0
+S00000565,C000337,2025-04-22,Card support,False,Resolved,1.7
+S00000566,C000337,2025-02-21,Account inquiry,False,Resolved,1.8
+S00000567,C000337,2025-11-12,Account inquiry,False,Resolved,11.3
+S00000568,C000338,2025-07-24,Digital access,False,Resolved,0.8
+S00000569,C000338,2025-04-22,Payments,False,Resolved,0.6
+S00000570,C000339,2025-10-02,Digital access,False,Resolved,2.1
+S00000571,C000340,2025-11-05,Payments,False,Pending,1.1
+S00000572,C000340,2025-08-06,Digital access,False,Unknown,3.0
+S00000573,C000340,2025-04-01,Payments,False,Resolved,3.4
+S00000574,C000341,2025-08-21,Unspecified,True,Resolved,2.4
+S00000575,C000342,2025-09-15,Card support,True,Resolved,5.9
+S00000576,C000343,2025-01-24,Loan service,False,Resolved,3.0
+S00000577,C000344,2025-10-28,Payments,True,Resolved,0.8
+S00000578,C000344,2025-09-11,Card support,True,Resolved,2.1
+S00000579,C000345,2025-10-25,Card support,False,Resolved,2.2
+S00000580,C000345,2025-01-14,Payments,True,Escalated,2.7
+S00000581,C000346,2025-09-25,Account inquiry,False,Resolved,1.1
+S00000582,C000346,2025-12-29,Account inquiry,False,Resolved,2.9
+S00000583,C000346,2025-06-28,Account inquiry,False,Resolved,7.0
+S00000584,C000348,2025-09-18,Digital access,True,Unknown,1.4
+S00000585,C000348,2025-01-13,Digital access,True,Resolved,3.5
+S00000586,C000349,2025-07-10,Payments,False,Resolved,6.0
+S00000587,C000350,2025-04-13,Digital access,False,Pending,3.1
+S00000588,C000351,2025-04-24,Digital access,False,Resolved,1.2
+S00000589,C000352,2025-03-19,Unspecified,True,Resolved,3.5
+S00000590,C000353,2025-08-03,Digital access,True,Resolved,4.7
+S00000591,C000353,2025-09-11,Loan service,False,Resolved,0.3
+S00000592,C000353,2025-03-16,Account inquiry,True,Resolved,1.7
+S00000593,C000354,2025-03-20,Digital access,True,Pending,7.5
+S00000594,C000355,2025-04-07,Loan service,False,Resolved,3.0
+S00000595,C000356,2025-12-10,Digital access,False,Resolved,3.1
+S00000596,C000356,2025-07-26,Digital access,True,Pending,3.4
+S00000597,C000357,2025-10-21,Digital access,False,Resolved,2.1
+S00000598,C000358,2025-06-15,Card support,False,Resolved,3.2
+S00000599,C000358,2025-11-09,Card support,False,Resolved,9.7
+S00000600,C000358,2025-05-02,Account inquiry,True,Unknown,0.7
+S00000601,C000359,2025-08-01,Card support,False,Resolved,3.9
+S00000602,C000361,2025-04-16,Digital access,False,Resolved,6.0
+S00000603,C000362,2025-07-14,Account inquiry,False,Resolved,4.2
+S00000604,C000364,2025-10-27,Card support,False,Resolved,4.4
+S00000605,C000365,2025-03-10,Loan service,False,Resolved,4.4
+S00000606,C000365,2025-04-15,Payments,True,Escalated,7.1
+S00000607,C000366,2025-07-25,Card support,False,Unknown,3.0
+S00000608,C000366,2025-03-18,Payments,False,Escalated,1.2
+S00000609,C000366,2025-04-18,Digital access,False,Pending,2.3
+S00000610,C000367,2025-02-13,Account inquiry,False,Resolved,0.7
+S00000611,C000367,2025-07-28,Account inquiry,False,Resolved,3.0
+S00000612,C000368,2025-06-12,Card support,True,Unknown,2.0
+S00000613,C000368,2025-06-16,Card support,False,Resolved,2.3
+S00000614,C000368,2025-01-30,Account inquiry,True,Resolved,1.4
+S00000615,C000370,2025-06-30,Loan service,False,Unknown,3.1
+S00000616,C000370,2025-04-21,Payments,False,Resolved,3.8
+S00000617,C000371,2025-01-08,Payments,True,Resolved,15.2
+S00000618,C000371,2025-02-07,Account inquiry,True,Resolved,4.2
+S00000619,C000372,2025-03-20,Loan service,False,Resolved,1.8
+S00000620,C000373,2025-02-17,Payments,False,Pending,7.0
+S00000621,C000373,2025-03-07,Account inquiry,False,Resolved,1.2
+S00000622,C000374,2025-03-02,Loan service,True,Resolved,1.7
+S00000623,C000374,2025-05-29,Account inquiry,False,Pending,1.9
+S00000624,C000374,2025-10-22,Card support,False,Resolved,4.5
+S00000625,C000375,2025-10-30,Digital access,True,Resolved,1.9
+S00000626,C000375,2025-11-14,Loan service,False,Resolved,3.0
+S00000627,C000376,2025-01-13,Digital access,False,Resolved,0.9
+S00000628,C000376,2025-01-20,Payments,False,Pending,5.7
+S00000629,C000376,2025-03-24,Payments,True,Pending,3.8
+S00000630,C000376,2025-06-04,Account inquiry,False,Pending,3.4
+S00000631,C000379,2025-12-04,Account inquiry,True,Resolved,5.1
+S00000632,C000379,2025-09-28,Account inquiry,False,Escalated,1.7
+S00000633,C000380,2025-11-28,Card support,False,Resolved,10.6
+S00000634,C000381,2025-06-07,Digital access,False,Resolved,6.8
+S00000635,C000381,2025-07-27,Loan service,False,Resolved,3.9
+S00000636,C000382,2025-04-18,Payments,False,Pending,7.3
+S00000637,C000382,2025-06-22,Payments,False,Resolved,2.6
+S00000638,C000383,2025-11-12,Loan service,True,Resolved,0.1
+S00000639,C000384,2025-09-22,Payments,False,Resolved,2.7
+S00000640,C000385,2025-03-12,Digital access,False,Resolved,4.1
+S00000641,C000385,2025-08-23,Digital access,False,Resolved,1.4
+S00000642,C000386,2025-10-08,Digital access,False,Resolved,3.6
+S00000643,C000387,2025-02-16,Account inquiry,False,Escalated,4.5
+S00000644,C000387,2025-09-22,Digital access,False,Resolved,3.0
+S00000645,C000388,2025-10-14,Account inquiry,False,Resolved,3.7
+S00000646,C000388,2025-08-22,Account inquiry,True,Escalated,0.7
+S00000647,C000389,2025-07-11,Payments,False,Unknown,9.1
+S00000648,C000390,2025-08-29,Card support,False,Resolved,1.6
+S00000649,C000393,2025-03-14,Account inquiry,False,Unknown,2.3
+S00000650,C000394,2025-03-01,Card support,False,Resolved,2.7
+S00000651,C000394,2025-04-18,Digital access,False,Unknown,3.1
+S00000652,C000395,2025-03-05,Digital access,False,Resolved,3.4
+S00000653,C000395,2025-04-19,Unspecified,True,Resolved,1.8
+S00000654,C000396,2025-03-29,Digital access,False,Resolved,1.2
+S00000655,C000397,2025-10-11,Card support,True,Pending,3.4
+S00000656,C000397,2025-04-20,Card support,False,Resolved,2.0
+S00000657,C000398,2025-02-24,Card support,False,Resolved,3.3
+S00000658,C000398,2025-10-22,Digital access,True,Resolved,2.5
+S00000659,C000398,2025-07-12,Card support,False,Pending,6.1
+S00000660,C000399,2025-05-26,Payments,True,Resolved,1.9
+S00000661,C000399,2025-03-09,Card support,False,Resolved,2.0
+S00000662,C000401,2025-05-21,Card support,True,Resolved,1.6
+S00000663,C000401,2025-03-10,Loan service,False,Unknown,2.9
+S00000664,C000401,2025-10-07,Digital access,False,Unknown,5.2
+S00000665,C000402,2025-09-18,Digital access,True,Pending,1.4
+S00000666,C000402,2025-05-21,Card support,False,Resolved,3.0
+S00000667,C000402,2025-11-05,Digital access,False,Resolved,1.7
+S00000668,C000403,2025-08-01,Card support,False,Resolved,2.1
+S00000669,C000403,2025-03-13,Digital access,False,Resolved,7.3
+S00000670,C000408,2025-09-02,Account inquiry,False,Resolved,3.1
+S00000671,C000408,2025-03-25,Digital access,True,Resolved,7.1
+S00000672,C000409,2025-12-23,Card support,False,Resolved,2.3
+S00000673,C000410,2025-02-21,Loan service,False,Resolved,1.3
+S00000674,C000410,2025-03-22,Digital access,False,Resolved,0.2
+S00000675,C000411,2025-09-01,Account inquiry,False,Resolved,1.3
+S00000676,C000411,2025-03-28,Card support,False,Resolved,1.0
+S00000677,C000411,2025-10-12,Payments,True,Resolved,3.0
+S00000678,C000412,2025-09-16,Loan service,True,Resolved,0.8
+S00000679,C000413,2025-03-06,Account inquiry,False,Resolved,5.4
+S00000680,C000413,2025-05-26,Payments,False,Resolved,2.7
+S00000681,C000414,2025-06-20,Loan service,False,Resolved,4.9
+S00000682,C000414,2025-07-26,Card support,False,Resolved,4.6
+S00000683,C000415,2025-02-03,Account inquiry,False,Resolved,9.7
+S00000684,C000415,2025-01-10,Account inquiry,False,Resolved,2.8
+S00000685,C000416,2025-09-25,Card support,False,Unknown,6.3
+S00000686,C000418,2025-08-08,Loan service,False,Resolved,4.3
+S00000687,C000421,2025-10-22,Payments,False,Pending,9.2
+S00000688,C000422,2025-11-20,Loan service,True,Pending,2.9
+S00000689,C000423,2025-07-25,Loan service,True,Resolved,9.8
+S00000690,C000423,2025-01-05,Loan service,False,Resolved,2.8
+S00000691,C000425,2025-02-20,Digital access,False,Resolved,4.5
+S00000692,C000425,2025-09-20,Card support,True,Resolved,1.2
+S00000693,C000426,2025-05-29,Payments,False,Resolved,1.6
+S00000694,C000426,2025-09-08,Card support,False,Resolved,4.5
+S00000695,C000427,2025-04-30,Payments,True,Resolved,3.1
+S00000696,C000427,2025-02-14,Payments,False,Resolved,1.1
+S00000697,C000428,2025-09-01,Card support,False,Resolved,0.3
+S00000698,C000428,2025-11-20,Digital access,True,Resolved,6.9
+S00000699,C000429,2025-03-24,Payments,False,Pending,1.9
+S00000700,C000432,2025-05-10,Unspecified,True,Resolved,3.7
+S00000701,C000434,2025-01-26,Payments,False,Resolved,3.0
+S00000702,C000434,2025-08-12,Account inquiry,True,Resolved,1.5
+S00000703,C000436,2025-04-05,Account inquiry,False,Resolved,1.9
+S00000704,C000436,2025-11-21,Account inquiry,False,Resolved,3.1
+S00000705,C000436,2025-02-11,Payments,False,Resolved,2.7
+S00000706,C000436,2025-12-14,Loan service,False,Escalated,5.9
+S00000707,C000436,2025-02-12,Card support,False,Resolved,4.2
+S00000708,C000437,2025-12-06,Card support,False,Pending,4.7
+S00000709,C000438,2025-03-18,Card support,False,Resolved,2.7
+S00000710,C000438,2025-06-30,Card support,False,Resolved,7.2
+S00000711,C000438,2025-08-08,Card support,False,Resolved,7.2
+S00000712,C000439,2025-07-12,Account inquiry,True,Resolved,6.7
+S00000713,C000440,2025-10-08,Card support,False,Resolved,3.0
+S00000714,C000440,2025-02-06,Unspecified,True,Escalated,3.9
+S00000715,C000440,2025-04-13,Card support,True,Resolved,1.9
+S00000716,C000441,2025-06-27,Loan service,False,Resolved,4.2
+S00000717,C000442,2025-03-12,Card support,False,Unknown,5.4
+S00000718,C000442,2025-08-18,Payments,True,Resolved,1.1
+S00000719,C000443,2025-05-18,Digital access,True,Escalated,3.0
+S00000720,C000445,2025-12-15,Account inquiry,False,Resolved,1.0
+S00000721,C000445,2025-08-11,Account inquiry,False,Unknown,9.5
+S00000722,C000445,2025-04-01,Unspecified,True,Resolved,2.7
+S00000723,C000446,2025-07-27,Payments,False,Resolved,8.6
+S00000724,C000446,2025-04-30,Payments,False,Resolved,1.4
+S00000725,C000446,2025-04-09,Digital access,False,Resolved,3.4
+S00000726,C000446,2025-12-16,Payments,False,Escalated,3.8
+S00000727,C000446,2025-02-14,Loan service,True,Resolved,3.6
+S00000728,C000448,2025-12-10,Payments,False,Resolved,4.3
+S00000729,C000448,2025-01-07,Account inquiry,True,Resolved,1.9
+S00000730,C000448,2025-06-24,Digital access,False,Resolved,3.0
+S00000731,C000448,2025-09-13,Card support,False,Resolved,5.4
+S00000732,C000449,2025-01-04,Account inquiry,False,Resolved,2.8
+S00000733,C000449,2025-07-16,Digital access,False,Resolved,2.1
+S00000734,C000449,2025-01-03,Account inquiry,True,Pending,12.0
+S00000735,C000449,2025-09-22,Account inquiry,True,Resolved,0.6
+S00000736,C000450,2025-03-30,Account inquiry,False,Pending,1.9
+S00000737,C000453,2025-10-11,Payments,False,Resolved,1.0
+S00000738,C000454,2025-01-09,Loan service,False,Resolved,3.1
+S00000739,C000456,2025-01-26,Payments,False,Resolved,4.7
+S00000740,C000456,2025-10-14,Payments,False,Resolved,16.6
+S00000741,C000457,2025-08-07,Card support,False,Resolved,2.6
+S00000742,C000457,2025-11-11,Card support,True,Resolved,3.9
+S00000743,C000458,2025-01-26,Account inquiry,True,Unknown,1.2
+S00000744,C000458,2025-01-07,Card support,False,Resolved,2.1
+S00000745,C000460,2025-07-08,Account inquiry,True,Resolved,2.1
+S00000746,C000460,2025-07-20,Payments,True,Pending,6.4
+S00000747,C000461,2025-11-25,Card support,False,Resolved,6.0
+S00000748,C000461,2025-01-16,Account inquiry,False,Resolved,1.7
+S00000749,C000461,2025-02-09,Digital access,False,Resolved,6.9
+S00000750,C000462,2025-09-07,Payments,False,Resolved,3.9
+S00000751,C000463,2025-05-10,Digital access,False,Resolved,3.9
+S00000752,C000463,2025-03-01,Payments,False,Resolved,4.2
+S00000753,C000464,2025-06-04,Digital access,False,Resolved,1.1
+S00000754,C000464,2025-09-29,Account inquiry,False,Escalated,1.8
+S00000755,C000465,2025-06-29,Digital access,False,Resolved,4.4
+S00000756,C000465,2025-02-28,Card support,False,Pending,7.1
+S00000757,C000465,2025-07-04,Digital access,False,Resolved,0.4
+S00000758,C000465,2025-12-19,Unspecified,True,Resolved,3.3
+S00000759,C000466,2025-06-29,Payments,False,Resolved,2.4
+S00000760,C000466,2025-02-06,Digital access,False,Resolved,4.4
+S00000761,C000466,2025-07-22,Payments,False,Resolved,5.4
+S00000762,C000466,2025-09-11,Digital access,True,Resolved,0.4
+S00000763,C000466,2025-07-26,Card support,False,Resolved,2.8
+S00000764,C000467,2025-06-26,Account inquiry,True,Resolved,1.1
+S00000765,C000467,2025-09-14,Digital access,False,Resolved,4.8
+S00000766,C000468,2025-09-15,Card support,False,Resolved,3.0
+S00000767,C000468,2025-06-15,Card support,True,Escalated,1.9
+S00000768,C000468,2025-07-14,Account inquiry,False,Resolved,5.6
+S00000769,C000468,2025-11-02,Digital access,False,Resolved,1.0
+S00000770,C000468,2025-01-05,Digital access,True,Resolved,5.8
+S00000771,C000468,2025-09-24,Payments,False,Resolved,3.0
+S00000772,C000470,2025-04-19,Loan service,False,Resolved,1.8
+S00000773,C000470,2025-05-15,Digital access,True,Unknown,0.1
+S00000774,C000470,2025-07-28,Account inquiry,True,Resolved,12.4
+S00000775,C000471,2025-03-16,Unspecified,True,Resolved,3.0
+S00000776,C000471,2025-06-25,Account inquiry,True,Resolved,3.6
+S00000777,C000471,2025-03-18,Payments,True,Resolved,5.0
+S00000778,C000472,2025-09-30,Loan service,False,Pending,1.8
+S00000779,C000473,2025-01-03,Digital access,False,Pending,0.7
+S00000780,C000473,2025-07-10,Digital access,True,Resolved,0.8
+S00000781,C000475,2025-04-08,Loan service,False,Unknown,0.7
+S00000782,C000475,2025-05-23,Digital access,False,Resolved,9.5
+S00000783,C000475,2025-07-30,Loan service,False,Resolved,9.2
+S00000784,C000476,2025-10-23,Payments,True,Resolved,2.2
+S00000785,C000476,2025-02-27,Digital access,False,Resolved,15.1
+S00000786,C000477,2025-12-14,Account inquiry,False,Pending,2.4
+S00000787,C000477,2025-10-25,Payments,True,Resolved,6.9
+S00000788,C000477,2025-12-29,Account inquiry,True,Escalated,1.8
+S00000789,C000477,2025-11-23,Loan service,False,Pending,5.7
+S00000790,C000478,2025-10-03,Card support,False,Resolved,3.0
+S00000791,C000479,2025-10-20,Account inquiry,False,Escalated,2.2
+S00000792,C000479,2025-12-30,Digital access,False,Resolved,5.2
+S00000793,C000479,2025-07-31,Account inquiry,True,Resolved,3.0
+S00000794,C000479,2025-12-24,Account inquiry,False,Resolved,0.5
+S00000795,C000480,2025-11-16,Payments,False,Resolved,1.2
+S00000796,C000480,2025-11-02,Card support,False,Pending,0.7
+S00000797,C000481,2025-03-06,Digital access,True,Unknown,3.3
+S00000798,C000482,2025-10-26,Digital access,True,Unknown,3.9
+S00000799,C000483,2025-02-06,Loan service,False,Escalated,1.8
+S00000800,C000483,2025-10-04,Digital access,False,Resolved,3.5
+S00000801,C000483,2025-02-03,Payments,True,Resolved,9.6
+S00000802,C000483,2025-08-22,Digital access,False,Resolved,1.5
+S00000803,C000485,2025-05-22,Loan service,True,Pending,0.3
+S00000804,C000485,2025-05-21,Account inquiry,True,Resolved,0.5
+S00000805,C000486,2025-09-20,Digital access,True,Resolved,8.9
+S00000806,C000486,2025-11-04,Loan service,False,Resolved,7.2
+S00000807,C000486,2025-09-10,Account inquiry,False,Resolved,0.8
+S00000808,C000487,2025-03-08,Card support,False,Resolved,6.9
+S00000809,C000487,2025-04-15,Loan service,False,Resolved,4.9
+S00000810,C000489,2025-01-31,Digital access,True,Resolved,3.0
+S00000811,C000489,2025-10-30,Payments,False,Resolved,3.3
+S00000812,C000489,2025-06-03,Payments,True,Resolved,8.1
+S00000813,C000489,2025-06-22,Loan service,True,Escalated,3.2
+S00000814,C000490,2025-03-24,Digital access,False,Escalated,1.6
+S00000815,C000490,2025-02-25,Digital access,False,Resolved,1.4
+S00000816,C000490,2025-08-10,Payments,True,Resolved,8.4
+S00000817,C000490,2025-08-10,Payments,True,Resolved,3.8
+S00000818,C000491,2025-05-05,Account inquiry,True,Resolved,2.7
+S00000819,C000492,2025-04-22,Loan service,False,Resolved,1.6
+S00000820,C000492,2025-08-14,Payments,False,Unknown,1.3
+S00000821,C000492,2025-05-08,Digital access,False,Resolved,5.0
+S00000822,C000492,2025-08-26,Card support,True,Resolved,4.5
+S00000823,C000494,2025-12-30,Account inquiry,True,Resolved,2.1
+S00000824,C000495,2025-03-09,Card support,False,Resolved,5.3
+S00000825,C000495,2025-11-10,Payments,True,Resolved,6.3
+S00000826,C000496,2025-11-24,Account inquiry,True,Resolved,8.0
+S00000827,C000496,2025-01-15,Account inquiry,True,Resolved,4.5
+S00000828,C000496,2025-08-26,Digital access,False,Resolved,1.8
+S00000829,C000497,2025-06-07,Loan service,False,Escalated,2.2
+S00000830,C000498,2025-01-09,Digital access,True,Resolved,1.4
+S00000831,C000498,2025-06-22,Digital access,True,Resolved,2.5
+S00000832,C000499,2025-05-23,Loan service,False,Pending,0.8
+S00000833,C000499,2025-07-02,Digital access,False,Resolved,3.0
+S00000834,C000499,2025-11-27,Digital access,False,Escalated,1.7
+S00000835,C000503,2025-11-01,Account inquiry,False,Resolved,4.1
+S00000836,C000503,2025-01-24,Digital access,False,Pending,2.8
+S00000837,C000503,2025-11-15,Digital access,False,Resolved,3.0
+S00000838,C000504,2025-01-19,Digital access,False,Resolved,4.4
+S00000839,C000504,2025-05-15,Digital access,False,Pending,4.0
+S00000840,C000504,2025-04-16,Card support,False,Pending,5.6
+S00000841,C000505,2025-10-24,Payments,False,Resolved,2.5
+S00000842,C000506,2025-11-18,Card support,True,Escalated,3.0
+S00000843,C000507,2025-11-25,Card support,False,Resolved,4.9
+S00000844,C000507,2025-06-13,Card support,True,Escalated,1.7
+S00000845,C000507,2025-12-31,Digital access,True,Pending,7.6
+S00000846,C000507,2025-12-18,Card support,True,Resolved,1.5
+S00000847,C000509,2025-01-08,Account inquiry,True,Pending,6.7
+S00000848,C000510,2025-02-28,Payments,True,Resolved,3.0
+S00000849,C000510,2025-01-29,Payments,False,Resolved,2.6
+S00000850,C000511,2025-09-20,Card support,False,Resolved,7.7
+S00000851,C000512,2025-12-14,Digital access,False,Pending,4.3
+S00000852,C000513,2025-06-16,Card support,False,Resolved,4.4
+S00000853,C000513,2025-11-25,Account inquiry,False,Unknown,1.8
+S00000854,C000514,2025-09-06,Loan service,False,Resolved,1.5
+S00000855,C000514,2025-05-16,Payments,False,Resolved,2.2
+S00000856,C000514,2025-11-13,Loan service,False,Resolved,6.0
+S00000857,C000515,2025-05-28,Unspecified,True,Resolved,5.5
+S00000858,C000516,2025-07-14,Payments,False,Resolved,3.0
+S00000859,C000516,2025-03-12,Digital access,False,Resolved,1.1
+S00000860,C000516,2025-03-08,Card support,True,Escalated,3.2
+S00000861,C000516,2025-05-26,Payments,False,Pending,0.7
+S00000862,C000516,2025-10-26,Loan service,False,Resolved,3.6
+S00000863,C000517,2025-06-09,Card support,True,Resolved,1.6
+S00000864,C000517,2025-06-07,Account inquiry,True,Resolved,1.8
+S00000865,C000519,2025-07-20,Loan service,False,Resolved,5.0
+S00000866,C000520,2025-04-07,Payments,False,Resolved,4.1
+S00000867,C000520,2025-04-23,Card support,False,Resolved,5.3
+S00000868,C000521,2025-10-06,Digital access,False,Pending,4.0
+S00000869,C000521,2025-01-08,Digital access,False,Resolved,2.5
+S00000870,C000521,2025-07-04,Card support,False,Resolved,6.7
+S00000871,C000523,2025-03-18,Loan service,False,Resolved,6.0
+S00000872,C000524,2025-09-13,Loan service,False,Resolved,5.3
+S00000873,C000525,2025-11-21,Account inquiry,False,Resolved,2.4
+S00000874,C000527,2025-02-27,Card support,False,Pending,1.5
+S00000875,C000527,2025-10-23,Payments,False,Resolved,1.4
+S00000876,C000528,2025-12-21,Digital access,False,Resolved,3.0
+S00000877,C000528,2025-10-20,Card support,False,Resolved,9.3
+S00000878,C000530,2025-09-11,Digital access,True,Resolved,1.3
+S00000879,C000531,2025-02-11,Card support,False,Unknown,6.1
+S00000880,C000531,2025-04-22,Payments,True,Pending,5.8
+S00000881,C000531,2025-02-16,Card support,False,Pending,0.6
+S00000882,C000531,2025-09-15,Payments,False,Resolved,0.9
+S00000883,C000532,2025-09-05,Account inquiry,False,Resolved,8.4
+S00000884,C000532,2025-03-12,Digital access,False,Resolved,8.3
+S00000885,C000533,2025-10-10,Payments,False,Resolved,3.3
+S00000886,C000533,2025-08-07,Account inquiry,False,Pending,3.0
+S00000887,C000534,2025-07-29,Payments,False,Resolved,0.7
+S00000888,C000534,2025-02-17,Card support,False,Resolved,3.0
+S00000889,C000535,2025-09-05,Payments,False,Resolved,3.0
+S00000890,C000535,2025-05-22,Card support,False,Resolved,5.2
+S00000891,C000535,2025-11-09,Account inquiry,False,Resolved,4.5
+S00000892,C000536,2025-09-28,Loan service,False,Unknown,0.9
+S00000893,C000537,2025-06-09,Account inquiry,True,Pending,1.2
+S00000894,C000537,2025-10-09,Payments,True,Escalated,3.9
+S00000895,C000538,2025-11-13,Payments,False,Resolved,1.4
+S00000896,C000539,2025-12-12,Card support,True,Resolved,7.5
+S00000897,C000541,2025-01-08,Card support,False,Resolved,1.3
+S00000898,C000541,2025-12-22,Loan service,True,Escalated,1.8
+S00000899,C000542,2025-11-27,Card support,False,Resolved,3.0
+S00000900,C000542,2025-09-15,Payments,False,Unknown,2.9
+S00000901,C000542,2025-11-15,Loan service,False,Resolved,2.7
+S00000902,C000542,2025-02-16,Payments,False,Escalated,3.8
+S00000903,C000543,2025-06-15,Account inquiry,False,Resolved,3.6
+S00000904,C000543,2025-10-14,Unspecified,True,Unknown,1.8
+S00000905,C000543,2025-12-20,Account inquiry,False,Resolved,4.3
+S00000906,C000545,2025-10-08,Unspecified,True,Resolved,5.4
+S00000907,C000545,2025-11-12,Card support,False,Resolved,4.0
+S00000908,C000545,2025-01-10,Digital access,False,Pending,8.0
+S00000909,C000545,2025-11-17,Card support,False,Resolved,1.6
+S00000910,C000545,2025-10-24,Account inquiry,False,Resolved,1.3
+S00000911,C000546,2025-06-23,Digital access,False,Resolved,10.6
+S00000912,C000547,2025-11-25,Loan service,False,Pending,2.0
+S00000913,C000547,2025-06-26,Loan service,False,Resolved,2.6
+S00000914,C000550,2025-11-13,Payments,True,Resolved,2.7
+S00000915,C000551,2025-06-11,Account inquiry,True,Resolved,3.1
+S00000916,C000551,2025-05-22,Loan service,True,Resolved,1.6
+S00000917,C000552,2025-02-18,Digital access,True,Resolved,3.4
+S00000918,C000552,2025-06-09,Account inquiry,False,Unknown,2.6
+S00000919,C000553,2025-04-25,Card support,True,Resolved,3.0
+S00000920,C000553,2025-01-28,Card support,True,Escalated,3.0
+S00000921,C000554,2025-05-23,Card support,False,Resolved,2.4
+S00000922,C000554,2025-05-31,Account inquiry,False,Pending,3.0
+S00000923,C000554,2025-06-02,Loan service,False,Pending,2.2
+S00000924,C000554,2025-06-11,Card support,False,Resolved,3.8
+S00000925,C000555,2025-11-16,Loan service,False,Resolved,6.5
+S00000926,C000555,2025-03-11,Account inquiry,False,Unknown,5.5
+S00000927,C000555,2025-09-09,Account inquiry,True,Resolved,7.5
+S00000928,C000556,2025-09-24,Loan service,False,Resolved,4.4
+S00000929,C000557,2025-07-04,Loan service,False,Resolved,4.2
+S00000930,C000557,2025-08-07,Card support,False,Resolved,1.4
+S00000931,C000557,2025-08-03,Loan service,True,Resolved,2.7
+S00000932,C000558,2025-02-12,Digital access,True,Unknown,1.3
+S00000933,C000559,2025-12-14,Loan service,True,Resolved,1.6
+S00000934,C000559,2025-05-22,Payments,False,Pending,0.6
+S00000935,C000560,2025-12-26,Payments,True,Unknown,3.0
+S00000936,C000560,2025-04-13,Card support,False,Resolved,1.5
+S00000937,C000560,2025-01-04,Card support,True,Unknown,4.0
+S00000938,C000560,2025-08-02,Unspecified,True,Resolved,0.3
+S00000939,C000561,2025-04-16,Account inquiry,False,Resolved,3.5
+S00000940,C000563,2025-06-06,Card support,True,Resolved,14.4
+S00000941,C000563,2025-07-05,Loan service,True,Resolved,0.8
+S00000942,C000563,2025-01-14,Card support,False,Escalated,3.0
+S00000943,C000563,2025-03-28,Account inquiry,False,Unknown,0.5
+S00000944,C000565,2025-01-17,Digital access,False,Resolved,6.0
+S00000945,C000566,2025-09-18,Payments,False,Resolved,1.4
+S00000946,C000566,2025-09-06,Digital access,False,Resolved,3.0
+S00000947,C000566,2025-04-22,Account inquiry,True,Resolved,1.4
+S00000948,C000566,2025-01-14,Payments,False,Resolved,3.1
+S00000949,C000567,2025-10-19,Card support,False,Resolved,3.0
+S00000950,C000567,2025-10-29,Account inquiry,False,Resolved,1.4
+S00000951,C000568,2025-04-20,Account inquiry,True,Pending,2.8
+S00000952,C000569,2025-01-12,Account inquiry,False,Resolved,1.9
+S00000953,C000569,2025-12-25,Digital access,False,Resolved,3.7
+S00000954,C000570,2025-08-11,Loan service,True,Resolved,7.3
+S00000955,C000570,2025-02-15,Digital access,True,Escalated,3.1
+S00000956,C000570,2025-11-19,Card support,False,Resolved,2.9
+S00000957,C000571,2025-09-16,Loan service,False,Pending,7.2
+S00000958,C000571,2025-01-04,Payments,False,Unknown,2.3
+S00000959,C000571,2025-02-16,Digital access,False,Pending,3.0
+S00000960,C000571,2025-04-30,Payments,False,Resolved,4.5
+S00000961,C000572,2025-11-17,Card support,True,Resolved,5.2
+S00000962,C000573,2025-01-08,Digital access,True,Resolved,3.4
+S00000963,C000574,2025-04-13,Digital access,False,Resolved,0.4
+S00000964,C000574,2025-12-01,Loan service,False,Escalated,1.0
+S00000965,C000575,2025-07-12,Payments,True,Resolved,6.9
+S00000966,C000576,2025-01-13,Loan service,False,Resolved,0.9
+S00000967,C000577,2025-12-24,Loan service,True,Resolved,0.7
+S00000968,C000578,2025-03-29,Loan service,False,Pending,2.8
+S00000969,C000579,2025-05-09,Payments,False,Unknown,4.5
+S00000970,C000580,2025-02-02,Digital access,True,Escalated,1.2
+S00000971,C000580,2025-11-01,Digital access,False,Resolved,3.8
+S00000972,C000581,2025-07-08,Digital access,False,Resolved,3.0
+S00000973,C000581,2025-01-10,Account inquiry,False,Resolved,7.2
+S00000974,C000581,2025-12-29,Digital access,False,Resolved,5.7
+S00000975,C000582,2025-07-04,Payments,True,Resolved,2.7
+S00000976,C000582,2025-08-29,Account inquiry,False,Resolved,7.8
+S00000977,C000582,2025-03-21,Digital access,False,Resolved,3.0
+S00000978,C000583,2025-12-07,Card support,False,Resolved,4.8
+S00000979,C000583,2025-10-25,Loan service,False,Resolved,8.2
+S00000980,C000583,2025-01-28,Card support,False,Resolved,2.0
+S00000981,C000584,2025-01-29,Account inquiry,False,Resolved,3.1
+S00000982,C000584,2025-08-02,Account inquiry,False,Unknown,2.2
+S00000983,C000584,2025-03-19,Account inquiry,False,Resolved,2.7
+S00000984,C000585,2025-02-28,Account inquiry,False,Resolved,1.3
+S00000985,C000586,2025-02-09,Loan service,False,Pending,2.0
+S00000986,C000587,2025-10-06,Payments,True,Resolved,1.4
+S00000987,C000587,2025-07-19,Account inquiry,True,Resolved,2.1
+S00000988,C000587,2025-09-29,Card support,False,Escalated,1.2
+S00000989,C000589,2025-02-27,Account inquiry,False,Pending,1.7
+S00000990,C000589,2025-10-07,Digital access,True,Resolved,0.8
+S00000991,C000590,2025-10-15,Loan service,True,Resolved,4.8
+S00000992,C000590,2025-11-25,Loan service,True,Resolved,3.0
+S00000993,C000592,2025-02-09,Unspecified,True,Unknown,3.0
+S00000994,C000593,2025-02-14,Card support,False,Resolved,4.7
+S00000995,C000593,2025-10-30,Card support,True,Unknown,5.9
+S00000996,C000593,2025-10-12,Card support,True,Resolved,5.7
+S00000997,C000593,2025-12-21,Card support,False,Resolved,3.2
+S00000998,C000593,2025-01-03,Card support,True,Resolved,3.7
+S00000999,C000594,2025-11-02,Digital access,True,Resolved,0.4
+S00001000,C000594,2025-03-29,Digital access,False,Escalated,4.4
+S00001001,C000595,2025-10-12,Account inquiry,False,Pending,3.0
+S00001002,C000595,2025-11-08,Payments,True,Resolved,2.1
+S00001003,C000596,2025-05-19,Loan service,False,Resolved,7.0
+S00001004,C000599,2025-11-24,Card support,True,Resolved,1.7
+S00001005,C000600,2025-04-30,Card support,False,Pending,4.7
+S00001006,C000600,2025-07-29,Account inquiry,False,Escalated,3.0
+S00001007,C000600,2025-12-27,Digital access,True,Resolved,4.7
+S00001008,C000601,2025-07-31,Card support,False,Resolved,13.1
+S00001009,C000601,2025-03-02,Digital access,False,Pending,4.2
+S00001010,C000601,2025-04-01,Account inquiry,False,Resolved,2.9
+S00001011,C000602,2025-01-29,Digital access,False,Resolved,0.9
+S00001012,C000602,2025-05-23,Loan service,False,Resolved,5.5
+S00001013,C000602,2025-12-05,Payments,False,Resolved,2.2
+S00001014,C000603,2025-12-28,Loan service,False,Resolved,2.3
+S00001015,C000603,2025-08-27,Loan service,True,Resolved,4.2
+S00001016,C000603,2025-06-10,Account inquiry,False,Pending,0.3
+S00001017,C000604,2025-07-29,Account inquiry,False,Resolved,6.5
+S00001018,C000606,2025-09-28,Loan service,False,Resolved,3.0
+S00001019,C000606,2025-03-30,Payments,False,Resolved,3.3
+S00001020,C000608,2025-04-04,Card support,True,Resolved,1.7
+S00001021,C000609,2025-03-17,Account inquiry,True,Resolved,1.8
+S00001022,C000609,2025-07-26,Digital access,False,Pending,1.8
+S00001023,C000611,2025-07-25,Account inquiry,False,Resolved,0.7
+S00001024,C000612,2025-04-09,Payments,False,Resolved,2.8
+S00001025,C000613,2025-12-12,Payments,False,Resolved,1.3
+S00001026,C000614,2025-03-12,Payments,False,Resolved,3.1
+S00001027,C000614,2025-09-28,Loan service,False,Resolved,10.0
+S00001028,C000614,2025-03-18,Unspecified,True,Pending,4.1
+S00001029,C000615,2025-05-08,Payments,False,Unknown,3.9
+S00001030,C000615,2025-05-10,Digital access,True,Resolved,9.9
+S00001031,C000616,2025-07-28,Card support,False,Resolved,1.2
+S00001032,C000617,2025-08-21,Account inquiry,False,Resolved,0.8
+S00001033,C000617,2025-09-12,Account inquiry,True,Resolved,3.0
+S00001034,C000617,2025-03-15,Payments,False,Unknown,2.5
+S00001035,C000617,2025-07-19,Payments,True,Pending,2.8
+S00001036,C000618,2025-07-30,Card support,True,Resolved,5.5
+S00001037,C000618,2025-10-21,Account inquiry,True,Resolved,2.6
+S00001038,C000618,2025-06-24,Card support,True,Escalated,2.0
+S00001039,C000618,2025-11-20,Card support,False,Resolved,6.0
+S00001040,C000619,2025-06-25,Digital access,False,Resolved,3.8
+S00001041,C000619,2025-04-10,Payments,False,Resolved,7.1
+S00001042,C000620,2025-11-29,Account inquiry,False,Resolved,4.1
+S00001043,C000621,2025-08-26,Loan service,False,Resolved,1.9
+S00001044,C000621,2025-02-23,Loan service,True,Pending,10.8
+S00001045,C000621,2025-01-27,Loan service,False,Resolved,2.4
+S00001046,C000622,2025-01-18,Loan service,True,Resolved,4.9
+S00001047,C000622,2025-09-24,Loan service,False,Resolved,5.4
+S00001048,C000624,2025-05-16,Card support,True,Resolved,2.6
+S00001049,C000626,2025-01-25,Digital access,False,Resolved,4.0
+S00001050,C000626,2025-02-06,Payments,True,Resolved,4.6
+S00001051,C000626,2025-10-06,Loan service,False,Resolved,2.2
+S00001052,C000626,2025-01-12,Unspecified,True,Resolved,3.5
+S00001053,C000626,2025-02-07,Account inquiry,False,Unknown,2.5
+S00001054,C000626,2025-08-18,Unspecified,True,Resolved,6.1
+S00001055,C000627,2025-10-02,Card support,False,Resolved,12.7
+S00001056,C000627,2025-09-01,Loan service,False,Resolved,4.0
+S00001057,C000627,2025-03-30,Loan service,True,Resolved,2.0
+S00001058,C000627,2025-07-08,Payments,False,Pending,1.1
+S00001059,C000629,2025-06-25,Account inquiry,False,Resolved,0.8
+S00001060,C000630,2025-07-19,Payments,False,Resolved,2.7
+S00001061,C000632,2025-02-15,Loan service,False,Resolved,2.0
+S00001062,C000633,2025-01-08,Account inquiry,False,Resolved,3.4
+S00001063,C000633,2025-03-25,Loan service,True,Unknown,0.6
+S00001064,C000633,2025-03-01,Card support,False,Resolved,2.2
+S00001065,C000635,2025-07-26,Card support,False,Resolved,1.8
+S00001066,C000635,2025-11-06,Digital access,False,Escalated,0.8
+S00001067,C000635,2025-12-12,Account inquiry,False,Escalated,5.3
+S00001068,C000635,2025-11-17,Loan service,True,Unknown,11.4
+S00001069,C000635,2025-04-22,Unspecified,True,Resolved,4.4
+S00001070,C000636,2025-01-30,Card support,False,Resolved,1.7
+S00001071,C000637,2025-03-20,Unspecified,True,Resolved,3.7
+S00001072,C000637,2025-12-11,Account inquiry,False,Resolved,4.1
+S00001073,C000637,2025-11-06,Payments,False,Resolved,8.8
+S00001074,C000637,2025-09-17,Payments,False,Resolved,3.0
+S00001075,C000637,2025-11-25,Account inquiry,False,Escalated,0.3
+S00001076,C000638,2025-06-22,Payments,False,Pending,4.2
+S00001077,C000638,2025-01-29,Digital access,False,Resolved,2.6
+S00001078,C000639,2025-06-05,Account inquiry,False,Pending,1.7
+S00001079,C000640,2025-11-23,Account inquiry,False,Resolved,6.5
+S00001080,C000640,2025-06-08,Card support,False,Resolved,5.8
+S00001081,C000641,2025-01-01,Unspecified,True,Escalated,1.7
+S00001082,C000642,2025-12-01,Loan service,False,Resolved,1.4
+S00001083,C000642,2025-04-13,Digital access,False,Escalated,7.0
+S00001084,C000643,2025-12-23,Card support,False,Unknown,4.4
+S00001085,C000643,2025-12-18,Card support,False,Resolved,5.8
+S00001086,C000644,2025-07-29,Digital access,False,Resolved,1.4
+S00001087,C000645,2025-11-10,Account inquiry,False,Resolved,3.1
+S00001088,C000646,2025-09-24,Account inquiry,True,Resolved,1.1
+S00001089,C000646,2025-12-01,Account inquiry,True,Unknown,2.3
+S00001090,C000648,2025-08-06,Account inquiry,False,Resolved,10.2
+S00001091,C000648,2025-07-25,Account inquiry,False,Pending,2.6
+S00001092,C000648,2025-05-01,Card support,False,Resolved,1.8
+S00001093,C000649,2025-05-08,Account inquiry,True,Resolved,0.1
+S00001094,C000650,2025-10-20,Loan service,False,Resolved,6.0
+S00001095,C000652,2025-12-22,Account inquiry,False,Resolved,1.5
+S00001096,C000653,2025-09-03,Card support,True,Pending,0.8
+S00001097,C000653,2025-12-21,Card support,False,Resolved,0.6
+S00001098,C000654,2025-12-14,Digital access,False,Resolved,5.2
+S00001099,C000656,2025-03-25,Payments,False,Escalated,3.0
+S00001100,C000656,2025-11-16,Digital access,False,Resolved,2.3
+S00001101,C000657,2025-12-18,Digital access,True,Resolved,3.0
+S00001102,C000659,2025-04-05,Loan service,False,Resolved,2.5
+S00001103,C000659,2025-03-02,Card support,False,Resolved,3.0
+S00001104,C000659,2025-03-20,Account inquiry,True,Escalated,4.1
+S00001105,C000660,2025-04-30,Digital access,False,Pending,5.5
+S00001106,C000660,2025-01-15,Account inquiry,True,Escalated,7.0
+S00001107,C000660,2025-04-06,Card support,False,Resolved,3.0
+S00001108,C000661,2025-07-06,Card support,True,Resolved,3.0
+S00001109,C000662,2025-12-10,Account inquiry,False,Escalated,2.4
+S00001110,C000662,2025-03-23,Loan service,True,Resolved,3.0
+S00001111,C000662,2025-10-01,Digital access,False,Resolved,10.5
+S00001112,C000663,2025-03-28,Payments,False,Unknown,1.5
+S00001113,C000664,2025-12-21,Digital access,False,Resolved,5.2
+S00001114,C000664,2025-11-01,Digital access,False,Resolved,1.9
+S00001115,C000664,2025-11-02,Payments,True,Unknown,5.7
+S00001116,C000665,2025-04-13,Account inquiry,True,Resolved,3.7
+S00001117,C000666,2025-10-20,Payments,False,Resolved,2.0
+S00001118,C000666,2025-02-22,Account inquiry,False,Resolved,4.6
+S00001119,C000667,2025-04-06,Digital access,False,Escalated,0.8
+S00001120,C000668,2025-06-13,Account inquiry,False,Resolved,3.5
+S00001121,C000670,2025-02-01,Card support,True,Resolved,14.7
+S00001122,C000671,2025-02-26,Card support,False,Pending,2.2
+S00001123,C000672,2025-08-07,Digital access,True,Resolved,4.8
+S00001124,C000672,2025-01-02,Card support,False,Resolved,0.8
+S00001125,C000674,2025-01-29,Account inquiry,False,Pending,3.5
+S00001126,C000674,2025-01-05,Payments,False,Escalated,4.0
+S00001127,C000676,2025-07-03,Payments,True,Resolved,6.1
+S00001128,C000677,2025-02-02,Loan service,False,Resolved,5.3
+S00001129,C000678,2025-06-24,Loan service,False,Pending,8.8
+S00001130,C000678,2025-06-20,Payments,True,Resolved,4.5
+S00001131,C000678,2025-12-22,Payments,False,Resolved,4.1
+S00001132,C000679,2025-07-29,Loan service,False,Resolved,2.3
+S00001133,C000679,2025-11-27,Loan service,False,Pending,0.7
+S00001134,C000680,2025-02-12,Card support,False,Pending,3.3
+S00001135,C000680,2025-10-24,Digital access,False,Resolved,3.0
+S00001136,C000681,2025-02-12,Digital access,False,Resolved,2.7
+S00001137,C000681,2025-12-01,Account inquiry,False,Resolved,2.6
+S00001138,C000681,2025-03-15,Card support,True,Resolved,11.1
+S00001139,C000681,2025-09-07,Payments,True,Resolved,6.0
+S00001140,C000683,2025-02-25,Digital access,False,Escalated,3.0
+S00001141,C000684,2025-06-02,Digital access,False,Resolved,7.1
+S00001142,C000684,2025-07-06,Loan service,True,Resolved,9.2
+S00001143,C000684,2025-12-10,Account inquiry,True,Resolved,3.1
+S00001144,C000684,2025-11-03,Digital access,True,Resolved,2.5
+S00001145,C000685,2025-08-20,Card support,False,Resolved,2.0
+S00001146,C000685,2025-01-09,Payments,False,Resolved,3.3
+S00001147,C000686,2025-06-19,Card support,False,Resolved,8.7
+S00001148,C000686,2025-08-19,Digital access,True,Pending,3.4
+S00001149,C000686,2025-07-06,Digital access,False,Resolved,1.8
+S00001150,C000687,2025-12-22,Account inquiry,False,Resolved,3.1
+S00001151,C000687,2025-06-27,Account inquiry,False,Pending,3.0
+S00001152,C000688,2025-01-07,Digital access,False,Resolved,1.8
+S00001153,C000688,2025-03-30,Loan service,False,Unknown,3.0
+S00001154,C000689,2025-04-10,Account inquiry,False,Escalated,0.4
+S00001155,C000689,2025-11-20,Account inquiry,False,Resolved,3.0
+S00001156,C000690,2025-11-12,Loan service,True,Resolved,3.0
+S00001157,C000690,2025-12-24,Card support,False,Pending,3.8
+S00001158,C000690,2025-10-12,Payments,False,Pending,1.6
+S00001159,C000691,2025-05-29,Payments,False,Unknown,0.8
+S00001160,C000691,2025-07-20,Digital access,False,Resolved,2.7
+S00001161,C000691,2025-01-29,Card support,True,Resolved,4.0
+S00001162,C000693,2025-11-12,Digital access,False,Resolved,1.9
+S00001163,C000693,2025-03-25,Digital access,False,Resolved,6.7
+S00001164,C000694,2025-09-12,Account inquiry,False,Resolved,3.3
+S00001165,C000694,2025-02-25,Account inquiry,True,Resolved,11.5
+S00001166,C000696,2025-01-20,Digital access,False,Resolved,2.5
+S00001167,C000696,2025-09-14,Digital access,True,Resolved,1.8
+S00001168,C000696,2025-07-20,Card support,False,Resolved,6.5
+S00001169,C000697,2025-10-24,Digital access,False,Resolved,4.7
+S00001170,C000697,2025-07-09,Digital access,False,Resolved,2.5
+S00001171,C000698,2025-02-01,Account inquiry,False,Resolved,1.1
+S00001172,C000698,2025-10-26,Card support,True,Resolved,3.0
+S00001173,C000700,2025-11-16,Digital access,True,Resolved,1.4
+S00001174,C000700,2025-11-13,Digital access,False,Pending,3.0
+S00001175,C000701,2025-01-13,Card support,False,Pending,4.1
+S00001176,C000701,2025-10-23,Card support,False,Pending,1.8
+S00001177,C000703,2025-06-12,Card support,False,Resolved,4.4
+S00001178,C000704,2025-05-03,Payments,False,Resolved,7.7
+S00001179,C000704,2025-04-29,Account inquiry,True,Resolved,1.3
+S00001180,C000704,2025-03-13,Digital access,False,Resolved,3.0
+S00001181,C000704,2025-12-26,Card support,False,Unknown,1.4
+S00001182,C000704,2025-02-28,Card support,True,Resolved,3.0
+S00001183,C000708,2025-01-23,Payments,False,Resolved,4.2
+S00001184,C000708,2025-01-25,Unspecified,True,Escalated,2.0
+S00001185,C000709,2025-04-22,Payments,True,Resolved,1.0
+S00001186,C000709,2025-12-10,Unspecified,True,Escalated,4.7
+S00001187,C000709,2025-12-22,Account inquiry,False,Resolved,9.7
+S00001188,C000709,2025-11-30,Payments,False,Escalated,0.7
+S00001189,C000710,2025-02-27,Card support,False,Resolved,3.0
+S00001190,C000710,2025-11-17,Loan service,False,Resolved,1.9
+S00001191,C000711,2025-10-29,Digital access,True,Resolved,3.3
+S00001192,C000713,2025-04-27,Payments,True,Resolved,1.5
+S00001193,C000713,2025-08-17,Account inquiry,False,Resolved,3.0
+S00001194,C000714,2025-03-16,Loan service,False,Resolved,3.7
+S00001195,C000715,2025-09-07,Unspecified,True,Resolved,3.5
+S00001196,C000716,2025-06-03,Loan service,False,Resolved,3.9
+S00001197,C000717,2025-05-08,Payments,False,Pending,3.1
+S00001198,C000717,2025-01-21,Card support,False,Resolved,7.3
+S00001199,C000718,2025-06-24,Account inquiry,False,Resolved,1.5
+S00001200,C000720,2025-12-30,Unspecified,True,Unknown,2.8
+S00001201,C000721,2025-02-07,Card support,False,Resolved,4.5
+S00001202,C000723,2025-06-15,Account inquiry,False,Resolved,0.1
+S00001203,C000723,2025-02-12,Payments,False,Resolved,3.4
+S00001204,C000724,2025-12-07,Card support,False,Resolved,1.2
+S00001205,C000724,2025-10-04,Payments,False,Resolved,6.1
+S00001206,C000724,2025-03-29,Digital access,False,Resolved,4.5
+S00001207,C000726,2025-12-24,Loan service,False,Resolved,6.6
+S00001208,C000726,2025-06-10,Payments,False,Resolved,12.3
+S00001209,C000728,2025-11-01,Loan service,False,Pending,5.0
+S00001210,C000729,2025-09-26,Card support,False,Resolved,3.2
+S00001211,C000729,2025-09-27,Loan service,False,Resolved,1.2
+S00001212,C000731,2025-09-13,Loan service,True,Resolved,2.8
+S00001213,C000731,2025-12-02,Payments,False,Resolved,0.1
+S00001214,C000733,2025-11-08,Digital access,False,Resolved,7.4
+S00001215,C000733,2025-02-02,Payments,True,Resolved,1.4
+S00001216,C000733,2025-09-22,Account inquiry,True,Resolved,1.3
+S00001217,C000734,2025-04-06,Unspecified,True,Resolved,6.4
+S00001218,C000734,2025-09-16,Digital access,False,Escalated,6.3
+S00001219,C000734,2025-05-18,Payments,True,Resolved,1.0
+S00001220,C000735,2025-12-14,Payments,False,Resolved,6.4
+S00001221,C000735,2025-08-19,Loan service,True,Resolved,3.4
+S00001222,C000736,2025-02-08,Digital access,False,Resolved,6.5
+S00001223,C000739,2025-09-20,Loan service,False,Resolved,1.7
+S00001224,C000739,2025-10-13,Payments,True,Resolved,1.7
+S00001225,C000739,2025-06-08,Digital access,False,Resolved,4.9
+S00001226,C000739,2025-01-22,Payments,True,Resolved,3.9
+S00001227,C000741,2025-12-18,Account inquiry,False,Resolved,1.5
+S00001228,C000741,2025-09-20,Loan service,False,Resolved,1.9
+S00001229,C000743,2025-03-31,Account inquiry,False,Resolved,3.2
+S00001230,C000743,2025-07-23,Payments,False,Resolved,2.2
+S00001231,C000744,2025-06-19,Account inquiry,False,Resolved,1.6
+S00001232,C000745,2025-11-17,Card support,True,Resolved,3.2
+S00001233,C000746,2025-11-08,Card support,False,Resolved,1.1
+S00001234,C000746,2025-07-20,Loan service,False,Resolved,3.6
+S00001235,C000747,2025-12-01,Digital access,True,Resolved,3.0
+S00001236,C000748,2025-09-12,Digital access,True,Resolved,2.1
+S00001237,C000748,2025-04-01,Payments,False,Resolved,7.1
+S00001238,C000749,2025-10-13,Card support,False,Escalated,4.3
+S00001239,C000750,2025-04-21,Digital access,False,Pending,3.0
+S00001240,C000750,2025-02-19,Digital access,False,Resolved,2.2
+S00001241,C000751,2025-01-11,Digital access,True,Resolved,4.8
+S00001242,C000752,2025-02-06,Account inquiry,False,Resolved,3.9
+S00001243,C000753,2025-05-21,Payments,True,Resolved,1.4
+S00001244,C000754,2025-10-26,Account inquiry,True,Resolved,0.3
+S00001245,C000755,2025-03-29,Digital access,False,Pending,5.4
+S00001246,C000756,2025-10-05,Card support,False,Resolved,3.0
+S00001247,C000757,2025-07-01,Loan service,False,Escalated,3.0
+S00001248,C000758,2025-11-30,Digital access,True,Pending,4.4
+S00001249,C000758,2025-05-09,Card support,True,Escalated,3.0
+S00001250,C000759,2025-09-23,Digital access,False,Unknown,7.7
+S00001251,C000759,2025-01-28,Card support,False,Resolved,0.7
+S00001252,C000759,2025-02-11,Loan service,False,Resolved,2.2
+S00001253,C000761,2025-11-03,Payments,False,Resolved,6.0
+S00001254,C000761,2025-01-11,Payments,False,Unknown,1.0
+S00001255,C000761,2025-07-14,Digital access,False,Resolved,2.8
+S00001256,C000762,2025-04-04,Payments,False,Unknown,1.5
+S00001257,C000763,2025-08-11,Digital access,False,Pending,2.6
+S00001258,C000763,2025-10-25,Loan service,True,Pending,2.1
+S00001259,C000764,2025-06-06,Unspecified,True,Resolved,1.0
+S00001260,C000767,2025-05-05,Card support,False,Pending,3.0
+S00001261,C000768,2025-03-05,Loan service,False,Pending,1.4
+S00001262,C000768,2025-02-05,Digital access,False,Resolved,6.9
+S00001263,C000768,2025-03-21,Loan service,True,Resolved,2.2
+S00001264,C000769,2025-01-29,Loan service,True,Resolved,2.0
+S00001265,C000769,2025-03-24,Account inquiry,False,Resolved,1.0
+S00001266,C000769,2025-09-12,Digital access,True,Resolved,3.9
+S00001267,C000770,2025-04-24,Loan service,False,Resolved,3.2
+S00001268,C000770,2025-01-16,Loan service,True,Resolved,2.3
+S00001269,C000770,2025-08-22,Account inquiry,True,Resolved,4.5
+S00001270,C000772,2025-11-24,Unspecified,True,Resolved,4.2
+S00001271,C000773,2025-10-19,Unspecified,True,Resolved,3.0
+S00001272,C000773,2025-06-08,Loan service,False,Resolved,1.0
+S00001273,C000773,2025-04-11,Account inquiry,False,Resolved,1.5
+S00001274,C000773,2025-09-16,Card support,False,Resolved,3.9
+S00001275,C000775,2025-09-10,Account inquiry,False,Resolved,0.3
+S00001276,C000775,2025-02-10,Loan service,True,Resolved,19.1
+S00001277,C000775,2025-06-27,Digital access,False,Resolved,4.0
+S00001278,C000775,2025-08-16,Loan service,False,Resolved,5.9
+S00001279,C000777,2025-01-18,Card support,False,Resolved,20.0
+S00001280,C000777,2025-09-15,Card support,False,Resolved,4.4
+S00001281,C000777,2025-04-23,Card support,True,Pending,3.0
+S00001282,C000778,2025-09-02,Digital access,False,Resolved,7.2
+S00001283,C000779,2025-08-30,Loan service,False,Escalated,3.0
+S00001284,C000780,2025-04-19,Card support,True,Resolved,4.6
+S00001285,C000780,2025-10-15,Account inquiry,True,Escalated,0.9
+S00001286,C000780,2025-06-29,Digital access,False,Escalated,2.2
+S00001287,C000781,2025-11-13,Account inquiry,False,Resolved,3.9
+S00001288,C000781,2025-05-28,Digital access,False,Resolved,1.7
+S00001289,C000782,2025-07-30,Digital access,False,Pending,2.4
+S00001290,C000782,2025-07-26,Loan service,False,Pending,2.9
+S00001291,C000782,2025-01-03,Digital access,False,Resolved,2.0
+S00001292,C000783,2025-02-17,Account inquiry,True,Resolved,6.2
+S00001293,C000783,2025-05-28,Payments,False,Escalated,2.3
+S00001294,C000783,2025-04-29,Card support,False,Resolved,4.5
+S00001295,C000783,2025-12-26,Payments,False,Resolved,3.0
+S00001296,C000783,2025-09-28,Payments,True,Pending,2.2
+S00001297,C000786,2025-09-04,Loan service,True,Resolved,0.8
+S00001298,C000787,2025-01-12,Account inquiry,False,Resolved,3.0
+S00001299,C000787,2025-02-27,Card support,False,Resolved,1.7
+S00001300,C000789,2025-08-14,Account inquiry,True,Resolved,6.5
+S00001301,C000790,2025-10-06,Loan service,False,Resolved,3.5
+S00001302,C000790,2025-09-18,Card support,True,Resolved,4.2
+S00001303,C000790,2025-10-07,Digital access,False,Resolved,7.1
+S00001304,C000791,2025-02-19,Account inquiry,False,Resolved,4.5
+S00001305,C000791,2025-07-29,Loan service,False,Resolved,1.8
+S00001306,C000792,2025-01-10,Digital access,False,Unknown,0.5
+S00001307,C000792,2025-03-27,Payments,True,Resolved,5.5
+S00001308,C000793,2025-01-22,Account inquiry,False,Resolved,1.2
+S00001309,C000794,2025-12-28,Payments,True,Resolved,6.8
+S00001310,C000795,2025-08-20,Card support,False,Pending,1.5
+S00001311,C000795,2025-05-13,Payments,True,Resolved,3.0
+S00001312,C000796,2025-11-02,Payments,False,Unknown,8.1
+S00001313,C000799,2025-01-08,Account inquiry,False,Resolved,3.0
+S00001314,C000799,2025-06-12,Loan service,False,Resolved,3.5
+S00001315,C000799,2025-06-19,Card support,False,Resolved,10.1
+S00001316,C000799,2025-01-18,Digital access,False,Escalated,8.9
+S00001317,C000800,2025-02-09,Card support,True,Resolved,1.9
+S00001318,C000801,2025-11-08,Digital access,True,Resolved,3.0
+S00001319,C000801,2025-12-30,Card support,False,Resolved,3.0
+S00001320,C000802,2025-08-26,Loan service,False,Resolved,5.6
+S00001321,C000802,2025-12-10,Account inquiry,False,Pending,5.6
+S00001322,C000802,2025-11-17,Digital access,False,Resolved,2.1
+S00001323,C000803,2025-09-08,Digital access,True,Resolved,8.4
+S00001324,C000803,2025-10-03,Payments,False,Escalated,3.9
+S00001325,C000804,2025-02-08,Card support,False,Resolved,5.7
+S00001326,C000805,2025-02-22,Payments,True,Resolved,1.4
+S00001327,C000807,2025-08-20,Payments,True,Resolved,5.1
+S00001328,C000807,2025-08-23,Loan service,True,Unknown,1.6
+S00001329,C000809,2025-07-27,Payments,False,Resolved,3.0
+S00001330,C000809,2025-03-03,Digital access,False,Resolved,7.8
+S00001331,C000810,2025-12-08,Loan service,False,Resolved,9.8
+S00001332,C000810,2025-06-28,Payments,False,Resolved,8.3
+S00001333,C000811,2025-05-19,Payments,False,Resolved,3.2
+S00001334,C000812,2025-12-28,Digital access,False,Resolved,2.2
+S00001335,C000812,2025-02-13,Loan service,False,Resolved,2.8
+S00001336,C000813,2025-06-11,Card support,False,Resolved,4.6
+S00001337,C000813,2025-01-08,Card support,False,Escalated,3.1
+S00001338,C000814,2025-07-17,Payments,False,Resolved,0.5
+S00001339,C000814,2025-09-27,Loan service,False,Resolved,6.9
+S00001340,C000814,2025-03-28,Payments,False,Resolved,0.8
+S00001341,C000815,2025-12-30,Digital access,False,Escalated,2.2
+S00001342,C000815,2025-02-21,Loan service,False,Resolved,2.7
+S00001343,C000815,2025-03-13,Card support,True,Escalated,0.7
+S00001344,C000818,2025-12-21,Card support,True,Resolved,3.5
+S00001345,C000818,2025-10-29,Loan service,True,Escalated,3.8
+S00001346,C000819,2025-06-17,Payments,False,Escalated,4.3
+S00001347,C000820,2025-10-09,Account inquiry,True,Pending,3.6
+S00001348,C000820,2025-02-08,Loan service,False,Pending,4.4
+S00001349,C000820,2025-07-14,Digital access,False,Unknown,7.2
+S00001350,C000821,2025-07-27,Card support,True,Resolved,4.1
+S00001351,C000822,2025-10-29,Loan service,True,Unknown,0.6
+S00001352,C000823,2025-07-12,Loan service,True,Pending,3.4
+S00001353,C000823,2025-06-11,Account inquiry,False,Unknown,3.4
+S00001354,C000824,2025-08-15,Account inquiry,False,Pending,3.0
+S00001355,C000824,2025-01-08,Loan service,False,Resolved,4.1
+S00001356,C000825,2025-07-07,Payments,True,Resolved,8.9
+S00001357,C000826,2025-01-06,Account inquiry,False,Unknown,2.1
+S00001358,C000827,2025-01-14,Account inquiry,False,Resolved,0.7
+S00001359,C000828,2025-01-20,Digital access,False,Pending,0.6
+S00001360,C000828,2025-04-11,Digital access,False,Resolved,3.2
+S00001361,C000828,2025-11-25,Card support,False,Unknown,4.8
+S00001362,C000829,2025-06-06,Payments,False,Resolved,4.0
+S00001363,C000830,2025-09-18,Account inquiry,False,Resolved,5.0
+S00001364,C000830,2025-06-03,Digital access,False,Escalated,3.0
+S00001365,C000830,2025-01-15,Payments,False,Resolved,3.0
+S00001366,C000830,2025-07-12,Account inquiry,True,Pending,2.4
+S00001367,C000830,2025-12-11,Card support,False,Resolved,5.4
+S00001368,C000830,2025-03-31,Loan service,False,Unknown,3.3
+S00001369,C000831,2025-05-18,Loan service,True,Resolved,3.2
+S00001370,C000832,2025-04-13,Card support,True,Resolved,2.8
+S00001371,C000832,2025-06-19,Loan service,False,Resolved,1.3
+S00001372,C000832,2025-01-15,Payments,False,Pending,1.5
+S00001373,C000832,2025-10-28,Digital access,False,Resolved,4.1
+S00001374,C000832,2025-11-02,Account inquiry,False,Resolved,1.0
+S00001375,C000833,2025-01-14,Payments,True,Resolved,1.1
+S00001376,C000833,2025-12-04,Digital access,False,Resolved,3.5
+S00001377,C000834,2025-02-01,Loan service,False,Unknown,3.3
+S00001378,C000834,2025-12-29,Payments,False,Resolved,3.0
+S00001379,C000835,2025-01-17,Account inquiry,False,Escalated,2.1
+S00001380,C000835,2025-09-09,Payments,False,Resolved,6.8
+S00001381,C000835,2025-01-18,Card support,False,Escalated,1.2
+S00001382,C000836,2025-04-29,Loan service,False,Resolved,3.0
+S00001383,C000837,2025-06-16,Payments,True,Resolved,0.7
+S00001384,C000837,2025-01-28,Card support,False,Escalated,3.0
+S00001385,C000837,2025-12-10,Card support,False,Pending,0.4
+S00001386,C000838,2025-01-19,Card support,False,Unknown,11.5
+S00001387,C000841,2025-10-06,Loan service,False,Resolved,1.2
+S00001388,C000841,2025-11-11,Payments,False,Resolved,2.0
+S00001389,C000842,2025-02-09,Payments,True,Resolved,1.5
+S00001390,C000843,2025-05-21,Payments,False,Resolved,1.3
+S00001391,C000843,2025-12-06,Digital access,True,Resolved,3.0
+S00001392,C000843,2025-06-23,Loan service,False,Resolved,6.6
+S00001393,C000844,2025-10-21,Payments,False,Escalated,3.9
+S00001394,C000844,2025-02-05,Digital access,False,Resolved,3.4
+S00001395,C000844,2025-05-14,Digital access,False,Resolved,4.2
+S00001396,C000845,2025-07-27,Card support,False,Unknown,1.6
+S00001397,C000845,2025-08-07,Digital access,False,Resolved,0.7
+S00001398,C000845,2025-02-08,Account inquiry,True,Resolved,3.5
+S00001399,C000846,2025-07-03,Loan service,True,Resolved,3.0
+S00001400,C000846,2025-10-14,Payments,True,Resolved,3.0
+S00001401,C000846,2025-08-15,Payments,False,Resolved,3.0
+S00001402,C000847,2025-05-18,Loan service,True,Escalated,3.4
+S00001403,C000847,2025-12-31,Account inquiry,True,Resolved,3.5
+S00001404,C000847,2025-02-21,Loan service,False,Escalated,6.4
+S00001405,C000848,2025-05-08,Loan service,False,Resolved,1.7
+S00001406,C000849,2025-01-28,Payments,False,Resolved,3.6
+S00001407,C000850,2025-11-04,Payments,True,Resolved,1.0
+S00001408,C000851,2025-05-01,Card support,False,Resolved,0.8
+S00001409,C000851,2025-12-19,Digital access,False,Resolved,5.3
+S00001410,C000853,2025-08-12,Account inquiry,True,Resolved,2.7
+S00001411,C000853,2025-04-18,Payments,True,Resolved,1.9
+S00001412,C000854,2025-03-16,Card support,False,Resolved,6.1
+S00001413,C000854,2025-01-25,Account inquiry,False,Unknown,3.3
+S00001414,C000854,2025-03-20,Card support,False,Resolved,5.6
+S00001415,C000855,2025-11-16,Account inquiry,True,Resolved,4.6
+S00001416,C000855,2025-03-24,Card support,False,Resolved,10.2
+S00001417,C000858,2025-06-09,Payments,False,Resolved,1.5
+S00001418,C000858,2025-06-14,Account inquiry,False,Unknown,1.3
+S00001419,C000859,2025-08-08,Account inquiry,False,Resolved,3.0
+S00001420,C000859,2025-11-20,Card support,False,Resolved,4.9
+S00001421,C000859,2025-10-13,Card support,False,Resolved,1.3
+S00001422,C000860,2025-05-26,Loan service,False,Resolved,5.1
+S00001423,C000860,2025-12-10,Payments,False,Escalated,2.1
+S00001424,C000860,2025-12-14,Account inquiry,True,Resolved,4.5
+S00001425,C000861,2025-06-28,Digital access,True,Resolved,3.5
+S00001426,C000861,2025-05-22,Card support,False,Resolved,4.9
+S00001427,C000861,2025-05-01,Card support,True,Resolved,2.2
+S00001428,C000862,2025-01-05,Card support,True,Resolved,1.6
+S00001429,C000862,2025-05-28,Loan service,False,Unknown,2.5
+S00001430,C000864,2025-03-17,Loan service,True,Resolved,2.8
+S00001431,C000864,2025-01-09,Account inquiry,False,Resolved,1.8
+S00001432,C000865,2025-12-21,Card support,True,Unknown,4.1
+S00001433,C000866,2025-10-16,Digital access,False,Resolved,1.0
+S00001434,C000866,2025-01-16,Digital access,False,Resolved,0.8
+S00001435,C000866,2025-02-01,Unspecified,True,Resolved,1.0
+S00001436,C000866,2025-02-17,Payments,True,Resolved,9.4
+S00001437,C000866,2025-04-20,Loan service,True,Resolved,3.2
+S00001438,C000867,2025-07-19,Digital access,False,Resolved,1.0
+S00001439,C000868,2025-04-13,Account inquiry,True,Resolved,3.6
+S00001440,C000869,2025-12-06,Loan service,True,Resolved,1.8
+S00001441,C000869,2025-02-08,Digital access,False,Resolved,6.3
+S00001442,C000870,2025-09-12,Loan service,True,Pending,3.0
+S00001443,C000871,2025-06-08,Payments,False,Escalated,3.5
+S00001444,C000871,2025-08-26,Payments,False,Resolved,0.4
+S00001445,C000871,2025-05-24,Digital access,True,Unknown,4.6
+S00001446,C000871,2025-01-20,Card support,True,Resolved,1.4
+S00001447,C000872,2025-01-22,Unspecified,True,Escalated,3.1
+S00001448,C000874,2025-12-11,Loan service,False,Resolved,3.7
+S00001449,C000874,2025-07-27,Digital access,False,Resolved,0.7
+S00001450,C000875,2025-10-01,Digital access,True,Resolved,1.9
+S00001451,C000876,2025-09-25,Account inquiry,False,Resolved,1.8
+S00001452,C000877,2025-09-06,Payments,True,Resolved,2.6
+S00001453,C000878,2025-11-12,Account inquiry,False,Resolved,1.8
+S00001454,C000878,2025-04-25,Payments,False,Resolved,6.1
+S00001455,C000880,2025-06-28,Digital access,False,Unknown,1.5
+S00001456,C000880,2025-06-16,Digital access,True,Resolved,5.2
+S00001457,C000881,2025-08-18,Account inquiry,False,Pending,1.0
+S00001458,C000882,2025-12-20,Payments,False,Resolved,7.0
+S00001459,C000882,2025-02-03,Loan service,False,Resolved,12.4
+S00001460,C000882,2025-06-26,Digital access,True,Escalated,2.5
+S00001461,C000883,2025-11-08,Payments,False,Escalated,2.8
+S00001462,C000883,2025-07-21,Card support,True,Resolved,0.4
+S00001463,C000883,2025-05-05,Card support,False,Resolved,5.8
+S00001464,C000884,2025-12-06,Account inquiry,True,Pending,2.2
+S00001465,C000886,2025-12-09,Card support,True,Resolved,8.2
+S00001466,C000886,2025-03-16,Card support,False,Resolved,2.0
+S00001467,C000886,2025-02-02,Payments,False,Resolved,2.5
+S00001468,C000886,2025-10-26,Card support,False,Escalated,1.4
+S00001469,C000890,2025-02-09,Loan service,True,Pending,1.4
+S00001470,C000890,2025-06-25,Account inquiry,False,Resolved,1.0
+S00001471,C000891,2025-12-14,Loan service,False,Escalated,3.0
+S00001472,C000892,2025-06-22,Card support,False,Unknown,8.6
+S00001473,C000892,2025-12-30,Account inquiry,True,Pending,0.2
+S00001474,C000893,2025-05-01,Payments,False,Resolved,3.9
+S00001475,C000893,2025-12-22,Payments,True,Resolved,9.6
+S00001476,C000894,2025-06-19,Payments,True,Resolved,1.3
+S00001477,C000895,2025-08-08,Payments,True,Resolved,5.9
+S00001478,C000895,2025-06-12,Account inquiry,True,Resolved,1.9
+S00001479,C000895,2025-01-14,Payments,False,Resolved,3.0
+S00001480,C000895,2025-11-25,Payments,False,Resolved,0.7
+S00001481,C000896,2025-04-18,Payments,True,Escalated,0.6
+S00001482,C000896,2025-03-04,Card support,True,Resolved,2.7
+S00001483,C000899,2025-10-30,Card support,True,Resolved,3.1
+S00001484,C000899,2025-03-15,Card support,False,Unknown,4.9
+S00001485,C000899,2025-03-21,Digital access,False,Pending,3.0
+S00001486,C000900,2025-12-10,Loan service,True,Resolved,6.1
+S00001487,C000902,2025-05-03,Loan service,False,Unknown,1.1
+S00001488,C000902,2025-05-27,Digital access,False,Resolved,2.3
+S00001489,C000904,2025-08-01,Payments,False,Resolved,3.0
+S00001490,C000904,2025-07-06,Payments,True,Resolved,2.6
+S00001491,C000904,2025-07-05,Loan service,False,Escalated,2.9
+S00001492,C000905,2025-11-12,Account inquiry,False,Pending,5.0
+S00001493,C000905,2025-03-12,Account inquiry,False,Resolved,3.3
+S00001494,C000905,2025-12-20,Loan service,False,Pending,1.6
+S00001495,C000905,2025-09-20,Loan service,False,Pending,3.0
+S00001496,C000907,2025-06-22,Card support,False,Resolved,4.5
+S00001497,C000908,2025-07-20,Loan service,True,Resolved,1.6
+S00001498,C000908,2025-07-22,Account inquiry,False,Resolved,3.8
+S00001499,C000908,2025-09-14,Account inquiry,False,Resolved,3.4
+S00001500,C000908,2025-01-28,Payments,True,Resolved,0.9
+S00001501,C000909,2025-11-07,Card support,False,Pending,8.3
+S00001502,C000909,2025-12-21,Digital access,True,Escalated,1.2
+S00001503,C000910,2025-12-31,Digital access,True,Resolved,4.8
+S00001504,C000910,2025-06-21,Card support,True,Resolved,10.9
+S00001505,C000912,2025-09-04,Unspecified,True,Escalated,7.0
+S00001506,C000913,2025-11-29,Card support,False,Resolved,1.2
+S00001507,C000914,2025-01-10,Loan service,False,Escalated,4.2
+S00001508,C000915,2025-11-07,Card support,False,Pending,3.2
+S00001509,C000915,2025-09-08,Account inquiry,False,Resolved,3.7
+S00001510,C000916,2025-01-12,Account inquiry,True,Resolved,3.9
+S00001511,C000917,2025-11-08,Card support,False,Resolved,3.8
+S00001512,C000917,2025-08-01,Card support,False,Resolved,3.4
+S00001513,C000918,2025-11-26,Payments,True,Resolved,4.5
+S00001514,C000919,2025-01-08,Unspecified,True,Escalated,4.0
+S00001515,C000921,2025-09-04,Payments,True,Resolved,1.2
+S00001516,C000921,2025-10-28,Card support,False,Pending,2.5
+S00001517,C000921,2025-01-03,Account inquiry,False,Pending,4.4
+S00001518,C000922,2025-03-30,Loan service,False,Unknown,9.4
+S00001519,C000922,2025-11-15,Digital access,True,Resolved,2.1
+S00001520,C000922,2025-03-20,Card support,False,Escalated,3.8
+S00001521,C000922,2025-01-12,Loan service,False,Resolved,0.9
+S00001522,C000922,2025-06-19,Loan service,True,Resolved,3.0
+S00001523,C000923,2025-04-26,Card support,True,Resolved,2.2
+S00001524,C000923,2025-11-17,Digital access,True,Resolved,3.7
+S00001525,C000923,2025-07-03,Digital access,True,Unknown,10.2
+S00001526,C000924,2025-06-17,Card support,False,Escalated,3.0
+S00001527,C000924,2025-08-13,Payments,False,Resolved,6.7
+S00001528,C000927,2025-05-22,Card support,False,Resolved,4.8
+S00001529,C000928,2025-08-23,Unspecified,True,Resolved,1.7
+S00001530,C000929,2025-11-15,Payments,False,Resolved,5.8
+S00001531,C000929,2025-07-14,Payments,True,Escalated,2.1
+S00001532,C000930,2025-11-17,Loan service,True,Resolved,2.5
+S00001533,C000931,2025-07-09,Account inquiry,False,Resolved,1.8
+S00001534,C000932,2025-12-26,Account inquiry,False,Resolved,4.5
+S00001535,C000932,2025-08-12,Loan service,False,Escalated,1.7
+S00001536,C000933,2025-05-30,Loan service,True,Resolved,5.2
+S00001537,C000934,2025-11-10,Digital access,False,Escalated,1.2
+S00001538,C000935,2025-01-02,Unspecified,True,Escalated,3.1
+S00001539,C000936,2025-07-09,Payments,True,Resolved,0.8
+S00001540,C000936,2025-07-16,Payments,False,Pending,0.9
+S00001541,C000937,2025-03-18,Card support,False,Resolved,2.7
+S00001542,C000937,2025-12-03,Card support,True,Resolved,3.0
+S00001543,C000937,2025-09-03,Digital access,False,Resolved,4.5
+S00001544,C000938,2025-04-17,Account inquiry,False,Resolved,2.3
+S00001545,C000939,2025-06-24,Digital access,False,Resolved,2.9
+S00001546,C000939,2025-03-31,Loan service,False,Resolved,1.8
+S00001547,C000939,2025-02-20,Card support,False,Resolved,1.3
+S00001548,C000939,2025-04-25,Card support,False,Resolved,3.1
+S00001549,C000939,2025-04-09,Account inquiry,False,Escalated,1.8
+S00001550,C000940,2025-11-13,Card support,False,Unknown,1.2
+S00001551,C000940,2025-03-11,Card support,False,Resolved,1.1
+S00001552,C000940,2025-09-06,Digital access,False,Resolved,4.1
+S00001553,C000941,2025-12-17,Loan service,False,Escalated,1.8
+S00001554,C000941,2025-03-22,Card support,False,Resolved,2.4
+S00001555,C000942,2025-09-24,Digital access,True,Resolved,0.6
+S00001556,C000943,2025-08-10,Payments,True,Resolved,2.4
+S00001557,C000943,2025-03-06,Payments,False,Resolved,5.2
+S00001558,C000944,2025-03-20,Account inquiry,False,Resolved,1.2
+S00001559,C000945,2025-03-07,Digital access,False,Resolved,4.2
+S00001560,C000945,2025-02-28,Payments,False,Unknown,4.8
+S00001561,C000946,2025-08-16,Loan service,False,Resolved,4.1
+S00001562,C000946,2025-11-23,Card support,False,Resolved,3.0
+S00001563,C000947,2025-10-10,Card support,False,Resolved,16.0
+S00001564,C000947,2025-11-10,Payments,False,Resolved,2.7
+S00001565,C000947,2025-03-20,Card support,False,Resolved,6.0
+S00001566,C000947,2025-11-18,Card support,False,Resolved,3.2
+S00001567,C000948,2025-04-26,Card support,False,Resolved,2.0
+S00001568,C000948,2025-09-27,Payments,False,Unknown,3.5
+S00001569,C000948,2025-06-09,Card support,False,Escalated,2.8
+S00001570,C000949,2025-12-13,Loan service,True,Resolved,2.5
+S00001571,C000950,2025-07-17,Account inquiry,False,Pending,2.4
+S00001572,C000950,2025-04-20,Payments,True,Resolved,2.2
+S00001573,C000951,2025-05-09,Account inquiry,False,Resolved,4.1
+S00001574,C000952,2025-11-26,Digital access,False,Resolved,1.4
+S00001575,C000952,2025-06-22,Loan service,False,Resolved,1.4
+S00001576,C000952,2025-06-25,Loan service,False,Resolved,4.8
+S00001577,C000952,2025-05-25,Payments,True,Escalated,2.0
+S00001578,C000953,2025-03-22,Digital access,True,Resolved,2.4
+S00001579,C000954,2025-09-25,Card support,False,Resolved,0.2
+S00001580,C000954,2025-02-09,Loan service,True,Resolved,2.0
+S00001581,C000954,2025-04-17,Digital access,False,Resolved,1.3
+S00001582,C000955,2025-11-21,Loan service,False,Resolved,1.0
+S00001583,C000956,2025-08-25,Unspecified,True,Resolved,2.9
+S00001584,C000957,2025-10-11,Payments,False,Pending,0.8
+S00001585,C000957,2025-06-26,Card support,False,Resolved,1.8
+S00001586,C000959,2025-01-10,Loan service,False,Pending,7.6
+S00001587,C000960,2025-03-17,Payments,False,Resolved,0.7
+S00001588,C000961,2025-01-07,Payments,False,Resolved,0.7
+S00001589,C000962,2025-09-12,Unspecified,True,Resolved,1.3
+S00001590,C000962,2025-06-10,Loan service,False,Unknown,3.0
+S00001591,C000963,2025-08-16,Digital access,True,Resolved,2.1
+S00001592,C000963,2025-07-07,Payments,False,Pending,3.0
+S00001593,C000964,2025-03-31,Payments,False,Resolved,2.4
+S00001594,C000964,2025-02-05,Unspecified,True,Resolved,3.0
+S00001595,C000964,2025-03-29,Loan service,False,Resolved,1.3
+S00001596,C000966,2025-01-28,Digital access,True,Unknown,2.9
+S00001597,C000966,2025-01-09,Digital access,False,Unknown,0.4
+S00001598,C000966,2025-08-24,Payments,True,Resolved,4.2
+S00001599,C000967,2025-05-12,Digital access,True,Resolved,1.7
+S00001600,C000967,2025-05-13,Loan service,True,Resolved,5.2
+S00001601,C000967,2025-09-02,Card support,False,Resolved,4.3
+S00001602,C000967,2025-02-18,Digital access,False,Resolved,3.0
+S00001603,C000968,2025-06-26,Card support,False,Resolved,9.0
+S00001604,C000969,2025-01-02,Digital access,True,Resolved,2.3
+S00001605,C000970,2025-10-02,Account inquiry,False,Resolved,2.8
+S00001606,C000972,2025-03-07,Payments,True,Resolved,0.5
+S00001607,C000972,2025-01-17,Payments,False,Resolved,6.0
+S00001608,C000973,2025-06-08,Payments,True,Resolved,2.6
+S00001609,C000974,2025-12-27,Card support,False,Resolved,4.1
+S00001610,C000974,2025-02-26,Card support,False,Resolved,9.3
+S00001611,C000974,2025-10-20,Account inquiry,False,Resolved,3.8
+S00001612,C000974,2025-04-12,Payments,False,Resolved,0.8
+S00001613,C000975,2025-07-10,Digital access,True,Resolved,7.9
+S00001614,C000975,2025-01-01,Card support,False,Resolved,6.3
+S00001615,C000976,2025-04-03,Payments,True,Resolved,8.1
+S00001616,C000976,2025-10-29,Card support,False,Resolved,1.9
+S00001617,C000978,2025-02-19,Payments,False,Escalated,1.5
+S00001618,C000979,2025-03-24,Digital access,False,Resolved,4.9
+S00001619,C000979,2025-05-16,Account inquiry,False,Escalated,5.6
+S00001620,C000979,2025-12-25,Card support,True,Resolved,1.1
+S00001621,C000979,2025-03-18,Loan service,True,Unknown,4.7
+S00001622,C000980,2025-07-19,Loan service,False,Resolved,4.9
+S00001623,C000980,2025-04-07,Loan service,False,Resolved,2.5
+S00001624,C000980,2025-02-11,Digital access,True,Resolved,2.3
+S00001625,C000981,2025-09-30,Loan service,False,Resolved,0.7
+S00001626,C000982,2025-09-13,Loan service,False,Resolved,1.2
+S00001627,C000982,2025-07-09,Payments,True,Resolved,3.0
+S00001628,C000982,2025-11-29,Account inquiry,False,Resolved,5.7
+S00001629,C000983,2025-08-24,Loan service,False,Escalated,1.5
+S00001630,C000983,2025-07-07,Card support,False,Resolved,10.0
+S00001631,C000983,2025-06-17,Payments,False,Resolved,2.5
+S00001632,C000984,2025-11-24,Account inquiry,False,Pending,1.2
+S00001633,C000985,2025-06-01,Digital access,True,Resolved,2.9
+S00001634,C000986,2025-03-07,Loan service,False,Resolved,3.0
+S00001635,C000987,2025-09-24,Digital access,False,Resolved,4.4
+S00001636,C000988,2025-12-26,Digital access,False,Resolved,8.8
+S00001637,C000988,2025-05-04,Loan service,True,Resolved,2.7
+S00001638,C000988,2025-10-15,Loan service,False,Pending,5.4
+S00001639,C000990,2025-03-30,Card support,False,Resolved,2.6
+S00001640,C000990,2025-05-04,Payments,False,Resolved,0.7
+S00001641,C000991,2025-05-17,Digital access,False,Resolved,2.6
+S00001642,C000991,2025-08-05,Card support,False,Escalated,6.7
+S00001643,C000991,2025-02-10,Account inquiry,True,Resolved,5.3
+S00001644,C000992,2025-09-01,Payments,False,Pending,8.9
+S00001645,C000992,2025-05-04,Loan service,True,Resolved,1.4
+S00001646,C000992,2025-12-30,Digital access,False,Resolved,4.8
+S00001647,C000993,2025-04-19,Loan service,False,Pending,2.0
+S00001648,C000993,2025-04-15,Payments,True,Resolved,2.2
+S00001649,C000994,2025-03-01,Payments,True,Resolved,6.6
+S00001650,C000995,2025-06-09,Loan service,False,Pending,4.1
+S00001651,C000996,2025-11-10,Account inquiry,False,Unknown,3.5
+S00001652,C000996,2025-09-12,Payments,False,Resolved,2.2
+S00001653,C000996,2025-11-26,Digital access,False,Resolved,0.3
+S00001654,C000996,2025-05-03,Account inquiry,False,Resolved,1.2
+S00001655,C000997,2025-03-16,Loan service,True,Resolved,3.0
+S00001656,C000998,2025-05-25,Card support,False,Unknown,2.9
+S00001657,C000999,2025-09-13,Card support,False,Unknown,5.5
+S00001658,C000999,2025-10-09,Digital access,False,Unknown,5.9
+S00001659,C001000,2025-12-23,Digital access,True,Resolved,4.2
+S00001660,C001001,2025-04-02,Account inquiry,True,Escalated,3.0
+S00001661,C001001,2025-04-16,Digital access,True,Resolved,6.2
+S00001662,C001002,2025-04-07,Digital access,False,Pending,3.8
+S00001663,C001002,2025-08-15,Loan service,False,Escalated,0.6
+S00001664,C001003,2025-01-13,Digital access,False,Escalated,1.9
+S00001665,C001004,2025-02-11,Card support,False,Resolved,0.7
+S00001666,C001004,2025-12-08,Payments,False,Resolved,2.6
+S00001667,C001005,2025-10-25,Loan service,True,Resolved,7.0
+S00001668,C001005,2025-09-19,Loan service,False,Escalated,3.3
+S00001669,C001006,2025-07-28,Payments,False,Resolved,1.3
+S00001670,C001007,2025-02-01,Loan service,False,Escalated,1.3
+S00001671,C001008,2025-08-18,Card support,True,Resolved,1.1
+S00001672,C001009,2025-09-13,Digital access,False,Pending,6.4
+S00001673,C001011,2025-01-21,Payments,False,Resolved,3.0
+S00001674,C001011,2025-04-07,Loan service,False,Resolved,5.0
+S00001675,C001012,2025-10-15,Account inquiry,False,Escalated,4.4
+S00001676,C001014,2025-10-19,Account inquiry,False,Resolved,1.0
+S00001677,C001014,2025-10-12,Card support,False,Resolved,2.9
+S00001678,C001014,2025-09-26,Unspecified,True,Resolved,0.1
+S00001679,C001015,2025-12-30,Account inquiry,False,Pending,3.7
+S00001680,C001016,2025-08-06,Account inquiry,False,Resolved,9.4
+S00001681,C001017,2025-04-08,Account inquiry,True,Resolved,5.4
+S00001682,C001017,2025-05-21,Unspecified,True,Resolved,3.0
+S00001683,C001018,2025-12-24,Account inquiry,False,Escalated,0.5
+S00001684,C001018,2025-10-08,Loan service,True,Pending,3.1
+S00001685,C001019,2025-03-12,Loan service,True,Resolved,0.6
+S00001686,C001019,2025-12-20,Loan service,True,Resolved,7.2
+S00001687,C001019,2025-11-04,Account inquiry,False,Unknown,0.4
+S00001688,C001020,2025-04-05,Account inquiry,False,Escalated,5.1
+S00001689,C001021,2025-02-24,Account inquiry,False,Resolved,2.6
+S00001690,C001022,2025-08-26,Card support,False,Resolved,1.0
+S00001691,C001022,2025-11-13,Card support,True,Resolved,1.4
+S00001692,C001022,2025-05-01,Account inquiry,True,Escalated,1.4
+S00001693,C001024,2025-11-04,Payments,True,Resolved,1.2
+S00001694,C001024,2025-01-08,Payments,False,Escalated,5.3
+S00001695,C001024,2025-04-24,Loan service,False,Resolved,4.7
+S00001696,C001024,2025-06-20,Account inquiry,True,Resolved,0.7
+S00001697,C001026,2025-09-03,Loan service,False,Resolved,2.4
+S00001698,C001027,2025-12-01,Payments,False,Resolved,1.8
+S00001699,C001027,2025-10-04,Loan service,False,Resolved,2.8
+S00001700,C001027,2025-07-18,Loan service,False,Pending,6.6
+S00001701,C001028,2025-12-14,Account inquiry,False,Resolved,2.2
+S00001702,C001028,2025-12-15,Digital access,True,Resolved,0.8
+S00001703,C001031,2025-09-04,Card support,False,Resolved,2.1
+S00001704,C001031,2025-05-08,Digital access,False,Unknown,3.0
+S00001705,C001032,2025-07-15,Loan service,False,Resolved,4.1
+S00001706,C001032,2025-10-02,Payments,False,Resolved,6.2
+S00001707,C001033,2025-11-06,Account inquiry,False,Pending,4.7
+S00001708,C001034,2025-01-31,Card support,False,Resolved,1.9
+S00001709,C001034,2025-03-06,Payments,True,Resolved,3.0
+S00001710,C001035,2025-01-18,Card support,False,Escalated,2.5
+S00001711,C001036,2025-09-16,Account inquiry,True,Resolved,4.6
+S00001712,C001037,2025-06-20,Card support,False,Resolved,7.0
+S00001713,C001038,2025-07-26,Account inquiry,False,Resolved,8.6
+S00001714,C001039,2025-10-08,Account inquiry,False,Resolved,4.5
+S00001715,C001040,2025-06-14,Account inquiry,True,Unknown,3.6
+S00001716,C001040,2025-09-12,Loan service,True,Resolved,5.1
+S00001717,C001041,2025-09-23,Payments,False,Resolved,4.1
+S00001718,C001042,2025-12-07,Account inquiry,True,Resolved,3.7
+S00001719,C001042,2025-02-09,Loan service,False,Resolved,3.0
+S00001720,C001042,2025-11-28,Card support,False,Resolved,3.0
+S00001721,C001043,2025-11-21,Digital access,True,Resolved,0.7
+S00001722,C001046,2025-12-24,Payments,False,Resolved,3.0
+S00001723,C001047,2025-11-27,Digital access,True,Resolved,2.2
+S00001724,C001047,2025-02-05,Payments,False,Resolved,1.0
+S00001725,C001048,2025-10-01,Card support,False,Resolved,6.0
+S00001726,C001048,2025-12-16,Digital access,False,Resolved,1.5
+S00001727,C001048,2025-11-04,Account inquiry,False,Resolved,3.9
+S00001728,C001049,2025-03-19,Account inquiry,False,Resolved,2.1
+S00001729,C001049,2025-08-08,Digital access,False,Resolved,3.0
+S00001730,C001049,2025-01-24,Loan service,False,Resolved,2.0
+S00001731,C001050,2025-06-26,Account inquiry,False,Resolved,1.8
+S00001732,C001051,2025-05-13,Card support,False,Resolved,3.1
+S00001733,C001051,2025-04-30,Account inquiry,True,Resolved,11.1
+S00001734,C001051,2025-10-22,Digital access,False,Resolved,2.4
+S00001735,C001051,2025-02-11,Loan service,True,Resolved,3.7
+S00001736,C001052,2025-12-17,Card support,False,Resolved,6.2
+S00001737,C001052,2025-01-25,Payments,False,Resolved,3.3
+S00001738,C001053,2025-02-24,Digital access,False,Resolved,4.0
+S00001739,C001053,2025-02-04,Loan service,False,Resolved,4.0
+S00001740,C001054,2025-10-23,Digital access,True,Resolved,1.9
+S00001741,C001054,2025-06-02,Digital access,True,Resolved,3.5
+S00001742,C001055,2025-07-10,Digital access,False,Resolved,1.2
+S00001743,C001055,2025-01-31,Card support,True,Resolved,3.0
+S00001744,C001056,2025-07-06,Account inquiry,True,Resolved,3.0
+S00001745,C001057,2025-04-26,Card support,False,Resolved,0.7
+S00001746,C001057,2025-08-08,Loan service,False,Resolved,4.2
+S00001747,C001057,2025-05-13,Loan service,False,Pending,9.5
+S00001748,C001057,2025-06-27,Card support,False,Resolved,3.6
+S00001749,C001059,2025-09-05,Loan service,False,Pending,7.0
+S00001750,C001060,2025-09-13,Account inquiry,False,Resolved,3.8
+S00001751,C001060,2025-06-21,Loan service,True,Resolved,5.2
+S00001752,C001061,2025-04-28,Card support,True,Resolved,2.9
+S00001753,C001061,2025-02-16,Payments,False,Resolved,0.6
+S00001754,C001061,2025-10-26,Digital access,False,Resolved,2.1
+S00001755,C001061,2025-01-27,Card support,False,Pending,3.0
+S00001756,C001061,2025-06-15,Payments,False,Resolved,3.1
+S00001757,C001062,2025-07-22,Unspecified,True,Resolved,4.3
+S00001758,C001065,2025-11-02,Card support,False,Unknown,1.0
+S00001759,C001065,2025-09-03,Account inquiry,False,Resolved,2.3
+S00001760,C001065,2025-06-09,Loan service,False,Unknown,7.7
+S00001761,C001065,2025-05-21,Digital access,False,Resolved,5.0
+S00001762,C001066,2025-07-06,Account inquiry,False,Pending,2.3
+S00001763,C001067,2025-07-26,Account inquiry,False,Resolved,1.7
+S00001764,C001068,2025-05-06,Card support,True,Resolved,6.0
+S00001765,C001068,2025-03-17,Account inquiry,False,Pending,4.8
+S00001766,C001069,2025-06-24,Digital access,False,Pending,3.7
+S00001767,C001070,2025-05-20,Digital access,True,Resolved,4.4
+S00001768,C001071,2025-11-26,Digital access,False,Unknown,4.6
+S00001769,C001071,2025-12-24,Payments,False,Unknown,3.0
+S00001770,C001072,2025-04-07,Account inquiry,False,Pending,3.0
+S00001771,C001073,2025-09-28,Digital access,False,Resolved,8.4
+S00001772,C001073,2025-07-25,Digital access,True,Resolved,0.9
+S00001773,C001074,2025-12-03,Loan service,False,Resolved,2.1
+S00001774,C001076,2025-03-21,Payments,False,Unknown,4.7
+S00001775,C001078,2025-04-21,Loan service,False,Resolved,3.0
+S00001776,C001079,2025-12-10,Unspecified,True,Resolved,1.4
+S00001777,C001079,2025-01-02,Account inquiry,True,Resolved,1.7
+S00001778,C001079,2025-06-26,Payments,True,Pending,1.8
+S00001779,C001080,2025-10-08,Loan service,True,Pending,2.9
+S00001780,C001081,2025-06-23,Card support,False,Resolved,3.0
+S00001781,C001081,2025-10-12,Unspecified,True,Resolved,1.2
+S00001782,C001081,2025-11-29,Account inquiry,False,Pending,0.0
+S00001783,C001082,2025-08-05,Loan service,True,Resolved,1.8
+S00001784,C001082,2025-11-30,Card support,False,Resolved,5.8
+S00001785,C001083,2025-01-02,Loan service,True,Resolved,3.0
+S00001786,C001084,2025-08-09,Digital access,False,Resolved,1.5
+S00001787,C001084,2025-05-06,Unspecified,True,Resolved,9.0
+S00001788,C001086,2025-01-22,Loan service,False,Resolved,1.4
+S00001789,C001086,2025-07-08,Digital access,False,Resolved,5.5
+S00001790,C001087,2025-12-08,Payments,True,Resolved,4.2
+S00001791,C001088,2025-08-04,Card support,False,Resolved,4.0
+S00001792,C001088,2025-09-27,Account inquiry,False,Resolved,3.4
+S00001793,C001089,2025-11-10,Digital access,True,Resolved,5.4
+S00001794,C001089,2025-07-23,Card support,False,Resolved,5.7
+S00001795,C001090,2025-07-18,Digital access,True,Resolved,1.7
+S00001796,C001090,2025-08-04,Account inquiry,False,Resolved,2.4
+S00001797,C001093,2025-04-20,Account inquiry,True,Resolved,9.0
+S00001798,C001093,2025-06-10,Payments,False,Escalated,4.7
+S00001799,C001093,2025-08-14,Account inquiry,True,Resolved,7.7
+S00001800,C001094,2025-02-03,Card support,False,Resolved,2.5
+S00001801,C001095,2025-10-27,Loan service,False,Pending,1.4
+S00001802,C001095,2025-07-04,Account inquiry,True,Resolved,1.2
+S00001803,C001096,2025-04-04,Payments,True,Resolved,8.4
+S00001804,C001096,2025-07-28,Unspecified,True,Escalated,6.5
+S00001805,C001097,2025-05-25,Card support,True,Pending,1.7
+S00001806,C001099,2025-10-09,Digital access,False,Resolved,4.7
+S00001807,C001099,2025-07-09,Digital access,False,Resolved,7.0
+S00001808,C001100,2025-12-16,Loan service,False,Unknown,2.2
+S00001809,C001102,2025-06-27,Loan service,False,Resolved,4.0
+S00001810,C001102,2025-03-12,Account inquiry,False,Resolved,9.2
+S00001811,C001102,2025-05-16,Digital access,True,Resolved,5.9
+S00001812,C001102,2025-07-15,Payments,False,Resolved,2.6
+S00001813,C001102,2025-10-21,Card support,False,Resolved,1.9
+S00001814,C001102,2025-08-22,Account inquiry,False,Resolved,1.8
+S00001815,C001106,2025-04-23,Payments,True,Escalated,2.9
+S00001816,C001106,2025-09-04,Loan service,True,Resolved,2.2
+S00001817,C001106,2025-01-01,Payments,False,Resolved,4.7
+S00001818,C001107,2025-08-09,Payments,False,Resolved,2.7
+S00001819,C001107,2025-01-26,Card support,True,Resolved,1.1
+S00001820,C001108,2025-05-15,Digital access,False,Unknown,2.1
+S00001821,C001108,2025-06-15,Digital access,False,Resolved,7.1
+S00001822,C001108,2025-11-28,Card support,False,Resolved,4.3
+S00001823,C001108,2025-03-23,Digital access,False,Resolved,3.0
+S00001824,C001109,2025-06-13,Loan service,False,Pending,2.2
+S00001825,C001110,2025-03-26,Payments,False,Resolved,6.9
+S00001826,C001112,2025-04-19,Account inquiry,False,Resolved,0.5
+S00001827,C001112,2025-02-15,Digital access,False,Resolved,5.5
+S00001828,C001113,2025-05-18,Account inquiry,False,Resolved,3.0
+S00001829,C001114,2025-03-31,Card support,False,Resolved,2.5
+S00001830,C001114,2025-03-27,Payments,True,Resolved,3.7
+S00001831,C001115,2025-12-16,Digital access,False,Resolved,8.7
+S00001832,C001115,2025-12-04,Card support,False,Resolved,6.3
+S00001833,C001116,2025-09-01,Unspecified,True,Resolved,2.0
+S00001834,C001116,2025-12-13,Card support,True,Resolved,2.6
+S00001835,C001117,2025-08-03,Loan service,True,Resolved,0.7
+S00001836,C001118,2025-07-24,Digital access,False,Resolved,2.8
+S00001837,C001119,2025-11-11,Digital access,True,Resolved,1.8
+S00001838,C001119,2025-11-04,Payments,False,Unknown,2.7
+S00001839,C001120,2025-09-26,Loan service,True,Unknown,0.9
+S00001840,C001121,2025-05-20,Digital access,True,Resolved,16.9
+S00001841,C001121,2025-09-22,Payments,False,Resolved,4.5
+S00001842,C001121,2025-10-07,Payments,True,Resolved,0.8
+S00001843,C001122,2025-06-07,Card support,True,Resolved,3.7
+S00001844,C001122,2025-04-19,Loan service,False,Resolved,2.8
+S00001845,C001123,2025-10-17,Payments,True,Resolved,7.1
+S00001846,C001123,2025-12-17,Payments,True,Pending,3.8
+S00001847,C001124,2025-10-07,Loan service,True,Resolved,6.3
+S00001848,C001125,2025-05-17,Digital access,False,Resolved,2.2
+S00001849,C001125,2025-12-21,Payments,False,Resolved,0.6
+S00001850,C001126,2025-09-03,Payments,False,Resolved,3.0
+S00001851,C001126,2025-07-22,Payments,False,Resolved,10.6
+S00001852,C001126,2025-11-21,Digital access,False,Resolved,1.6
+S00001853,C001126,2025-12-24,Digital access,True,Resolved,3.0
+S00001854,C001126,2025-12-08,Card support,False,Resolved,1.5
+S00001855,C001127,2025-08-06,Digital access,False,Resolved,2.2
+S00001856,C001128,2025-09-05,Card support,True,Resolved,1.9
+S00001857,C001129,2025-02-11,Payments,False,Pending,2.1
+S00001858,C001129,2025-04-02,Payments,False,Resolved,0.7
+S00001859,C001130,2025-03-08,Card support,False,Pending,1.4
+S00001860,C001130,2025-05-17,Digital access,True,Resolved,3.7
+S00001861,C001131,2025-09-12,Payments,False,Resolved,2.3
+S00001862,C001132,2025-08-30,Account inquiry,False,Resolved,0.8
+S00001863,C001133,2025-05-24,Card support,False,Resolved,3.5
+S00001864,C001134,2025-05-19,Loan service,True,Resolved,0.1
+S00001865,C001134,2025-02-03,Digital access,False,Resolved,1.0
+S00001866,C001134,2025-02-21,Account inquiry,False,Resolved,6.8
+S00001867,C001134,2025-12-13,Account inquiry,False,Resolved,5.7
+S00001868,C001136,2025-05-02,Digital access,True,Resolved,4.0
+S00001869,C001138,2025-04-18,Digital access,False,Resolved,9.0
+S00001870,C001139,2025-09-17,Account inquiry,False,Resolved,2.0
+S00001871,C001139,2025-04-17,Account inquiry,False,Resolved,0.2
+S00001872,C001140,2025-02-17,Card support,False,Resolved,1.9
+S00001873,C001141,2025-06-13,Account inquiry,False,Resolved,3.5
+S00001874,C001141,2025-11-23,Card support,False,Escalated,6.7
+S00001875,C001142,2025-03-14,Digital access,False,Resolved,1.4
+S00001876,C001143,2025-07-02,Card support,False,Resolved,0.9
+S00001877,C001144,2025-09-18,Account inquiry,True,Resolved,2.7
+S00001878,C001144,2025-02-25,Payments,False,Resolved,1.6
+S00001879,C001145,2025-11-07,Loan service,False,Resolved,1.1
+S00001880,C001146,2025-10-01,Loan service,True,Resolved,5.0
+S00001881,C001147,2025-01-22,Account inquiry,False,Escalated,3.2
+S00001882,C001147,2025-11-19,Digital access,False,Resolved,4.3
+S00001883,C001147,2025-08-19,Digital access,False,Resolved,6.0
+S00001884,C001150,2025-06-02,Loan service,False,Resolved,12.2
+S00001885,C001151,2025-08-15,Card support,False,Escalated,1.2
+S00001886,C001151,2025-01-21,Digital access,False,Resolved,0.1
+S00001887,C001151,2025-09-26,Payments,False,Resolved,1.6
+S00001888,C001151,2025-12-22,Loan service,True,Unknown,5.1
+S00001889,C001151,2025-10-19,Card support,False,Resolved,0.3
+S00001890,C001151,2025-04-27,Payments,False,Pending,0.7
+S00001891,C001152,2025-07-09,Card support,False,Resolved,4.8
+S00001892,C001152,2025-08-05,Account inquiry,False,Resolved,0.8
+S00001893,C001152,2025-04-17,Payments,True,Resolved,6.2
+S00001894,C001152,2025-10-20,Loan service,False,Unknown,3.0
+S00001895,C001153,2025-08-15,Digital access,True,Resolved,3.3
+S00001896,C001154,2025-01-15,Payments,False,Escalated,1.5
+S00001897,C001155,2025-05-20,Digital access,True,Resolved,4.3
+S00001898,C001155,2025-08-10,Card support,False,Resolved,14.2
+S00001899,C001156,2025-12-03,Card support,False,Resolved,3.7
+S00001900,C001156,2025-03-17,Account inquiry,False,Resolved,5.7
+S00001901,C001156,2025-02-03,Payments,False,Resolved,2.6
+S00001902,C001156,2025-12-21,Payments,False,Resolved,2.0
+S00001903,C001157,2025-11-16,Digital access,True,Resolved,1.1
+S00001904,C001157,2025-04-23,Digital access,False,Pending,2.2
+S00001905,C001157,2025-03-20,Digital access,False,Resolved,3.0
+S00001906,C001157,2025-08-08,Card support,False,Resolved,7.1
+S00001907,C001157,2025-04-28,Account inquiry,False,Resolved,2.3
+S00001908,C001158,2025-06-17,Account inquiry,False,Resolved,3.3
+S00001909,C001159,2025-02-28,Digital access,False,Resolved,1.9
+S00001910,C001160,2025-12-21,Digital access,False,Escalated,3.7
+S00001911,C001162,2025-08-02,Digital access,True,Escalated,1.4
+S00001912,C001163,2025-01-02,Card support,False,Pending,5.2
+S00001913,C001163,2025-04-23,Digital access,False,Resolved,2.4
+S00001914,C001164,2025-09-17,Payments,True,Resolved,2.2
+S00001915,C001165,2025-04-11,Payments,False,Unknown,4.1
+S00001916,C001166,2025-01-19,Payments,False,Resolved,3.4
+S00001917,C001166,2025-09-25,Card support,True,Unknown,6.2
+S00001918,C001166,2025-07-26,Card support,True,Resolved,2.3
+S00001919,C001166,2025-01-16,Account inquiry,False,Resolved,0.6
+S00001920,C001168,2025-05-03,Payments,True,Resolved,1.6
+S00001921,C001170,2025-05-29,Digital access,False,Unknown,2.5
+S00001922,C001170,2025-07-14,Loan service,False,Resolved,3.4
+S00001923,C001170,2025-07-13,Digital access,True,Resolved,10.3
+S00001924,C001170,2025-04-08,Digital access,False,Pending,2.6
+S00001925,C001171,2025-01-18,Account inquiry,False,Resolved,3.3
+S00001926,C001171,2025-09-07,Account inquiry,False,Resolved,4.2
+S00001927,C001172,2025-11-06,Card support,True,Escalated,1.2
+S00001928,C001172,2025-01-29,Payments,False,Resolved,3.0
+S00001929,C001172,2025-06-19,Card support,False,Resolved,1.9
+S00001930,C001173,2025-05-26,Payments,False,Resolved,6.8
+S00001931,C001173,2025-08-16,Account inquiry,False,Resolved,3.6
+S00001932,C001174,2025-03-10,Loan service,False,Escalated,3.7
+S00001933,C001174,2025-12-21,Digital access,True,Resolved,12.9
+S00001934,C001174,2025-10-08,Card support,True,Resolved,3.8
+S00001935,C001175,2025-07-09,Loan service,True,Resolved,0.4
+S00001936,C001175,2025-02-27,Account inquiry,True,Escalated,3.0
+S00001937,C001175,2025-10-11,Card support,True,Resolved,2.2
+S00001938,C001175,2025-02-13,Digital access,False,Pending,1.1
+S00001939,C001176,2025-04-23,Loan service,False,Resolved,7.9
+S00001940,C001177,2025-12-06,Payments,False,Resolved,6.5
+S00001941,C001177,2025-08-21,Account inquiry,True,Resolved,3.2
+S00001942,C001177,2025-05-04,Payments,False,Unknown,2.5
+S00001943,C001177,2025-11-26,Account inquiry,True,Resolved,3.4
+S00001944,C001178,2025-05-22,Digital access,True,Pending,5.3
+S00001945,C001178,2025-07-23,Payments,False,Resolved,3.0
+S00001946,C001180,2025-11-17,Payments,False,Resolved,1.9
+S00001947,C001180,2025-11-10,Card support,True,Resolved,5.6
+S00001948,C001181,2025-07-14,Loan service,False,Resolved,3.4
+S00001949,C001181,2025-06-21,Loan service,False,Resolved,1.6
+S00001950,C001182,2025-01-28,Payments,False,Resolved,3.0
+S00001951,C001182,2025-03-02,Loan service,False,Pending,2.5
+S00001952,C001182,2025-11-17,Card support,False,Resolved,0.9
+S00001953,C001184,2025-05-14,Digital access,False,Resolved,7.2
+S00001954,C001185,2025-12-16,Digital access,False,Resolved,5.2
+S00001955,C001186,2025-08-10,Payments,False,Resolved,3.0
+S00001956,C001187,2025-10-25,Digital access,False,Resolved,3.0
+S00001957,C001187,2025-06-06,Payments,False,Resolved,3.1
+S00001958,C001189,2025-08-13,Card support,False,Resolved,1.6
+S00001959,C001189,2025-01-06,Account inquiry,False,Pending,4.0
+S00001960,C001190,2025-03-12,Payments,False,Pending,3.2
+S00001961,C001190,2025-03-27,Card support,False,Resolved,0.5
+S00001962,C001191,2025-08-20,Account inquiry,False,Resolved,3.0
+S00001963,C001193,2025-09-14,Loan service,False,Resolved,5.3
+S00001964,C001193,2025-11-18,Account inquiry,False,Resolved,2.2
+S00001965,C001194,2025-08-25,Digital access,False,Resolved,5.8
+S00001966,C001194,2025-07-06,Account inquiry,False,Resolved,3.0
+S00001967,C001195,2025-07-22,Card support,True,Resolved,3.0
+S00001968,C001196,2025-04-20,Digital access,True,Escalated,0.5
+S00001969,C001198,2025-11-26,Digital access,True,Resolved,3.9
+S00001970,C001199,2025-06-29,Payments,False,Resolved,1.6
+S00001971,C001200,2025-02-23,Loan service,False,Resolved,1.4

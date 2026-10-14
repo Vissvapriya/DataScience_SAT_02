@@ -1,0 +1,901 @@
+customer_id,actual_segment,predicted_segment,model
+C000782,High,High,DummyClassifier
+C000902,High,High,DummyClassifier
+C000561,High,High,DummyClassifier
+C000775,Low,High,DummyClassifier
+C000395,High,High,DummyClassifier
+C000071,Medium,High,DummyClassifier
+C000386,Low,High,DummyClassifier
+C000153,Medium,High,DummyClassifier
+C000774,High,High,DummyClassifier
+C000688,Medium,High,DummyClassifier
+C000119,High,High,DummyClassifier
+C001074,Medium,High,DummyClassifier
+C000759,High,High,DummyClassifier
+C000458,Low,High,DummyClassifier
+C000744,High,High,DummyClassifier
+C001108,Low,High,DummyClassifier
+C000369,High,High,DummyClassifier
+C000326,Low,High,DummyClassifier
+C000069,Low,High,DummyClassifier
+C000124,Medium,High,DummyClassifier
+C000860,Medium,High,DummyClassifier
+C001182,High,High,DummyClassifier
+C000239,Low,High,DummyClassifier
+C000237,Medium,High,DummyClassifier
+C000599,Low,High,DummyClassifier
+C000191,High,High,DummyClassifier
+C001148,Low,High,DummyClassifier
+C000175,High,High,DummyClassifier
+C000180,Medium,High,DummyClassifier
+C000527,High,High,DummyClassifier
+C000824,High,High,DummyClassifier
+C000575,High,High,DummyClassifier
+C000912,Medium,High,DummyClassifier
+C000050,High,High,DummyClassifier
+C000340,Low,High,DummyClassifier
+C001043,Medium,High,DummyClassifier
+C001179,High,High,DummyClassifier
+C000043,Medium,High,DummyClassifier
+C001138,High,High,DummyClassifier
+C000579,High,High,DummyClassifier
+C001163,Medium,High,DummyClassifier
+C000915,Low,High,DummyClassifier
+C001071,Medium,High,DummyClassifier
+C000292,Low,High,DummyClassifier
+C000717,Medium,High,DummyClassifier
+C000405,Medium,High,DummyClassifier
+C000852,High,High,DummyClassifier
+C000156,Low,High,DummyClassifier
+C001012,High,High,DummyClassifier
+C001160,Medium,High,DummyClassifier
+C000362,High,High,DummyClassifier
+C000734,Low,High,DummyClassifier
+C000805,Low,High,DummyClassifier
+C001197,High,High,DummyClassifier
+C001046,Low,High,DummyClassifier
+C000250,Medium,High,DummyClassifier
+C001062,Medium,High,DummyClassifier
+C000701,High,High,DummyClassifier
+C000246,High,High,DummyClassifier
+C000466,Medium,High,DummyClassifier
+C001154,Low,High,DummyClassifier
+C000078,Medium,High,DummyClassifier
+C000992,High,High,DummyClassifier
+C001009,High,High,DummyClassifier
+C000756,Medium,High,DummyClassifier
+C000293,Medium,High,DummyClassifier
+C000286,Medium,High,DummyClassifier
+C000650,Low,High,DummyClassifier
+C000696,Low,High,DummyClassifier
+C001077,Medium,High,DummyClassifier
+C000016,Medium,High,DummyClassifier
+C000943,Medium,High,DummyClassifier
+C001095,Low,High,DummyClassifier
+C000365,High,High,DummyClassifier
+C001098,Medium,High,DummyClassifier
+C000355,Medium,High,DummyClassifier
+C000416,Medium,High,DummyClassifier
+C001103,High,High,DummyClassifier
+C000877,Medium,High,DummyClassifier
+C000407,Medium,High,DummyClassifier
+C000735,Low,High,DummyClassifier
+C000914,High,High,DummyClassifier
+C000225,Low,High,DummyClassifier
+C000705,Low,High,DummyClassifier
+C001057,Low,High,DummyClassifier
+C000936,Medium,High,DummyClassifier
+C001195,High,High,DummyClassifier
+C000474,Low,High,DummyClassifier
+C000037,Medium,High,DummyClassifier
+C001075,High,High,DummyClassifier
+C000002,High,High,DummyClassifier
+C000421,High,High,DummyClassifier
+C000764,Low,High,DummyClassifier
+C000529,High,High,DummyClassifier
+C000208,Low,High,DummyClassifier
+C000594,Medium,High,DummyClassifier
+C000899,High,High,DummyClassifier
+C000857,High,High,DummyClassifier
+C000844,Low,High,DummyClassifier
+C000318,Low,High,DummyClassifier
+C000800,Medium,High,DummyClassifier
+C000489,Low,High,DummyClassifier
+C000528,High,High,DummyClassifier
+C001090,Medium,High,DummyClassifier
+C000834,Low,High,DummyClassifier
+C001065,Low,High,DummyClassifier
+C000803,Low,High,DummyClassifier
+C000325,High,High,DummyClassifier
+C001069,High,High,DummyClassifier
+C000833,Low,High,DummyClassifier
+C000937,Medium,High,DummyClassifier
+C000588,Medium,High,DummyClassifier
+C000983,Medium,High,DummyClassifier
+C000152,Medium,High,DummyClassifier
+C000142,Low,High,DummyClassifier
+C000220,Medium,High,DummyClassifier
+C000987,Medium,High,DummyClassifier
+C000797,High,High,DummyClassifier
+C000584,Medium,High,DummyClassifier
+C000603,High,High,DummyClassifier
+C000040,Low,High,DummyClassifier
+C000740,Low,High,DummyClassifier
+C000012,Medium,High,DummyClassifier
+C000137,High,High,DummyClassifier
+C001152,Medium,High,DummyClassifier
+C001002,High,High,DummyClassifier
+C000959,High,High,DummyClassifier
+C000678,Medium,High,DummyClassifier
+C001045,Medium,High,DummyClassifier
+C000107,High,High,DummyClassifier
+C001050,Low,High,DummyClassifier
+C000404,Low,High,DummyClassifier
+C000723,Medium,High,DummyClassifier
+C000197,Low,High,DummyClassifier
+C000015,Low,High,DummyClassifier
+C000423,High,High,DummyClassifier
+C000777,High,High,DummyClassifier
+C000170,Low,High,DummyClassifier
+C000681,Low,High,DummyClassifier
+C000921,Low,High,DummyClassifier
+C001191,Medium,High,DummyClassifier
+C001016,Medium,High,DummyClassifier
+C001042,High,High,DummyClassifier
+C001101,High,High,DummyClassifier
+C000893,High,High,DummyClassifier
+C000451,Low,High,DummyClassifier
+C000228,High,High,DummyClassifier
+C000330,Low,High,DummyClassifier
+C000923,Medium,High,DummyClassifier
+C000025,High,High,DummyClassifier
+C000794,Low,High,DummyClassifier
+C000627,Medium,High,DummyClassifier
+C000148,High,High,DummyClassifier
+C000661,Low,High,DummyClassifier
+C000398,Medium,High,DummyClassifier
+C000041,Medium,High,DummyClassifier
+C000104,High,High,DummyClassifier
+C000117,High,High,DummyClassifier
+C000073,Medium,High,DummyClassifier
+C001113,Low,High,DummyClassifier
+C000554,Medium,High,DummyClassifier
+C000726,High,High,DummyClassifier
+C000753,Low,High,DummyClassifier
+C000272,Medium,High,DummyClassifier
+C000294,High,High,DummyClassifier
+C001190,Medium,High,DummyClassifier
+C000535,Low,High,DummyClassifier
+C000367,Low,High,DummyClassifier
+C000605,High,High,DummyClassifier
+C000486,Low,High,DummyClassifier
+C000505,Low,High,DummyClassifier
+C000652,Medium,High,DummyClassifier
+C000045,Medium,High,DummyClassifier
+C000128,High,High,DummyClassifier
+C000725,High,High,DummyClassifier
+C000945,Low,High,DummyClassifier
+C000193,Medium,High,DummyClassifier
+C000502,Medium,High,DummyClassifier
+C000878,Medium,High,DummyClassifier
+C000085,High,High,DummyClassifier
+C000523,High,High,DummyClassifier
+C000853,Medium,High,DummyClassifier
+C000132,Medium,High,DummyClassifier
+C000761,Medium,High,DummyClassifier
+C000746,High,High,DummyClassifier
+C000472,High,High,DummyClassifier
+C000432,Medium,High,DummyClassifier
+C000492,Medium,High,DummyClassifier
+C000449,Low,High,DummyClassifier
+C000733,Medium,High,DummyClassifier
+C000531,High,High,DummyClassifier
+C000300,Low,High,DummyClassifier
+C000033,High,High,DummyClassifier
+C000308,Low,High,DummyClassifier
+C000003,Low,High,DummyClassifier
+C000555,Low,High,DummyClassifier
+C000370,Medium,High,DummyClassifier
+C000946,Low,High,DummyClassifier
+C001175,Medium,High,DummyClassifier
+C001049,Low,High,DummyClassifier
+C000816,Medium,High,DummyClassifier
+C000864,Low,High,DummyClassifier
+C000151,Medium,High,DummyClassifier
+C000007,Medium,High,DummyClassifier
+C000819,Low,High,DummyClassifier
+C000143,High,High,DummyClassifier
+C001106,Low,High,DummyClassifier
+C000641,Medium,High,DummyClassifier
+C000379,Low,High,DummyClassifier
+C000258,Low,High,DummyClassifier
+C000004,Medium,High,DummyClassifier
+C000217,High,High,DummyClassifier
+C000961,Medium,High,DummyClassifier
+C000390,Low,High,DummyClassifier
+C000933,High,High,DummyClassifier
+C000269,High,High,DummyClassifier
+C000682,High,High,DummyClassifier
+C000975,Medium,High,DummyClassifier
+C000032,High,High,DummyClassifier
+C000460,High,High,DummyClassifier
+C000131,High,High,DummyClassifier
+C000597,High,High,DummyClassifier
+C000788,Medium,High,DummyClassifier
+C000699,High,High,DummyClassifier
+C000414,Medium,High,DummyClassifier
+C000582,Low,High,DummyClassifier
+C000679,High,High,DummyClassifier
+C000357,Low,High,DummyClassifier
+C000954,Low,High,DummyClassifier
+C000663,Low,High,DummyClassifier
+C000537,Low,High,DummyClassifier
+C000613,Medium,High,DummyClassifier
+C000881,High,High,DummyClassifier
+C000944,High,High,DummyClassifier
+C000157,High,High,DummyClassifier
+C001072,High,High,DummyClassifier
+C000702,Low,High,DummyClassifier
+C000855,Medium,High,DummyClassifier
+C001030,Medium,High,DummyClassifier
+C001170,Medium,High,DummyClassifier
+C000674,Medium,High,DummyClassifier
+C000830,Low,High,DummyClassifier
+C001128,Low,High,DummyClassifier
+C000515,Medium,High,DummyClassifier
+C001091,Low,High,DummyClassifier
+C001008,High,High,DummyClassifier
+C000763,Medium,High,DummyClassifier
+C000206,Low,High,DummyClassifier
+C000980,Low,High,DummyClassifier
+C001038,Low,High,DummyClassifier
+C000091,Low,High,DummyClassifier
+C000439,High,High,DummyClassifier
+C000338,High,High,DummyClassifier
+C001088,Low,High,DummyClassifier
+C000021,Low,High,DummyClassifier
+C000350,High,High,DummyClassifier
+C000281,High,High,DummyClassifier
+C000376,Medium,High,DummyClassifier
+C001005,High,High,DummyClassifier
+C000389,Low,High,DummyClassifier
+C000118,High,High,DummyClassifier
+C000052,High,High,DummyClassifier
+C000493,Low,High,DummyClassifier
+C000097,Medium,High,DummyClassifier
+C000965,High,High,DummyClassifier
+C000863,Low,High,DummyClassifier
+C000789,High,High,DummyClassifier
+C000427,High,High,DummyClassifier
+C000477,Low,High,DummyClassifier
+C000360,Low,High,DummyClassifier
+C000536,Low,High,DummyClassifier
+C000280,Low,High,DummyClassifier
+C000616,Low,High,DummyClassifier
+C000288,Low,High,DummyClassifier
+C000578,Medium,High,DummyClassifier
+C000174,Low,High,DummyClassifier
+C000885,High,High,DummyClassifier
+C000219,High,High,DummyClassifier
+C000010,Medium,High,DummyClassifier
+C000655,Low,High,DummyClassifier
+C000161,Medium,High,DummyClassifier
+C001140,Medium,High,DummyClassifier
+C000918,High,High,DummyClassifier
+C000671,Medium,High,DummyClassifier
+C000287,Medium,High,DummyClassifier
+C000995,Low,High,DummyClassifier
+C001126,Medium,High,DummyClassifier
+C000123,Low,High,DummyClassifier
+C000592,High,High,DummyClassifier
+C000757,High,High,DummyClassifier
+C000065,Medium,High,DummyClassifier
+C001032,Medium,High,DummyClassifier
+C000317,Low,High,DummyClassifier
+C000415,High,High,DummyClassifier
+C000566,Low,High,DummyClassifier
+C000809,Low,High,DummyClassifier
+C001076,Medium,High,DummyClassifier
+C000762,Low,High,DummyClassifier
+C000503,Medium,High,DummyClassifier
+C000399,High,High,DummyClassifier
+C000782,High,High,Logistic Regression
+C000902,High,High,Logistic Regression
+C000561,High,High,Logistic Regression
+C000775,Low,Medium,Logistic Regression
+C000395,High,High,Logistic Regression
+C000071,Medium,Low,Logistic Regression
+C000386,Low,Low,Logistic Regression
+C000153,Medium,Low,Logistic Regression
+C000774,High,High,Logistic Regression
+C000688,Medium,Medium,Logistic Regression
+C000119,High,High,Logistic Regression
+C001074,Medium,Medium,Logistic Regression
+C000759,High,High,Logistic Regression
+C000458,Low,Low,Logistic Regression
+C000744,High,High,Logistic Regression
+C001108,Low,Medium,Logistic Regression
+C000369,High,Medium,Logistic Regression
+C000326,Low,Low,Logistic Regression
+C000069,Low,Low,Logistic Regression
+C000124,Medium,Medium,Logistic Regression
+C000860,Medium,Medium,Logistic Regression
+C001182,High,High,Logistic Regression
+C000239,Low,Low,Logistic Regression
+C000237,Medium,Medium,Logistic Regression
+C000599,Low,Low,Logistic Regression
+C000191,High,High,Logistic Regression
+C001148,Low,Medium,Logistic Regression
+C000175,High,High,Logistic Regression
+C000180,Medium,Medium,Logistic Regression
+C000527,High,Medium,Logistic Regression
+C000824,High,High,Logistic Regression
+C000575,High,High,Logistic Regression
+C000912,Medium,Medium,Logistic Regression
+C000050,High,Medium,Logistic Regression
+C000340,Low,Medium,Logistic Regression
+C001043,Medium,Medium,Logistic Regression
+C001179,High,Medium,Logistic Regression
+C000043,Medium,Medium,Logistic Regression
+C001138,High,High,Logistic Regression
+C000579,High,High,Logistic Regression
+C001163,Medium,Medium,Logistic Regression
+C000915,Low,Low,Logistic Regression
+C001071,Medium,Medium,Logistic Regression
+C000292,Low,Low,Logistic Regression
+C000717,Medium,Low,Logistic Regression
+C000405,Medium,Medium,Logistic Regression
+C000852,High,High,Logistic Regression
+C000156,Low,Low,Logistic Regression
+C001012,High,Medium,Logistic Regression
+C001160,Medium,Medium,Logistic Regression
+C000362,High,High,Logistic Regression
+C000734,Low,Low,Logistic Regression
+C000805,Low,Low,Logistic Regression
+C001197,High,Medium,Logistic Regression
+C001046,Low,Low,Logistic Regression
+C000250,Medium,Medium,Logistic Regression
+C001062,Medium,Medium,Logistic Regression
+C000701,High,High,Logistic Regression
+C000246,High,High,Logistic Regression
+C000466,Medium,High,Logistic Regression
+C001154,Low,Low,Logistic Regression
+C000078,Medium,Low,Logistic Regression
+C000992,High,High,Logistic Regression
+C001009,High,High,Logistic Regression
+C000756,Medium,Medium,Logistic Regression
+C000293,Medium,Low,Logistic Regression
+C000286,Medium,High,Logistic Regression
+C000650,Low,Low,Logistic Regression
+C000696,Low,Low,Logistic Regression
+C001077,Medium,High,Logistic Regression
+C000016,Medium,Medium,Logistic Regression
+C000943,Medium,Low,Logistic Regression
+C001095,Low,Low,Logistic Regression
+C000365,High,High,Logistic Regression
+C001098,Medium,Low,Logistic Regression
+C000355,Medium,High,Logistic Regression
+C000416,Medium,Medium,Logistic Regression
+C001103,High,High,Logistic Regression
+C000877,Medium,Low,Logistic Regression
+C000407,Medium,Medium,Logistic Regression
+C000735,Low,Low,Logistic Regression
+C000914,High,Medium,Logistic Regression
+C000225,Low,Medium,Logistic Regression
+C000705,Low,Low,Logistic Regression
+C001057,Low,Low,Logistic Regression
+C000936,Medium,High,Logistic Regression
+C001195,High,Medium,Logistic Regression
+C000474,Low,Medium,Logistic Regression
+C000037,Medium,Medium,Logistic Regression
+C001075,High,High,Logistic Regression
+C000002,High,Medium,Logistic Regression
+C000421,High,Medium,Logistic Regression
+C000764,Low,Low,Logistic Regression
+C000529,High,High,Logistic Regression
+C000208,Low,Low,Logistic Regression
+C000594,Medium,Medium,Logistic Regression
+C000899,High,High,Logistic Regression
+C000857,High,High,Logistic Regression
+C000844,Low,Low,Logistic Regression
+C000318,Low,Low,Logistic Regression
+C000800,Medium,Medium,Logistic Regression
+C000489,Low,Low,Logistic Regression
+C000528,High,High,Logistic Regression
+C001090,Medium,Medium,Logistic Regression
+C000834,Low,Low,Logistic Regression
+C001065,Low,Low,Logistic Regression
+C000803,Low,Low,Logistic Regression
+C000325,High,High,Logistic Regression
+C001069,High,Medium,Logistic Regression
+C000833,Low,Low,Logistic Regression
+C000937,Medium,Low,Logistic Regression
+C000588,Medium,Medium,Logistic Regression
+C000983,Medium,Low,Logistic Regression
+C000152,Medium,Low,Logistic Regression
+C000142,Low,Low,Logistic Regression
+C000220,Medium,Medium,Logistic Regression
+C000987,Medium,Medium,Logistic Regression
+C000797,High,High,Logistic Regression
+C000584,Medium,Medium,Logistic Regression
+C000603,High,High,Logistic Regression
+C000040,Low,Low,Logistic Regression
+C000740,Low,Medium,Logistic Regression
+C000012,Medium,High,Logistic Regression
+C000137,High,High,Logistic Regression
+C001152,Medium,Low,Logistic Regression
+C001002,High,High,Logistic Regression
+C000959,High,High,Logistic Regression
+C000678,Medium,Low,Logistic Regression
+C001045,Medium,Low,Logistic Regression
+C000107,High,High,Logistic Regression
+C001050,Low,Low,Logistic Regression
+C000404,Low,Low,Logistic Regression
+C000723,Medium,Low,Logistic Regression
+C000197,Low,Low,Logistic Regression
+C000015,Low,Low,Logistic Regression
+C000423,High,High,Logistic Regression
+C000777,High,High,Logistic Regression
+C000170,Low,Low,Logistic Regression
+C000681,Low,Low,Logistic Regression
+C000921,Low,Low,Logistic Regression
+C001191,Medium,Medium,Logistic Regression
+C001016,Medium,Medium,Logistic Regression
+C001042,High,Medium,Logistic Regression
+C001101,High,Medium,Logistic Regression
+C000893,High,High,Logistic Regression
+C000451,Low,Low,Logistic Regression
+C000228,High,High,Logistic Regression
+C000330,Low,Low,Logistic Regression
+C000923,Medium,Low,Logistic Regression
+C000025,High,High,Logistic Regression
+C000794,Low,Low,Logistic Regression
+C000627,Medium,Medium,Logistic Regression
+C000148,High,High,Logistic Regression
+C000661,Low,Low,Logistic Regression
+C000398,Medium,Low,Logistic Regression
+C000041,Medium,Medium,Logistic Regression
+C000104,High,High,Logistic Regression
+C000117,High,High,Logistic Regression
+C000073,Medium,High,Logistic Regression
+C001113,Low,Low,Logistic Regression
+C000554,Medium,High,Logistic Regression
+C000726,High,High,Logistic Regression
+C000753,Low,Low,Logistic Regression
+C000272,Medium,Low,Logistic Regression
+C000294,High,Medium,Logistic Regression
+C001190,Medium,High,Logistic Regression
+C000535,Low,Low,Logistic Regression
+C000367,Low,Medium,Logistic Regression
+C000605,High,High,Logistic Regression
+C000486,Low,Low,Logistic Regression
+C000505,Low,Low,Logistic Regression
+C000652,Medium,Medium,Logistic Regression
+C000045,Medium,Medium,Logistic Regression
+C000128,High,High,Logistic Regression
+C000725,High,High,Logistic Regression
+C000945,Low,Low,Logistic Regression
+C000193,Medium,Medium,Logistic Regression
+C000502,Medium,Medium,Logistic Regression
+C000878,Medium,Low,Logistic Regression
+C000085,High,Medium,Logistic Regression
+C000523,High,High,Logistic Regression
+C000853,Medium,High,Logistic Regression
+C000132,Medium,Medium,Logistic Regression
+C000761,Medium,Low,Logistic Regression
+C000746,High,Medium,Logistic Regression
+C000472,High,High,Logistic Regression
+C000432,Medium,Low,Logistic Regression
+C000492,Medium,Medium,Logistic Regression
+C000449,Low,Medium,Logistic Regression
+C000733,Medium,Medium,Logistic Regression
+C000531,High,High,Logistic Regression
+C000300,Low,Low,Logistic Regression
+C000033,High,High,Logistic Regression
+C000308,Low,Low,Logistic Regression
+C000003,Low,Medium,Logistic Regression
+C000555,Low,Low,Logistic Regression
+C000370,Medium,Medium,Logistic Regression
+C000946,Low,Low,Logistic Regression
+C001175,Medium,High,Logistic Regression
+C001049,Low,Medium,Logistic Regression
+C000816,Medium,Medium,Logistic Regression
+C000864,Low,Low,Logistic Regression
+C000151,Medium,High,Logistic Regression
+C000007,Medium,Medium,Logistic Regression
+C000819,Low,Low,Logistic Regression
+C000143,High,Medium,Logistic Regression
+C001106,Low,Low,Logistic Regression
+C000641,Medium,Medium,Logistic Regression
+C000379,Low,Low,Logistic Regression
+C000258,Low,Low,Logistic Regression
+C000004,Medium,Medium,Logistic Regression
+C000217,High,High,Logistic Regression
+C000961,Medium,Medium,Logistic Regression
+C000390,Low,Low,Logistic Regression
+C000933,High,High,Logistic Regression
+C000269,High,High,Logistic Regression
+C000682,High,Medium,Logistic Regression
+C000975,Medium,High,Logistic Regression
+C000032,High,Medium,Logistic Regression
+C000460,High,High,Logistic Regression
+C000131,High,High,Logistic Regression
+C000597,High,Medium,Logistic Regression
+C000788,Medium,Medium,Logistic Regression
+C000699,High,High,Logistic Regression
+C000414,Medium,Low,Logistic Regression
+C000582,Low,Low,Logistic Regression
+C000679,High,Medium,Logistic Regression
+C000357,Low,Low,Logistic Regression
+C000954,Low,Low,Logistic Regression
+C000663,Low,Low,Logistic Regression
+C000537,Low,Medium,Logistic Regression
+C000613,Medium,High,Logistic Regression
+C000881,High,Medium,Logistic Regression
+C000944,High,High,Logistic Regression
+C000157,High,High,Logistic Regression
+C001072,High,High,Logistic Regression
+C000702,Low,Low,Logistic Regression
+C000855,Medium,Medium,Logistic Regression
+C001030,Medium,High,Logistic Regression
+C001170,Medium,High,Logistic Regression
+C000674,Medium,High,Logistic Regression
+C000830,Low,Low,Logistic Regression
+C001128,Low,Low,Logistic Regression
+C000515,Medium,Medium,Logistic Regression
+C001091,Low,Low,Logistic Regression
+C001008,High,Medium,Logistic Regression
+C000763,Medium,Medium,Logistic Regression
+C000206,Low,Low,Logistic Regression
+C000980,Low,Low,Logistic Regression
+C001038,Low,Low,Logistic Regression
+C000091,Low,Low,Logistic Regression
+C000439,High,High,Logistic Regression
+C000338,High,High,Logistic Regression
+C001088,Low,Low,Logistic Regression
+C000021,Low,High,Logistic Regression
+C000350,High,High,Logistic Regression
+C000281,High,High,Logistic Regression
+C000376,Medium,Low,Logistic Regression
+C001005,High,Low,Logistic Regression
+C000389,Low,Low,Logistic Regression
+C000118,High,High,Logistic Regression
+C000052,High,Medium,Logistic Regression
+C000493,Low,Low,Logistic Regression
+C000097,Medium,Medium,Logistic Regression
+C000965,High,Medium,Logistic Regression
+C000863,Low,Low,Logistic Regression
+C000789,High,High,Logistic Regression
+C000427,High,High,Logistic Regression
+C000477,Low,Low,Logistic Regression
+C000360,Low,Low,Logistic Regression
+C000536,Low,Medium,Logistic Regression
+C000280,Low,Low,Logistic Regression
+C000616,Low,Low,Logistic Regression
+C000288,Low,Low,Logistic Regression
+C000578,Medium,Low,Logistic Regression
+C000174,Low,Low,Logistic Regression
+C000885,High,High,Logistic Regression
+C000219,High,High,Logistic Regression
+C000010,Medium,Low,Logistic Regression
+C000655,Low,Low,Logistic Regression
+C000161,Medium,Low,Logistic Regression
+C001140,Medium,High,Logistic Regression
+C000918,High,High,Logistic Regression
+C000671,Medium,Low,Logistic Regression
+C000287,Medium,Low,Logistic Regression
+C000995,Low,Low,Logistic Regression
+C001126,Medium,Low,Logistic Regression
+C000123,Low,Low,Logistic Regression
+C000592,High,High,Logistic Regression
+C000757,High,High,Logistic Regression
+C000065,Medium,High,Logistic Regression
+C001032,Medium,Medium,Logistic Regression
+C000317,Low,Low,Logistic Regression
+C000415,High,Medium,Logistic Regression
+C000566,Low,Low,Logistic Regression
+C000809,Low,Low,Logistic Regression
+C001076,Medium,Medium,Logistic Regression
+C000762,Low,Low,Logistic Regression
+C000503,Medium,Medium,Logistic Regression
+C000399,High,High,Logistic Regression
+C000782,High,High,Random Forest
+C000902,High,Medium,Random Forest
+C000561,High,High,Random Forest
+C000775,Low,Low,Random Forest
+C000395,High,High,Random Forest
+C000071,Medium,Low,Random Forest
+C000386,Low,Low,Random Forest
+C000153,Medium,Medium,Random Forest
+C000774,High,High,Random Forest
+C000688,Medium,Medium,Random Forest
+C000119,High,High,Random Forest
+C001074,Medium,Medium,Random Forest
+C000759,High,High,Random Forest
+C000458,Low,Low,Random Forest
+C000744,High,High,Random Forest
+C001108,Low,Medium,Random Forest
+C000369,High,Medium,Random Forest
+C000326,Low,Low,Random Forest
+C000069,Low,Low,Random Forest
+C000124,Medium,Low,Random Forest
+C000860,Medium,Medium,Random Forest
+C001182,High,High,Random Forest
+C000239,Low,Low,Random Forest
+C000237,Medium,Medium,Random Forest
+C000599,Low,Low,Random Forest
+C000191,High,High,Random Forest
+C001148,Low,Medium,Random Forest
+C000175,High,Medium,Random Forest
+C000180,Medium,Medium,Random Forest
+C000527,High,Medium,Random Forest
+C000824,High,High,Random Forest
+C000575,High,High,Random Forest
+C000912,Medium,Medium,Random Forest
+C000050,High,Medium,Random Forest
+C000340,Low,Medium,Random Forest
+C001043,Medium,Medium,Random Forest
+C001179,High,Medium,Random Forest
+C000043,Medium,Medium,Random Forest
+C001138,High,High,Random Forest
+C000579,High,Medium,Random Forest
+C001163,Medium,Medium,Random Forest
+C000915,Low,Low,Random Forest
+C001071,Medium,Low,Random Forest
+C000292,Low,Low,Random Forest
+C000717,Medium,Low,Random Forest
+C000405,Medium,Medium,Random Forest
+C000852,High,High,Random Forest
+C000156,Low,Low,Random Forest
+C001012,High,Medium,Random Forest
+C001160,Medium,Medium,Random Forest
+C000362,High,High,Random Forest
+C000734,Low,Low,Random Forest
+C000805,Low,Low,Random Forest
+C001197,High,High,Random Forest
+C001046,Low,Low,Random Forest
+C000250,Medium,Medium,Random Forest
+C001062,Medium,Medium,Random Forest
+C000701,High,High,Random Forest
+C000246,High,High,Random Forest
+C000466,Medium,Medium,Random Forest
+C001154,Low,Low,Random Forest
+C000078,Medium,Low,Random Forest
+C000992,High,Medium,Random Forest
+C001009,High,High,Random Forest
+C000756,Medium,Medium,Random Forest
+C000293,Medium,Low,Random Forest
+C000286,Medium,High,Random Forest
+C000650,Low,Low,Random Forest
+C000696,Low,Low,Random Forest
+C001077,Medium,High,Random Forest
+C000016,Medium,Medium,Random Forest
+C000943,Medium,Low,Random Forest
+C001095,Low,Low,Random Forest
+C000365,High,High,Random Forest
+C001098,Medium,Low,Random Forest
+C000355,Medium,High,Random Forest
+C000416,Medium,Medium,Random Forest
+C001103,High,High,Random Forest
+C000877,Medium,Medium,Random Forest
+C000407,Medium,Medium,Random Forest
+C000735,Low,Low,Random Forest
+C000914,High,Medium,Random Forest
+C000225,Low,Low,Random Forest
+C000705,Low,Low,Random Forest
+C001057,Low,Low,Random Forest
+C000936,Medium,High,Random Forest
+C001195,High,Medium,Random Forest
+C000474,Low,Medium,Random Forest
+C000037,Medium,Medium,Random Forest
+C001075,High,High,Random Forest
+C000002,High,Medium,Random Forest
+C000421,High,Medium,Random Forest
+C000764,Low,Low,Random Forest
+C000529,High,High,Random Forest
+C000208,Low,Low,Random Forest
+C000594,Medium,Medium,Random Forest
+C000899,High,High,Random Forest
+C000857,High,High,Random Forest
+C000844,Low,Low,Random Forest
+C000318,Low,Low,Random Forest
+C000800,Medium,Medium,Random Forest
+C000489,Low,Low,Random Forest
+C000528,High,High,Random Forest
+C001090,Medium,Medium,Random Forest
+C000834,Low,Low,Random Forest
+C001065,Low,Low,Random Forest
+C000803,Low,Low,Random Forest
+C000325,High,High,Random Forest
+C001069,High,Medium,Random Forest
+C000833,Low,Low,Random Forest
+C000937,Medium,Medium,Random Forest
+C000588,Medium,Medium,Random Forest
+C000983,Medium,Low,Random Forest
+C000152,Medium,Low,Random Forest
+C000142,Low,Low,Random Forest
+C000220,Medium,Medium,Random Forest
+C000987,Medium,Medium,Random Forest
+C000797,High,High,Random Forest
+C000584,Medium,Medium,Random Forest
+C000603,High,High,Random Forest
+C000040,Low,Low,Random Forest
+C000740,Low,Medium,Random Forest
+C000012,Medium,High,Random Forest
+C000137,High,High,Random Forest
+C001152,Medium,Low,Random Forest
+C001002,High,High,Random Forest
+C000959,High,High,Random Forest
+C000678,Medium,Low,Random Forest
+C001045,Medium,Medium,Random Forest
+C000107,High,High,Random Forest
+C001050,Low,Low,Random Forest
+C000404,Low,Low,Random Forest
+C000723,Medium,Low,Random Forest
+C000197,Low,Low,Random Forest
+C000015,Low,Low,Random Forest
+C000423,High,High,Random Forest
+C000777,High,Medium,Random Forest
+C000170,Low,Low,Random Forest
+C000681,Low,Low,Random Forest
+C000921,Low,Low,Random Forest
+C001191,Medium,Medium,Random Forest
+C001016,Medium,Medium,Random Forest
+C001042,High,Medium,Random Forest
+C001101,High,Medium,Random Forest
+C000893,High,High,Random Forest
+C000451,Low,Low,Random Forest
+C000228,High,High,Random Forest
+C000330,Low,Low,Random Forest
+C000923,Medium,Low,Random Forest
+C000025,High,High,Random Forest
+C000794,Low,Low,Random Forest
+C000627,Medium,Medium,Random Forest
+C000148,High,High,Random Forest
+C000661,Low,Low,Random Forest
+C000398,Medium,Low,Random Forest
+C000041,Medium,Low,Random Forest
+C000104,High,High,Random Forest
+C000117,High,High,Random Forest
+C000073,Medium,High,Random Forest
+C001113,Low,Low,Random Forest
+C000554,Medium,Medium,Random Forest
+C000726,High,High,Random Forest
+C000753,Low,Low,Random Forest
+C000272,Medium,Low,Random Forest
+C000294,High,Medium,Random Forest
+C001190,Medium,Medium,Random Forest
+C000535,Low,Low,Random Forest
+C000367,Low,Medium,Random Forest
+C000605,High,High,Random Forest
+C000486,Low,Low,Random Forest
+C000505,Low,Medium,Random Forest
+C000652,Medium,Medium,Random Forest
+C000045,Medium,Medium,Random Forest
+C000128,High,High,Random Forest
+C000725,High,High,Random Forest
+C000945,Low,Low,Random Forest
+C000193,Medium,Medium,Random Forest
+C000502,Medium,Medium,Random Forest
+C000878,Medium,Medium,Random Forest
+C000085,High,Medium,Random Forest
+C000523,High,High,Random Forest
+C000853,Medium,High,Random Forest
+C000132,Medium,Medium,Random Forest
+C000761,Medium,Low,Random Forest
+C000746,High,Medium,Random Forest
+C000472,High,Medium,Random Forest
+C000432,Medium,Low,Random Forest
+C000492,Medium,Medium,Random Forest
+C000449,Low,Medium,Random Forest
+C000733,Medium,Medium,Random Forest
+C000531,High,High,Random Forest
+C000300,Low,Low,Random Forest
+C000033,High,High,Random Forest
+C000308,Low,Low,Random Forest
+C000003,Low,Medium,Random Forest
+C000555,Low,Low,Random Forest
+C000370,Medium,Medium,Random Forest
+C000946,Low,Low,Random Forest
+C001175,Medium,High,Random Forest
+C001049,Low,Medium,Random Forest
+C000816,Medium,High,Random Forest
+C000864,Low,Low,Random Forest
+C000151,Medium,High,Random Forest
+C000007,Medium,High,Random Forest
+C000819,Low,Low,Random Forest
+C000143,High,Medium,Random Forest
+C001106,Low,Low,Random Forest
+C000641,Medium,Medium,Random Forest
+C000379,Low,Low,Random Forest
+C000258,Low,Low,Random Forest
+C000004,Medium,Medium,Random Forest
+C000217,High,High,Random Forest
+C000961,Medium,Medium,Random Forest
+C000390,Low,Low,Random Forest
+C000933,High,High,Random Forest
+C000269,High,High,Random Forest
+C000682,High,High,Random Forest
+C000975,Medium,High,Random Forest
+C000032,High,Medium,Random Forest
+C000460,High,High,Random Forest
+C000131,High,High,Random Forest
+C000597,High,Medium,Random Forest
+C000788,Medium,Low,Random Forest
+C000699,High,High,Random Forest
+C000414,Medium,Low,Random Forest
+C000582,Low,Low,Random Forest
+C000679,High,Medium,Random Forest
+C000357,Low,Low,Random Forest
+C000954,Low,Low,Random Forest
+C000663,Low,Low,Random Forest
+C000537,Low,Medium,Random Forest
+C000613,Medium,High,Random Forest
+C000881,High,Medium,Random Forest
+C000944,High,High,Random Forest
+C000157,High,High,Random Forest
+C001072,High,High,Random Forest
+C000702,Low,Low,Random Forest
+C000855,Medium,Medium,Random Forest
+C001030,Medium,High,Random Forest
+C001170,Medium,High,Random Forest
+C000674,Medium,High,Random Forest
+C000830,Low,Low,Random Forest
+C001128,Low,Low,Random Forest
+C000515,Medium,Medium,Random Forest
+C001091,Low,Low,Random Forest
+C001008,High,Medium,Random Forest
+C000763,Medium,Medium,Random Forest
+C000206,Low,Low,Random Forest
+C000980,Low,Low,Random Forest
+C001038,Low,Low,Random Forest
+C000091,Low,Low,Random Forest
+C000439,High,High,Random Forest
+C000338,High,Medium,Random Forest
+C001088,Low,Low,Random Forest
+C000021,Low,Medium,Random Forest
+C000350,High,High,Random Forest
+C000281,High,High,Random Forest
+C000376,Medium,Low,Random Forest
+C001005,High,Medium,Random Forest
+C000389,Low,Low,Random Forest
+C000118,High,High,Random Forest
+C000052,High,Medium,Random Forest
+C000493,Low,Low,Random Forest
+C000097,Medium,Medium,Random Forest
+C000965,High,Medium,Random Forest
+C000863,Low,Low,Random Forest
+C000789,High,High,Random Forest
+C000427,High,High,Random Forest
+C000477,Low,Low,Random Forest
+C000360,Low,Low,Random Forest
+C000536,Low,Medium,Random Forest
+C000280,Low,Low,Random Forest
+C000616,Low,Low,Random Forest
+C000288,Low,Low,Random Forest
+C000578,Medium,Low,Random Forest
+C000174,Low,Low,Random Forest
+C000885,High,High,Random Forest
+C000219,High,High,Random Forest
+C000010,Medium,Low,Random Forest
+C000655,Low,Low,Random Forest
+C000161,Medium,Low,Random Forest
+C001140,Medium,Medium,Random Forest
+C000918,High,High,Random Forest
+C000671,Medium,Low,Random Forest
+C000287,Medium,Low,Random Forest
+C000995,Low,Low,Random Forest
+C001126,Medium,Low,Random Forest
+C000123,Low,Low,Random Forest
+C000592,High,High,Random Forest
+C000757,High,High,Random Forest
+C000065,Medium,High,Random Forest
+C001032,Medium,Low,Random Forest
+C000317,Low,Low,Random Forest
+C000415,High,Medium,Random Forest
+C000566,Low,Low,Random Forest
+C000809,Low,Low,Random Forest
+C001076,Medium,Medium,Random Forest
+C000762,Low,Low,Random Forest
+C000503,Medium,Medium,Random Forest
+C000399,High,High,Random Forest

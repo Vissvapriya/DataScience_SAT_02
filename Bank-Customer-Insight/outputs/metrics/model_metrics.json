@@ -1,0 +1,211 @@
+{
+  "synthetic_data": true,
+  "target": "A simulated latent engagement propensity, divided at its 33rd and 67th percentiles into Low, Medium, and High. The latent value is excluded from all predictor features.",
+  "feature_names": [
+    "age_band",
+    "region",
+    "relationship_months",
+    "account_balance",
+    "account_count",
+    "transaction_count",
+    "complaint_count",
+    "service_request_count",
+    "branch_uses",
+    "atm_uses",
+    "mobile_uses",
+    "internet_uses",
+    "transaction_frequency_per_month"
+  ],
+  "categorical_features": [
+    "age_band",
+    "region"
+  ],
+  "numeric_features": [
+    "relationship_months",
+    "account_balance",
+    "account_count",
+    "transaction_count",
+    "complaint_count",
+    "service_request_count",
+    "branch_uses",
+    "atm_uses",
+    "mobile_uses",
+    "internet_uses",
+    "transaction_frequency_per_month"
+  ],
+  "training_records": 900,
+  "test_records": 300,
+  "test_size": 0.25,
+  "random_state": 42,
+  "class_order": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "models": {
+    "DummyClassifier": {
+      "accuracy": 0.3333333333333333,
+      "macro_f1": 0.16666666666666666,
+      "classification_report": {
+        "Low": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 100.0
+        },
+        "Medium": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 100.0
+        },
+        "High": {
+          "precision": 0.3333333333333333,
+          "recall": 1.0,
+          "f1-score": 0.5,
+          "support": 100.0
+        },
+        "accuracy": 0.3333333333333333,
+        "macro avg": {
+          "precision": 0.1111111111111111,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.16666666666666666,
+          "support": 300.0
+        },
+        "weighted avg": {
+          "precision": 0.11111111111111109,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.16666666666666666,
+          "support": 300.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          100
+        ],
+        [
+          0,
+          0,
+          100
+        ],
+        [
+          0,
+          0,
+          100
+        ]
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy": 0.7033333333333334,
+      "macro_f1": 0.6990918660117225,
+      "classification_report": {
+        "Low": {
+          "precision": 0.7413793103448276,
+          "recall": 0.86,
+          "f1-score": 0.7962962962962963,
+          "support": 100.0
+        },
+        "Medium": {
+          "precision": 0.5714285714285714,
+          "recall": 0.52,
+          "f1-score": 0.5445026178010471,
+          "support": 100.0
+        },
+        "High": {
+          "precision": 0.7849462365591398,
+          "recall": 0.73,
+          "f1-score": 0.7564766839378239,
+          "support": 100.0
+        },
+        "accuracy": 0.7033333333333334,
+        "macro avg": {
+          "precision": 0.6992513727775128,
+          "recall": 0.7033333333333333,
+          "f1-score": 0.6990918660117225,
+          "support": 300.0
+        },
+        "weighted avg": {
+          "precision": 0.6992513727775129,
+          "recall": 0.7033333333333334,
+          "f1-score": 0.6990918660117225,
+          "support": 300.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          86,
+          13,
+          1
+        ],
+        [
+          29,
+          52,
+          19
+        ],
+        [
+          1,
+          26,
+          73
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.6966666666666667,
+      "macro_f1": 0.6944680861766289,
+      "classification_report": {
+        "Low": {
+          "precision": 0.75,
+          "recall": 0.87,
+          "f1-score": 0.8055555555555556,
+          "support": 100.0
+        },
+        "Medium": {
+          "precision": 0.5454545454545454,
+          "recall": 0.54,
+          "f1-score": 0.542713567839196,
+          "support": 100.0
+        },
+        "High": {
+          "precision": 0.8,
+          "recall": 0.68,
+          "f1-score": 0.7351351351351352,
+          "support": 100.0
+        },
+        "accuracy": 0.6966666666666667,
+        "macro avg": {
+          "precision": 0.6984848484848486,
+          "recall": 0.6966666666666668,
+          "f1-score": 0.6944680861766289,
+          "support": 300.0
+        },
+        "weighted avg": {
+          "precision": 0.6984848484848485,
+          "recall": 0.6966666666666667,
+          "f1-score": 0.6944680861766289,
+          "support": 300.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          87,
+          13,
+          0
+        ],
+        [
+          29,
+          54,
+          17
+        ],
+        [
+          0,
+          32,
+          68
+        ]
+      ]
+    }
+  },
+  "selected_model": "Logistic Regression",
+  "selection_reason": "Highest test macro F1-score (tie-breaker: accuracy), prioritizing balanced performance across the three engagement classes over the majority-class baseline."
+}

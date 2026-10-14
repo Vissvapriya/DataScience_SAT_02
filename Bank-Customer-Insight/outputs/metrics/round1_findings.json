@@ -1,0 +1,396 @@
+{
+  "synthetic_data": true,
+  "seed": 20261013,
+  "source_record_counts": {
+    "customers": 1200,
+    "accounts": 1907,
+    "transactions": 48169,
+    "channels": 1200,
+    "service": 1971
+  },
+  "duplicate_transaction_rows_removed": 476,
+  "transaction_amount_iqr_bounds": {
+    "lower": 0.0,
+    "upper": 279.81000000000006
+  },
+  "transaction_amount_outliers_flagged_and_capped": 3655,
+  "missing_channel_values_filled": 277,
+  "channel_totals": {
+    "mobile": 5286,
+    "atm": 4312,
+    "internet": 3255,
+    "branch": 2963
+  },
+  "top_channel": "mobile",
+  "top_channel_uses": 5286,
+  "channel_average_uses_by_age_band": {
+    "18-29": {
+      "branch_uses": 2.29,
+      "atm_uses": 3.46,
+      "mobile_uses": 6.31,
+      "internet_uses": 3.99
+    },
+    "30-44": {
+      "branch_uses": 2.54,
+      "atm_uses": 3.39,
+      "mobile_uses": 5.23,
+      "internet_uses": 3.13
+    },
+    "45-59": {
+      "branch_uses": 2.36,
+      "atm_uses": 3.77,
+      "mobile_uses": 3.52,
+      "internet_uses": 2.21
+    },
+    "60+": {
+      "branch_uses": 2.68,
+      "atm_uses": 3.84,
+      "mobile_uses": 2.16,
+      "internet_uses": 1.31
+    }
+  },
+  "account_activity_q1_q4": {
+    "Checking": {
+      "q1_transactions": 2957,
+      "q4_transactions": 3013,
+      "change_percent": 1.89
+    },
+    "Credit Card": {
+      "q1_transactions": 2658,
+      "q4_transactions": 3446,
+      "change_percent": 29.65
+    },
+    "Savings": {
+      "q1_transactions": 2578,
+      "q4_transactions": 2613,
+      "change_percent": 1.36
+    },
+    "Term Deposit": {
+      "q1_transactions": 3620,
+      "q4_transactions": 2860,
+      "change_percent": -20.99
+    }
+  },
+  "declining_account_types": [
+    "Term Deposit"
+  ],
+  "regional_complaint_counts": {
+    "North": 169,
+    "West": 158,
+    "South": 126,
+    "East": 100,
+    "Central": 91
+  },
+  "highest_complaint_region": "North",
+  "average_balance_by_engagement_segment": {
+    "Low": 14920.88,
+    "Medium": 16442.77,
+    "High": 18415.64
+  },
+  "repeated_requests_by_service_type": {
+    "Card support": 60,
+    "Payments": 60,
+    "Digital access": 54,
+    "Account inquiry": 47,
+    "Loan service": 32,
+    "Unspecified": 1
+  },
+  "most_repeated_service_type": "Card support",
+  "monthly_transaction_counts": {
+    "2025-01": 3823,
+    "2025-02": 4015,
+    "2025-03": 3975,
+    "2025-04": 3982,
+    "2025-05": 3965,
+    "2025-06": 4013,
+    "2025-07": 4038,
+    "2025-08": 4039,
+    "2025-09": 3911,
+    "2025-10": 3978,
+    "2025-11": 4028,
+    "2025-12": 3926
+  },
+  "data_quality": {
+    "before": {
+      "customers": {
+        "records": 1200,
+        "attributes": [
+          "customer_id",
+          "age_band",
+          "region",
+          "relationship_months"
+        ],
+        "attribute_count": 4,
+        "data_types": {
+          "customer_id": "object",
+          "age_band": "object",
+          "region": "object",
+          "relationship_months": "int64"
+        },
+        "missing_values": {
+          "customer_id": 0,
+          "age_band": 0,
+          "region": 0,
+          "relationship_months": 0
+        },
+        "missing_cells": 0,
+        "duplicate_rows": 0
+      },
+      "accounts": {
+        "records": 1907,
+        "attributes": [
+          "account_id",
+          "customer_id",
+          "account_type",
+          "balance"
+        ],
+        "attribute_count": 4,
+        "data_types": {
+          "account_id": "object",
+          "customer_id": "object",
+          "account_type": "object",
+          "balance": "float64"
+        },
+        "missing_values": {
+          "account_id": 0,
+          "customer_id": 0,
+          "account_type": 0,
+          "balance": 0
+        },
+        "missing_cells": 0,
+        "duplicate_rows": 0
+      },
+      "transactions": {
+        "records": 48169,
+        "attributes": [
+          "transaction_id",
+          "transaction_date",
+          "amount",
+          "transaction_type",
+          "account_id"
+        ],
+        "attribute_count": 5,
+        "data_types": {
+          "transaction_id": "object",
+          "transaction_date": "object",
+          "amount": "float64",
+          "transaction_type": "object",
+          "account_id": "object"
+        },
+        "missing_values": {
+          "transaction_id": 0,
+          "transaction_date": 0,
+          "amount": 0,
+          "transaction_type": 0,
+          "account_id": 0
+        },
+        "missing_cells": 0,
+        "duplicate_rows": 476
+      },
+      "channels": {
+        "records": 1200,
+        "attributes": [
+          "customer_id",
+          "branch_uses",
+          "atm_uses",
+          "mobile_uses",
+          "internet_uses"
+        ],
+        "attribute_count": 5,
+        "data_types": {
+          "customer_id": "object",
+          "branch_uses": "float64",
+          "atm_uses": "float64",
+          "mobile_uses": "float64",
+          "internet_uses": "float64"
+        },
+        "missing_values": {
+          "customer_id": 0,
+          "branch_uses": 61,
+          "atm_uses": 74,
+          "mobile_uses": 61,
+          "internet_uses": 81
+        },
+        "missing_cells": 277,
+        "duplicate_rows": 0
+      },
+      "service": {
+        "records": 1971,
+        "attributes": [
+          "service_id",
+          "customer_id",
+          "request_date",
+          "request_type",
+          "is_complaint",
+          "resolution_status",
+          "resolution_days"
+        ],
+        "attribute_count": 7,
+        "data_types": {
+          "service_id": "object",
+          "customer_id": "object",
+          "request_date": "object",
+          "request_type": "object",
+          "is_complaint": "bool",
+          "resolution_status": "object",
+          "resolution_days": "float64"
+        },
+        "missing_values": {
+          "service_id": 0,
+          "customer_id": 0,
+          "request_date": 0,
+          "request_type": 60,
+          "is_complaint": 0,
+          "resolution_status": 143,
+          "resolution_days": 167
+        },
+        "missing_cells": 370,
+        "duplicate_rows": 0
+      }
+    },
+    "after": {
+      "customers": {
+        "records": 1200,
+        "attributes": [
+          "customer_id",
+          "age_band",
+          "region",
+          "relationship_months"
+        ],
+        "attribute_count": 4,
+        "data_types": {
+          "customer_id": "object",
+          "age_band": "object",
+          "region": "object",
+          "relationship_months": "int64"
+        },
+        "missing_values": {
+          "customer_id": 0,
+          "age_band": 0,
+          "region": 0,
+          "relationship_months": 0
+        },
+        "missing_cells": 0,
+        "duplicate_rows": 0
+      },
+      "accounts": {
+        "records": 1907,
+        "attributes": [
+          "account_id",
+          "customer_id",
+          "account_type",
+          "balance"
+        ],
+        "attribute_count": 4,
+        "data_types": {
+          "account_id": "object",
+          "customer_id": "object",
+          "account_type": "object",
+          "balance": "float64"
+        },
+        "missing_values": {
+          "account_id": 0,
+          "customer_id": 0,
+          "account_type": 0,
+          "balance": 0
+        },
+        "missing_cells": 0,
+        "duplicate_rows": 0
+      },
+      "transactions": {
+        "records": 47693,
+        "attributes": [
+          "transaction_id",
+          "transaction_date",
+          "amount",
+          "transaction_type",
+          "account_id",
+          "amount_original",
+          "is_amount_outlier"
+        ],
+        "attribute_count": 7,
+        "data_types": {
+          "transaction_id": "object",
+          "transaction_date": "datetime64[ns]",
+          "amount": "float64",
+          "transaction_type": "object",
+          "account_id": "object",
+          "amount_original": "float64",
+          "is_amount_outlier": "bool"
+        },
+        "missing_values": {
+          "transaction_id": 0,
+          "transaction_date": 0,
+          "amount": 0,
+          "transaction_type": 0,
+          "account_id": 0,
+          "amount_original": 0,
+          "is_amount_outlier": 0
+        },
+        "missing_cells": 0,
+        "duplicate_rows": 0
+      },
+      "channels": {
+        "records": 1200,
+        "attributes": [
+          "customer_id",
+          "branch_uses",
+          "atm_uses",
+          "mobile_uses",
+          "internet_uses"
+        ],
+        "attribute_count": 5,
+        "data_types": {
+          "customer_id": "object",
+          "branch_uses": "int64",
+          "atm_uses": "int64",
+          "mobile_uses": "int64",
+          "internet_uses": "int64"
+        },
+        "missing_values": {
+          "customer_id": 0,
+          "branch_uses": 0,
+          "atm_uses": 0,
+          "mobile_uses": 0,
+          "internet_uses": 0
+        },
+        "missing_cells": 0,
+        "duplicate_rows": 0
+      },
+      "service": {
+        "records": 1971,
+        "attributes": [
+          "service_id",
+          "customer_id",
+          "request_date",
+          "request_type",
+          "is_complaint",
+          "resolution_status",
+          "resolution_days"
+        ],
+        "attribute_count": 7,
+        "data_types": {
+          "service_id": "object",
+          "customer_id": "object",
+          "request_date": "datetime64[ns]",
+          "request_type": "object",
+          "is_complaint": "bool",
+          "resolution_status": "object",
+          "resolution_days": "float64"
+        },
+        "missing_values": {
+          "service_id": 0,
+          "customer_id": 0,
+          "request_date": 0,
+          "request_type": 0,
+          "is_complaint": 0,
+          "resolution_status": 0,
+          "resolution_days": 0
+        },
+        "missing_cells": 0,
+        "duplicate_rows": 0
+      }
+    }
+  },
+  "synthetic_target_definition": "Low/Medium/High are tertiles of a simulated latent engagement propensity. The latent propensity influences transaction and digital-channel behavior, but is not included as a model feature."
+}

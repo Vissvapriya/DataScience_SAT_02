@@ -1,0 +1,283 @@
+{
+  "synthetic_data": true,
+  "before": {
+    "customers": {
+      "records": 1200,
+      "attributes": [
+        "customer_id",
+        "age_band",
+        "region",
+        "relationship_months"
+      ],
+      "attribute_count": 4,
+      "data_types": {
+        "customer_id": "object",
+        "age_band": "object",
+        "region": "object",
+        "relationship_months": "int64"
+      },
+      "missing_values": {
+        "customer_id": 0,
+        "age_band": 0,
+        "region": 0,
+        "relationship_months": 0
+      },
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    "accounts": {
+      "records": 1907,
+      "attributes": [
+        "account_id",
+        "customer_id",
+        "account_type",
+        "balance"
+      ],
+      "attribute_count": 4,
+      "data_types": {
+        "account_id": "object",
+        "customer_id": "object",
+        "account_type": "object",
+        "balance": "float64"
+      },
+      "missing_values": {
+        "account_id": 0,
+        "customer_id": 0,
+        "account_type": 0,
+        "balance": 0
+      },
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    "transactions": {
+      "records": 48169,
+      "attributes": [
+        "transaction_id",
+        "transaction_date",
+        "amount",
+        "transaction_type",
+        "account_id"
+      ],
+      "attribute_count": 5,
+      "data_types": {
+        "transaction_id": "object",
+        "transaction_date": "object",
+        "amount": "float64",
+        "transaction_type": "object",
+        "account_id": "object"
+      },
+      "missing_values": {
+        "transaction_id": 0,
+        "transaction_date": 0,
+        "amount": 0,
+        "transaction_type": 0,
+        "account_id": 0
+      },
+      "missing_cells": 0,
+      "duplicate_rows": 476
+    },
+    "channels": {
+      "records": 1200,
+      "attributes": [
+        "customer_id",
+        "branch_uses",
+        "atm_uses",
+        "mobile_uses",
+        "internet_uses"
+      ],
+      "attribute_count": 5,
+      "data_types": {
+        "customer_id": "object",
+        "branch_uses": "float64",
+        "atm_uses": "float64",
+        "mobile_uses": "float64",
+        "internet_uses": "float64"
+      },
+      "missing_values": {
+        "customer_id": 0,
+        "branch_uses": 61,
+        "atm_uses": 74,
+        "mobile_uses": 61,
+        "internet_uses": 81
+      },
+      "missing_cells": 277,
+      "duplicate_rows": 0
+    },
+    "service": {
+      "records": 1971,
+      "attributes": [
+        "service_id",
+        "customer_id",
+        "request_date",
+        "request_type",
+        "is_complaint",
+        "resolution_status",
+        "resolution_days"
+      ],
+      "attribute_count": 7,
+      "data_types": {
+        "service_id": "object",
+        "customer_id": "object",
+        "request_date": "object",
+        "request_type": "object",
+        "is_complaint": "bool",
+        "resolution_status": "object",
+        "resolution_days": "float64"
+      },
+      "missing_values": {
+        "service_id": 0,
+        "customer_id": 0,
+        "request_date": 0,
+        "request_type": 60,
+        "is_complaint": 0,
+        "resolution_status": 143,
+        "resolution_days": 167
+      },
+      "missing_cells": 370,
+      "duplicate_rows": 0
+    }
+  },
+  "after": {
+    "customers": {
+      "records": 1200,
+      "attributes": [
+        "customer_id",
+        "age_band",
+        "region",
+        "relationship_months"
+      ],
+      "attribute_count": 4,
+      "data_types": {
+        "customer_id": "object",
+        "age_band": "object",
+        "region": "object",
+        "relationship_months": "int64"
+      },
+      "missing_values": {
+        "customer_id": 0,
+        "age_band": 0,
+        "region": 0,
+        "relationship_months": 0
+      },
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    "accounts": {
+      "records": 1907,
+      "attributes": [
+        "account_id",
+        "customer_id",
+        "account_type",
+        "balance"
+      ],
+      "attribute_count": 4,
+      "data_types": {
+        "account_id": "object",
+        "customer_id": "object",
+        "account_type": "object",
+        "balance": "float64"
+      },
+      "missing_values": {
+        "account_id": 0,
+        "customer_id": 0,
+        "account_type": 0,
+        "balance": 0
+      },
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    "transactions": {
+      "records": 47693,
+      "attributes": [
+        "transaction_id",
+        "transaction_date",
+        "amount",
+        "transaction_type",
+        "account_id",
+        "amount_original",
+        "is_amount_outlier"
+      ],
+      "attribute_count": 7,
+      "data_types": {
+        "transaction_id": "object",
+        "transaction_date": "datetime64[ns]",
+        "amount": "float64",
+        "transaction_type": "object",
+        "account_id": "object",
+        "amount_original": "float64",
+        "is_amount_outlier": "bool"
+      },
+      "missing_values": {
+        "transaction_id": 0,
+        "transaction_date": 0,
+        "amount": 0,
+        "transaction_type": 0,
+        "account_id": 0,
+        "amount_original": 0,
+        "is_amount_outlier": 0
+      },
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    "channels": {
+      "records": 1200,
+      "attributes": [
+        "customer_id",
+        "branch_uses",
+        "atm_uses",
+        "mobile_uses",
+        "internet_uses"
+      ],
+      "attribute_count": 5,
+      "data_types": {
+        "customer_id": "object",
+        "branch_uses": "int64",
+        "atm_uses": "int64",
+        "mobile_uses": "int64",
+        "internet_uses": "int64"
+      },
+      "missing_values": {
+        "customer_id": 0,
+        "branch_uses": 0,
+        "atm_uses": 0,
+        "mobile_uses": 0,
+        "internet_uses": 0
+      },
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    },
+    "service": {
+      "records": 1971,
+      "attributes": [
+        "service_id",
+        "customer_id",
+        "request_date",
+        "request_type",
+        "is_complaint",
+        "resolution_status",
+        "resolution_days"
+      ],
+      "attribute_count": 7,
+      "data_types": {
+        "service_id": "object",
+        "customer_id": "object",
+        "request_date": "datetime64[ns]",
+        "request_type": "object",
+        "is_complaint": "bool",
+        "resolution_status": "object",
+        "resolution_days": "float64"
+      },
+      "missing_values": {
+        "service_id": 0,
+        "customer_id": 0,
+        "request_date": 0,
+        "request_type": 0,
+        "is_complaint": 0,
+        "resolution_status": 0,
+        "resolution_days": 0
+      },
+      "missing_cells": 0,
+      "duplicate_rows": 0
+    }
+  }
+}
